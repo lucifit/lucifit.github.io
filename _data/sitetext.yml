@@ -21,21 +21,27 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Deep Tissue Massage"
+        desc: "Massage therapy with sustained pressure over muscles and connective tissues in a slow-stroke rhythm. The term \"deep tissue\" 
+        refers to the stronger force used to reach deeper layers of muscle tissue, compared to traditional massage. It aims to lengthen, 
+        relax and release stiffening patterns within client's threshold of pain."
+        image: assets/img/portfolio/deep-tissue-massage.jpeg
+      - title: "Dry Needling"
+        desc: "Procedure where a small needle is inserted into the muscle, aiming to treat trigger points. Trigger points are muscular nodules 
+        that are palpable and tender. These nodules can cause pain on the surrounding area and to distant areas of the body, a phenomenon called 
+        \"referred pain\"."
+        image: assets/img/portfolio/dry-needling.jpeg
+      - title: "Percussive Massage Therapy"
+        desc: "Percussive massage therapy or vibration therapy uses specific tools (massage guns) that create a very short and fast vibratory 
+        movement on the applied muscle. Depending on the tissue applied in, the practitioner uses different massage gun heads and frequencies of
+        vibration to tailor the treatment."
+        image: assets/img/portfolio/percussive-massage-therapy.jpeg
 
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
