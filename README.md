@@ -14,28 +14,11 @@ There are three ways to install this theme:
 3. As a remote theme
 
 ## Development
-
-To set up your environment to develop this theme, clone this repo or your fork.
-
-```sh
-$ git clone https://github.com/raviriley/agency-jekyll-theme.git
-$ cd agency-jekyll-theme
+- Run the following command on the cli to run the server:
 ```
-
-Then run:
-
-```sh
-$ bundle install
+make
 ```
-
-To test the theme, run this. (Using the `--trace` flag for verbose errors.)
-
-```sh
-$ bundle exec jekyll serve --trace
+- To convert docx documents into markdown follow execute the following command in the cli:
 ```
-
-Then open your browser at:
-
-- http://localhost:4000
-
-Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
+pandoc "filename.docx" -f docx -t markdown -o "filename.md"
+```
