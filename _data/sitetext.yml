@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "Deep Tissue Massage"
@@ -37,47 +37,58 @@ en: &DEFAULT_EN
         vibration to tailor the treatment."
         image: assets/img/portfolio/percussive-massage-therapy.jpeg
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close"
-
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Over the years, I have completed several training courses and have had extensive experience in the fitness world. To name a few:"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Massage Therapist"
+        year: "2013"
+        desc: "I completed 2 courses in personal trainer and sports massage therapist."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Bodybuilding"
+        year: "2018"
+        desc: "I achieve 2nd and 3rd place in few bodybuilding competitions."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
+      - title: "Osteopathy"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "I joined a postgraduate course in osteopathy, which I am due to finalise this year, as well as completing other courses such as: dry needling, scraping, Swedish massage."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt: 
+      - title: "Facial Aesthetics"
+        year: "2023"
+        desc: "I completed a full immersion course for the use of botulinum toxin, lips and facial filler and skin booster for aesthetic purposes."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "To Be <br> continued"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "My story"
+    body: |
+      My name is Luca Lucifora, born in Italy in 1991, youngest of 7 brothers, I grew up in a small village in Sicily called San Giacomo. I have always been surrounded by a big family, which made me realise how important it is to be close to trustworthy and reliable people.  
+      
+      As you can imagine, growing up in a big family can be tough at times, but equally, can be very fun! - You get to argue who is going to sit in the front car seat, who is going to play videogames, or who will get the bigger portion of the cake; But it also taught me how to be humble and considerate, as well as how to treat everyone with respect. Fun fact – My mother always used to have an extra chair ready, just in case we had friends over. They would not be able to leave our house until they were fed and had a great time with the whole family. I learnt several lessons from my mother as I grew up, one I always like to point out, is that she taught me to always be kind and do to others what I would like others to do for me. As they say, random acts of kindness will bring good karma! I am a big believer that being kind should be in everyone’s’ nature. The feeling of satisfaction you get when you have been able to help someone, cannot be matched with anything else.  
+      
+      I consider myself a very active and fitness loving person and have been my whole life. Always ready to take part in any sport, particularly football, as you’d expect from an Italian! – Growing up, I always showed a passion for fixing things; be it a bicycle, my bothers car, my motorbike… you name it.  
+      
+      Progression and development are also big passions of mine. I always find new ways to upskill myself and learn about new subjects or improve my knowledge on different fields. This appetite for new experiences and the pursues of new skills is what brought me to London. Mixing my passion for fixing things and the great feeling I experience when helping people, is what made me realise that I wanted to become a manual therapist. A profession where I get to help people and ‘fix’ their body and minds.  
+      
+      We all have our ups and downs, but moving to London was a particularly rewarding and challenging experience. Learning a new language, experience a new culture…  
+      
+      Over the years, I have completed several training courses and have had extensive experience in the fitness world. To name a few:
+      - In 2013, I completed 2 courses in personal trainer and sports massage therapist.
+      - In 2018, I achieve 2nd and 3rd place in few bodybuilding competitions.
+      - In 2019, I joined a postgraduate course in osteopathy, which I am due to finalise this year, as well as completing other courses such as: dry needling, scraping, Swedish massage.
+      - In 2023, I completed a full immersion course for the use of botulinum toxin, lips and facial filler and skin booster for aesthetic purposes.  
+      
+      I am now in a position where I can see what I have done in my career so far, and what my future looks like.  
     section: about
 
   clients:
@@ -98,46 +109,9 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: "+44(0)7918 249545"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -153,15 +127,9 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/luca.lucifora.16
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/lucifit_ldn/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
