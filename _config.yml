@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Lucifit
 email      : lucifit@outlook.com
-description: "Site description"
+description: "The feeling of satisfaction you get when you have been able to help someone, cannot be matched with anything else. Luca Lucifora."
 author     : Ricardo Villanueva
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -27,7 +27,7 @@ author     : Ricardo Villanueva
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-K3MGR3BGF6
 
 markdown: kramdown
 
