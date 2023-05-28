@@ -9,23 +9,25 @@ header.masthead {
   background-size: cover;
 
   .intro-text {
-    padding-top: 150px;
-    padding-bottom: 100px;
+    padding-top: 350px;
+    padding-bottom: 350px;
 
     .intro-lead-in {
-      font-size: 22px;
+      font-size: 60px;
       font-style: normal;
-      line-height: 22px;
       margin-bottom: 25px;
-      @include serif-font;
+      color: $primary;
+      @include script-font;
+      p {
+        line-height: 15px;
+      }
     }
 
     .intro-heading {
-      font-size: 50px;
+      font-size: 15px;
       font-weight: 700;
-      line-height: 50px;
       margin-bottom: 25px;
-      color: $primary;
+      color: white;
       @include heading-font;
     }
   }
@@ -34,23 +36,25 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
+      padding-top: 400px;
+      padding-bottom: 400px;
 
       .intro-lead-in {
-        font-size: 40px;
+        font-size: 90px;
         font-style: normal;
-        line-height: 40px;
         margin-bottom: 25px;
-        @include serif-font;
+        color: $primary;
+        @include script-font;
+        p {
+          line-height: 50px;
+        }
       }
 
       .intro-heading {
-        font-size: 75px;
+        font-size: 25px;
         font-weight: 700;
-        line-height: 75px;
         margin-bottom: 50px;
-        color: $primary;
+        color: white;
         @include heading-font;
       }
     }
