@@ -1,4 +1,6 @@
-start: 
+build:
+	sudo bundle install
+start:
 	bundle exec jekyll serve --livereload
 
 deploy:
