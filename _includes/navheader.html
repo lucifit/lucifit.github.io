@@ -56,6 +56,9 @@
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
 	  {%- endif -%}
+	  {%- if site.data.sitetext[site.locale].header.text2 -%}
+        <div class="intro-text2">{{ site.data.sitetext[site.locale].header.text2 | markdownify }}</div>
+	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.button -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
 	  {%- endif -%}
@@ -71,6 +74,9 @@
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
+	  {%- endif -%}
+	  {%- if site.data.sitetext.header.text2 -%}
+        <div class="intro-text2">{{ site.data.sitetext.header.text2 | markdownify }}</div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.button -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>

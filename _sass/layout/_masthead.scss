@@ -30,6 +30,14 @@ header.masthead {
       color: white;
       @include heading-font;
     }
+
+    .intro-text2 {
+      margin: auto;
+      max-width: 500px;
+      padding-bottom: 50px;
+      color: white;
+      @include heading-font;
+    }
   }
 }
 

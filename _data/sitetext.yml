@@ -12,7 +12,14 @@
 en: &DEFAULT_EN
   header:
     title: LUCIFIT LDN
-    text: Health & Beauty
+    text: Health & Well-being 
+    text2: |
+      **Welcome to Lucifit, where your journey to wellness begins.**
+      
+      Lucifit Health & Well-being, a name born from the fusion of “Lucifora” and “fitness”, represents both my personal journey and the holistic approach I bring to osteopathy and massage therapy.  
+      
+      It reflects my commitment to your well-being, where the 'Luci' in Lucifit signifies not only my family name but also the light of good health that I strive to bring to each of my clients.
+
     button: Tell Me More
     buttonlink: "#services"
 
