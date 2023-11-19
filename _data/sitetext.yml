@@ -62,26 +62,25 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    text: "My story"
+    text: "Luca Lucifora (Founder of LuciFIT H&W) - A Journey of Passion and Dedication"
     body: |
-      My name is Luca Lucifora, born in Italy in 1991, youngest of 7 brothers, I grew up in a small village in Sicily called San Giacomo. I have always been surrounded by a big family, which made me realise how important it is to be close to trustworthy and reliable people.  
+      Greetings, I'm Luca Lucifora, born in the picturesque setting of Italy in 1991, where I began my journey as the youngest of seven brothers in a close-knit family. This upbringing instilled in me the profound value of trustworthiness and reliability. It taught me humility, consideration, and the importance of treating every individual with respect. One enduring lesson from my beloved mother was the simple yet powerful principle: "Treat others as you would like to be treated." I firmly believe in the transformative power of kindness and its ability to usher in positive karma.  
+
+      My passion for progression and personal development has been a driving force throughout my life. I possess an insatiable curiosity, perpetually seeking new avenues for self-improvement and knowledge expansion. This relentless pursuit of growth led me to the vibrant city of London.  
+
+      It was here that my passion for 'fixing' things and the profound satisfaction derived from aiding others coalesced, leading me to the path of a manual therapist. This profession allows me to make a tangible difference in people's lives, both physically and mentally.  
       
-      As you can imagine, growing up in a big family can be tough at times, but equally, can be very fun! - You get to argue who is going to sit in the front car seat, who is going to play videogames, or who will get the bigger portion of the cake; But it also taught me how to be humble and considerate, as well as how to treat everyone with respect. Fun fact – My mother always used to have an extra chair ready, just in case we had friends over. They would not be able to leave our house until they were fed and had a great time with the whole family. I learnt several lessons from my mother as I grew up, one I always like to point out, is that she taught me to always be kind and do to others what I would like others to do for me. As they say, random acts of kindness will bring good karma! I am a big believer that being kind should be in everyone’s’ nature. The feeling of satisfaction you get when you have been able to help someone, cannot be matched with anything else.  
+      Over the years, I've undertaken a multitude of training courses and amassed extensive experience in the world of fitness. A glimpse into my journey includes:  
+      - In 2013, I completed dual courses in personal training and sports massage therapy, setting the foundation for my career.
+      - In 2018, I achieved notable successes, securing 2nd and 3rd place in several bodybuilding competitions.
+      - In 2019, I embarked on an osteopathy postgraduate course at the esteemed University College of Osteopathy (UCO). This journey was complemented by additional courses in dry needling, scraping, and Swedish massage.
+      - In the early months of 2023, I expanded my horizons further by successfully completing a comprehensive course in the use of botulinum toxin, lip and facial filler, and skin booster treatments for aesthetic enhancement.
       
-      I consider myself a very active and fitness loving person and have been my whole life. Always ready to take part in any sport, particularly football, as you’d expect from an Italian! – Growing up, I always showed a passion for fixing things; be it a bicycle, my bothers car, my motorbike… you name it.  
+      Today, I find myself at a pivotal juncture in my career, reflecting on the achievements thus far and eagerly anticipating the boundless opportunities that the future holds.  
       
-      Progression and development are also big passions of mine. I always find new ways to upskill myself and learn about new subjects or improve my knowledge on different fields. This appetite for new experiences and the pursues of new skills is what brought me to London. Mixing my passion for fixing things and the great feeling I experience when helping people, is what made me realise that I wanted to become a manual therapist. A profession where I get to help people and ‘fix’ their body and minds.  
-      
-      We all have our ups and downs, but moving to London was a particularly rewarding and challenging experience. Learning a new language, experience a new culture…  
-      
-      Over the years, I have completed several training courses and have had extensive experience in the fitness world. To name a few:
-      - In 2013, I completed 2 courses in personal trainer and sports massage therapist.
-      - In 2018, I achieve 2nd and 3rd place in few bodybuilding competitions.
-      - In 2019, I joined a postgraduate course in osteopathy, which I am due to finalise this year, as well as completing other courses such as: dry needling, scraping, Swedish massage.
-      - In 2023, I completed a full immersion course for the use of botulinum toxin, lips and facial filler and skin booster for aesthetic purposes.  
-      
-      I am now in a position where I can see what I have done in my career so far, and what my future looks like.  
-    section: about
+      My journey is not just about professional growth; it's a testament to the power of passion, dedication, and a commitment to making a positive impact in the lives of others. Thank you for joining me on this remarkable odyssey.  
+
+    section: about-me
 
   about-us:
     title: "About Us"
