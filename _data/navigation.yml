@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "About"
-      section: about
+    - title: "About Us"
+      section: about-us
     - title: "Contact"
       section: contact
 en-US:
