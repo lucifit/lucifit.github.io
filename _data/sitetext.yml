@@ -133,8 +133,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: "Contact Me"
-    text: "+44(0)7918 249545"
+    title: Contact Me <a aria-label="Chat on WhatsApp" href="https://wa.me/447918249545"> <img alt="WhatsApp" src="assets/img/whatsapp_icon.png" height="30" /></a>
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
