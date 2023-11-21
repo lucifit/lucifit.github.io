@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Sports Massage Therapy
+  title: Sports Massage
   subtitle: Manipulation of muscles and soft tissue to improve performance and recovery
   thumbnail: assets/img/portfolio/sports-massage.jpeg
   
