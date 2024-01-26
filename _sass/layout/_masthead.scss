@@ -1,12 +1,6 @@
 // Styling for the masthead
 header.masthead {
   text-align: center;
-  color: white;
-  background-image: url("#{$header-image}");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
 
   .intro-text {
     padding-top: 350px;
@@ -27,7 +21,6 @@ header.masthead {
       font-size: 15px;
       font-weight: 700;
       margin-bottom: 25px;
-      color: white;
       @include heading-font;
     }
 
@@ -35,7 +28,6 @@ header.masthead {
       margin: auto;
       max-width: 500px;
       padding-bottom: 50px;
-      color: white;
       @include heading-font;
     }
   }
@@ -62,7 +54,6 @@ header.masthead {
         font-size: 25px;
         font-weight: 700;
         margin-bottom: 50px;
-        color: white;
         @include heading-font;
       }
     }

@@ -20,8 +20,8 @@ title      : Health & Beauty Lab
 email      : info@healthandbeautylab.co.uk
 description: "Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep."
 author     : Luca Lucifora
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+logo:
+  path: assets\img\logo.png
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml

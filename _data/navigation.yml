@@ -15,8 +15,6 @@ en: &DEFAULT_EN
       section: services
     - title: "About Us"
       section: about-us
-    - title: "About Me"
-      section: about-me
     - title: "Contact"
       section: contact
 en-US:
