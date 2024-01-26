@@ -1,4 +1,4 @@
-# Lucifit Website
+# Health & Beauty Lab's Website
 Based on (Agency Jekyll Theme)[https://github.com/raviriley/agency-jekyll-theme.git]
 
 ## References

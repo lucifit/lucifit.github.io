@@ -11,15 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Lucifit LDN
-    text: Health & Well-being 
-    text2: |
-      **Welcome to Lucifit, where your journey to wellness begins.**
-      
-      Lucifit Health & Well-being, a name born from the fusion of “Lucifora” and “fitness”, represents both my personal journey and the holistic approach I bring to osteopathy and massage therapy.  
-      
-      It reflects my commitment to your well-being, where the 'Luci' in Lucifit signifies not only my family name but also the light of good health that I strive to bring to each of my clients.
-
+    title: Health & Beauty Lab
+    text: Integrative care &amp; aesthetics
+    text2: Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep. We prioritize your well-being and convenience, offering a range of services from musculoskeletal care to relaxing massages and aesthetic injections. Our qualified practitioners bring expertise, flexibility, and a holistic approach to every session.
     button: Tell Me More
     buttonlink: "#services"
 
@@ -28,59 +22,6 @@ en: &DEFAULT_EN
     text: ""
     section: services
     closebutton: "Close"
-
-  timeline:
-    title: "Timeline"
-    text: "Over the years, I have completed several training courses and have had extensive experience in the fitness world. To name a few:"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Massage Therapist"
-        year: "2013"
-        desc: "I completed 2 courses in personal trainer and sports massage therapist."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Bodybuilding"
-        year: "2018"
-        desc: "I achieve 2nd and 3rd place in few bodybuilding competitions."
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Osteopathy"
-        year: "2019"
-        desc: "I joined a postgraduate course in osteopathy, which I am due to finalise this year, as well as completing other courses such as: dry needling, scraping, Swedish massage."
-        image: assets/img/timeline/3.jpg
-        alt: 
-      - title: "Facial Aesthetics"
-        year: "2023"
-        desc: "I completed a full immersion course for the use of botulinum toxin, lips and facial filler and skin booster for aesthetic purposes."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "To Be <br> continued"
-
-  about:
-    title: "About Me"
-    text: "Luca Lucifora (Founder of LuciFIT H&W) - A Journey of Passion and Dedication"
-    body: |
-      Greetings, I'm Luca Lucifora, born in the picturesque setting of Italy in 1991, where I began my journey as the youngest of seven brothers in a close-knit family. This upbringing instilled in me the profound value of trustworthiness and reliability. It taught me humility, consideration, and the importance of treating every individual with respect. One enduring lesson from my beloved mother was the simple yet powerful principle: "Treat others as you would like to be treated." I firmly believe in the transformative power of kindness and its ability to usher in positive karma.  
-
-      My passion for progression and personal development has been a driving force throughout my life. I possess an insatiable curiosity, perpetually seeking new avenues for self-improvement and knowledge expansion. This relentless pursuit of growth led me to the vibrant city of London.  
-
-      It was here that my passion for 'fixing' things and the profound satisfaction derived from aiding others coalesced, leading me to the path of a manual therapist. This profession allows me to make a tangible difference in people's lives, both physically and mentally.  
-      
-      Over the years, I've undertaken a multitude of training courses and amassed extensive experience in the world of fitness. A glimpse into my journey includes:  
-      - In 2013, I completed dual courses in personal training and sports massage therapy, setting the foundation for my career.
-      - In 2018, I achieved notable successes, securing 2nd and 3rd place in several bodybuilding competitions.
-      - In 2019, I embarked on an osteopathy postgraduate course at the esteemed University College of Osteopathy (UCO). This journey was complemented by additional courses in dry needling, scraping, and Swedish massage.
-      - In the early months of 2023, I expanded my horizons further by successfully completing a comprehensive course in the use of botulinum toxin, lip and facial filler, and skin booster treatments for aesthetic enhancement.
-      
-      Today, I find myself at a pivotal juncture in my career, reflecting on the achievements thus far and eagerly anticipating the boundless opportunities that the future holds.  
-      
-      My journey is not just about professional growth; it's a testament to the power of passion, dedication, and a commitment to making a positive impact in the lives of others. Thank you for joining me on this remarkable odyssey.  
-
-    section: about-me
 
   about-us:
     title: "About Us"

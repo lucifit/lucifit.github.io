@@ -13,13 +13,13 @@
 
 # theme: jekyll-agency
 
-url    : "https://lucifit.co.uk"
+url    : "healthandbeautylab.co.uk"
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Lucifit
-email      : lucifit@outlook.com
-description: "The feeling of satisfaction you get when you have been able to help someone, cannot be matched with anything else. Luca Lucifora."
-author     : Ricardo Villanueva
+title      : Health & Beauty Lab
+email      : info@healthandbeautylab.co.uk
+description: "Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep."
+author     : Luca Lucifora
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
