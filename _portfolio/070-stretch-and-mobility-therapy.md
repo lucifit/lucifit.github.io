@@ -14,14 +14,14 @@ alt: Stretch and Mobility Therapy
 Stretching and mobility are two of the most common and effective interventions to manage musculoskeletal pain. In this treatment, the trained practitioner combines joint mobilisation techniques with stretching. Some of the techniques in this session are passive (done by the practitioner) and others are more dynamic (exercise-based). This combination can optimize the recovery process.
 
 **Effects of stretching:**  
-Improves range of movement [1]  
-Can improve muscle strength [1]  
-Can improve athletic performance [1]  
-Effective for pain management [2]  
+- Improves range of movement [1]  
+- Can improve muscle strength [1]  
+- Can improve athletic performance [1]  
+- Effective for pain management [2]  
 
 **Effects of joint mobilisation:**  
-Pain reduction [3]  
-Improves range of movement [3]  
+- Pain reduction [3]  
+- Improves range of movement [3]  
 
 **References:**  
 1. Page P. (2012). Current concepts in muscle stretching for exercise and rehabilitation. International journal of sports physical therapy, 7(1), 109–119.

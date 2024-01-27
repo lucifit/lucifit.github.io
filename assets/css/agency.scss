@@ -6,7 +6,7 @@
 @import "base/mixins.scss";
 
 // Custom colors
-$primary: {{ site.data.style.highlight | default: "#e6007e" }} !default;
+$primary: {{ site.data.style.highlight | default: "#E6007E" }} !default;
 $white: {{ site.data.style.white | default: "transparent" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
@@ -24,7 +24,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 
 // Layout
 @import "layout/masthead.scss";
-@import "layout/services.scss";
+@import "layout/health-services.scss";
 @import "layout/portfolio.scss";
 @import "layout/timeline.scss";
 @import "layout/team.scss";

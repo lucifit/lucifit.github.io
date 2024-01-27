@@ -2,7 +2,7 @@
 body {
   overflow-x: hidden;
   @include body-font;
-  background-color: #f3e5ab51;
+  background-color: $gray-100;
 }
 
 p {
@@ -69,4 +69,8 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+li::marker {
+  color: $primary;
 }

@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
+    - title: "Health Services"
+      section: health-services
     - title: "About Us"
       section: about-us
     - title: "Contact"
@@ -30,8 +30,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
+    - title: "Servicios de Salud"
+      section: servicios-de-salud
     - title: "Sobre Nosotros"
       section: nosotros
     - title: "Contáctenos"
@@ -41,13 +41,3 @@ es-ES:
 es-CO:
   <<: *DEFAULT_ES
 
-# Deutsch
-# -----------------
-de: &DEFAULT_DE
-  nav:
-    - title: "Leistungen"
-      section: Leistungen
-    - title: "Über uns"
-      section: Ueber
-    - title: "Kontakt"
-      section: Kontakt

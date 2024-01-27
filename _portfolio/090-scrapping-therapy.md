@@ -13,13 +13,9 @@ alt: IASTM or Scraping therapy (Gua sha)
 ---
 **Effects of scraping therapy based on research:**
 1. Increases blood flow to the area applied to [2]
-
 2. Supports faster healing of tissues
-
 3. Can help in tendinopathies [3]
-
 4. Reduces pain [4]
-
 5. Improves range of motion [5]
 
  

@@ -15,45 +15,43 @@ en: &DEFAULT_EN
     text: Integrative care &amp; aesthetics
     text2: Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep. We prioritize your well-being and convenience, offering a range of services from musculoskeletal care to relaxing massages and aesthetic injections. Our qualified practitioners bring expertise, flexibility, and a holistic approach to every session.
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#health-services"
 
   portfolio:
-    title: "Services"
+    title: "Health Services"
     text: ""
-    section: services
+    section: health-services
     closebutton: "Close"
 
   about-us:
-    title: "About Us"
-    text: "Your Mobile Osteopath and Massage Therapist"
-    body: |
-      Are you seeking expert care for your musculoskeletal health and relaxation needs, all from the comfort of your own home? Look no further! We are a team of dedicated and qualified professionals, combining the skills of an osteopath and a massage therapist, ready to provide personalized care wherever you are.  
-      
-      Meet our versatile and dedicated mobile osteopath and massage therapist, bringing the healing touch directly to your doorstep. With a passion for enhancing musculoskeletal health and overall well-being, our practitioner is not only a registered osteopath but also a skilled massage therapist. Specializing in osteopathic assessments and treatments, he employs a holistic approach to address a diverse range of musculoskeletal issues. From managing pain and conducting postural assessments to providing relaxing and therapeutic massages, each service is elevated by his unique blend of osteopathic expertise. Stress reduction and relaxation sessions are crafted with a keen understanding of the body's intricate workings, offering a holistic approach that goes beyond conventional massage techniques. Customized treatment plans are designed to suit your individual needs, ensuring a comprehensive and tailored approach to your health. The convenience of our services is further enhanced by flexible scheduling, allowing you to experience the benefits of our osteopathic and massage expertise at your convenience. Discover the difference that a holistic and mobile approach to musculoskeletal health can make with our traveling osteopath and massage therapist. Your well-being is our priority, and we bring the expertise to your doorstep.  
-      
-      **Our Services:**
-        - Osteopathic Assessments and Treatments
-        - Musculoskeletal Pain Management
-        - Postural Assessments and Corrections
-        - Dry needling / acupuncture 
-        - Relaxing and Therapeutic Massages
-        - Stress Reduction and Relaxation Sessions
-        - Customized Treatment Plans
-        - Flexible Scheduling to Suit Your Convenience
-
-      **Why Choose Us?**
-      1. **Convenience**: We eliminate the need for travel and waiting rooms. Enjoy our services in the privacy and comfort of your home.
-      2. **Personalized Care**: Our holistic approach ensures that every session is tailored to your specific needs and goals.
-      3. **Professional Expertise**: Our team is fully qualified and registered, bringing years of experience to your doorstep.
-      4. **Relaxation and Healing**: Experience the benefits of both osteopathy and massage therapy, promoting not only physical health but also relaxation and stress reduction.
-      5. **Flexible Scheduling**: We work around your schedule, ensuring that you receive care when it's most convenient for you.
-      
-      Discover the convenience and effectiveness of our mobile osteopathy and massage therapy services. Contact us today to book your personalized session and embark on your journey to improved health and well-being, all within the comfort of your own home.  
-      Our team offer more than you could ever imagine. We are trustworthy and experienced practitioners who will do their best to promote health, beauty, and positivity into your life.  
-      The connection between health and beauty is intuitive. On some level, we all understand that living a healthy lifestyle improves our appearance, but what many of us don't realize is that the connection between beauty and health is just as strong.  
-      We deliver high quality health and beauty services from osteopathy, sport massage, deep tissue, dry needling, relaxing massage to anti-wrinkle treatment, dermal filler, to nutritional advice and personal training.  
-
     section: about-us
+    title: "About Us"
+    # text: ""
+    body: |
+      **Experience personalized care from our skilled mobile osteopath, massage therapist,
+      and aesthetic injection specialist—all delivered to your doorstep. We prioritize your
+      well-being and convenience, offering a range of services from musculoskeletal care to
+      relaxing massages and aesthetic injections. Our qualified practitioners bring
+      expertise, flexibility, and a holistic approach to every session.**  
+      
+      **Services:**  
+      - Osteopathic Assessments and Treatments
+      - Musculoskeletal Pain Management
+      - Relaxing and Therapeutic Massages
+      - Aesthetic Injections (Anti-wrinkle treatment, Dermal filler)
+      - Stress Reduction and Relaxation Sessions
+
+      **Why Choose Us?**  
+      1. Convenience: Enjoy our services in the privacy of your home.
+      2. Personalized Care: Tailored sessions to meet your specific needs and goals.
+      3. Expertise: Fully qualified practitioners with years of experience.
+      4. Relaxation and Healing: Experience the benefits of holistic care.
+      5. Flexible Scheduling: We work around your schedule for your convenience.
+      6. Aftercare and Follow-Up
+
+      **Discover the blend of health and beauty with our mobile services. Contact us for
+      personalized sessions at your convenience.**
+
 
   clients:
     section: clients
@@ -74,7 +72,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: Contact Me <a aria-label="Chat on WhatsApp" href="https://wa.me/447918249545"> <img alt="WhatsApp" src="assets/img/whatsapp_icon.png" height="30" /></a>
+    title: Contact Us <a aria-label="Chat on WhatsApp" href="https://wa.me/447918249545"> <img alt="WhatsApp" src="assets/img/whatsapp_icon.png" height="30" /></a>
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

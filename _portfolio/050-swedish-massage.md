@@ -13,11 +13,8 @@ alt: Swedish/Relaxing Massage
 ---
 **Effectiveness according to research:**
 1. Decreases pain level in musculoskeletal conditions [1]
-
 2. Decreases muscular tension [2]
-
 3. Increases range of movement [2]
-
 4. Increases local blood circulation [2]
 
  
