@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Health Services"
       section: health-services
+    - title: "Beauty Services"
+      section: beauty-services
     - title: "About Us"
       section: about-us
     - title: "Contact"
@@ -30,6 +32,8 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
+    - title: "Servicios de Belleza"
+      section: servicios-de-belleza
     - title: "Servicios de Salud"
       section: servicios-de-salud
     - title: "Sobre Nosotros"

@@ -23,6 +23,12 @@ en: &DEFAULT_EN
     section: health-services
     closebutton: "Close"
 
+  beauty-services:
+    title: Beauty Services
+    text: ""
+    section: beauty-services
+    closebutton: Close
+
   about-us:
     section: about-us
     title: "About Us"
