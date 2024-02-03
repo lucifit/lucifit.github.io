@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Health Services"
-      section: health-services
     - title: "Beauty Services"
       section: beauty-services
+    - title: "Health Services"
+      section: health-services
     - title: "About Us"
       section: about-us
     - title: "Contact"
