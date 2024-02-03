@@ -25,8 +25,9 @@ header.masthead {
     }
 
     .intro-text2 {
+      font-size: 12px;
       margin: auto;
-      max-width: 500px;
+      max-width: 300px;
       padding-bottom: 50px;
       @include heading-font;
     }
@@ -55,6 +56,10 @@ header.masthead {
         font-weight: 700;
         margin-bottom: 50px;
         @include heading-font;
+      }
+
+      .intro-text2 {
+        max-width: 500px;
       }
     }
   }
