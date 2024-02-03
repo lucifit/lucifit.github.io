@@ -22,3 +22,15 @@ make
 ```
 pandoc "filename.docx" -f docx -t markdown -o "filename.md"
 ```
+
+Prioritise the branding
+- Add company name and number to the footer
+- Remove the background of the Contact me form (make it black)
+- off---white.com as an example, logo in the middle
+- create menu, sub menu style
+- Aftercare section
+- Vanilla instead of white
+- 
+
+Health Services 
+Beauty Services

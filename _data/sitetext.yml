@@ -78,7 +78,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: Contact Us <a aria-label="Chat on WhatsApp" href="https://wa.me/447918249545"> <img alt="WhatsApp" src="assets/img/whatsapp_icon.png" height="30" /></a>
+    title: Contact Us
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -94,9 +94,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://www.facebook.com/lucifitldn
-        icon: "fab fa-facebook-f"
-      - url: https://www.instagram.com/lucifit_ldn/
+      - url: https://www.instagram.com/health_and_beauty_lab
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
