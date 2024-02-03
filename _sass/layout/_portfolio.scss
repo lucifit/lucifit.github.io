@@ -34,7 +34,7 @@
             margin-top: -12px;
           }
           h3,
-          h4 {
+          h6 {
             margin: 0;
           }
         }
@@ -43,15 +43,15 @@
     .portfolio-caption {
       max-width: 400px;
       margin: 0 auto;
-      padding: 25px;
+      padding: 5px;
       text-align: center;
       background-color: $white;
-      h4 {
+      h6 {
         margin: 0;
         text-transform: none;
       }
       p {
-        font-size: 16px;
+        font-size: 14px;
         font-style: italic;
         margin: 0;
         @include serif-font;
