@@ -86,10 +86,10 @@ en: &DEFAULT_EN
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Fill your booking request here, you can also use this form to ask for information"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Send Booking Request"
 
   footer:
     legal: "Privacy Policy"
