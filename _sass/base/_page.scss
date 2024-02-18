@@ -22,10 +22,7 @@ a {
 }
 
 h1,
-h2 {
-  text-decoration: underline;
-  text-decoration-color: $primary;
-}
+h2,
 h3,
 h4,
 h5,
@@ -36,6 +33,10 @@ h6 {
 
 .page-section {
   padding: 100px 0;
+  h2 {
+    text-decoration: underline;
+    text-decoration-color: $primary;
+  }
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
