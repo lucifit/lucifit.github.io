@@ -90,7 +90,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: Contact Us
+    title: Booking Request
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

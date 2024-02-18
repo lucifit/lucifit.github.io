@@ -22,7 +22,10 @@ a {
 }
 
 h1,
-h2,
+h2 {
+  text-decoration: underline;
+  text-decoration-color: $primary;
+}
 h3,
 h4,
 h5,
