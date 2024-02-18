@@ -35,6 +35,12 @@ en: &DEFAULT_EN
     section: health-services
     closebutton: "Close"
 
+  integrated-care:
+    title: "Integrated Care"
+    text: ""
+    section: integrated-care
+    closebutton: "Close"
+
   about-us:
     section: about-us
     title: "About Us"

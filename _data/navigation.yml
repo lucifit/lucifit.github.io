@@ -17,10 +17,10 @@ en: &DEFAULT_EN
       section: beauty-services
     - title: "Health Services"
       section: health-services
+    - title: "Integrated Care"
+      section: integrated-care
     - title: "About Us"
       section: about-us
-    - title: "Contact"
-      section: contact
 en-US:
   <<: *DEFAULT_EN
 en-CA:
