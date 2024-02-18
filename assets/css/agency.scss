@@ -24,9 +24,11 @@ $contact-image: "{{ site.data.style.contact-image }}";
 
 // Layout
 @import "layout/masthead.scss";
-@import "layout/health-services.scss";
+@import "layout/common-services.scss";
+@import "layout/common_services.scss";
 @import "layout/beauty-services.scss";
 @import "layout/beauty_services.scss";
+@import "layout/health-services.scss";
 @import "layout/portfolio.scss";
 @import "layout/timeline.scss";
 @import "layout/team.scss";

@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Popular Choice"
+      section: common-services
     - title: "Beauty Services"
       section: beauty-services
     - title: "Health Services"
@@ -27,21 +29,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios de Belleza"
-      section: servicios-de-belleza
-    - title: "Servicios de Salud"
-      section: servicios-de-salud
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Contáctenos"
-      section: contacto
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
-

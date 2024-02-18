@@ -17,10 +17,10 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#health-services"
 
-  portfolio:
-    title: "Health Services"
+  common-services:
+    title: "Popular Choice"
     text: ""
-    section: health-services
+    section: common-services
     closebutton: "Close"
 
   beauty-services:
@@ -28,6 +28,12 @@ en: &DEFAULT_EN
     text: ""
     section: beauty-services
     closebutton: Close
+
+  portfolio:
+    title: "Health Services"
+    text: ""
+    section: health-services
+    closebutton: "Close"
 
   about-us:
     section: about-us
