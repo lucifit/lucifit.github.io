@@ -86,7 +86,7 @@ en: &DEFAULT_EN
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
-    message: "Fill your booking request here, you can also use this form to ask for information"
+    message: "Fill your booking request here, you can also use this form to ask for"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Booking Request"
@@ -96,6 +96,8 @@ en: &DEFAULT_EN
     social:
       - url: https://www.instagram.com/health_and_beauty_lab
         icon: "fab fa-instagram"
+      - url: https://wa.me/447918249545
+        icon: "fab fa-whatsapp"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
