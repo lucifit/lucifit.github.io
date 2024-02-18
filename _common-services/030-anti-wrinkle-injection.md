@@ -1,24 +1,24 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Botulinum Toxin Specialized Treatments
-  subtitle:  
-  thumbnail: assets/img/portfolio/botulinum-treatment.jpg
+  title: Anti-Wrinkle Injection
+  subtitle: 
+  thumbnail: assets/img/portfolio/anti-wrinkle-treatment.jpg
   
 #what displays when the item is clicked:
-title: Botulinum Toxin Specialized Treatments
+title: Anti-Wrinkle Injection
 subtitle: 
-image: assets/img/portfolio/botulinum-treatment.jpg
-alt: Body Aesthetic Injections
+image: assets/img/portfolio/anti-wrinkle-treatment.jpg
+alt: Anti-Wrinkle Injection
 
 ---
-### Botulinum Toxin Specialized Treatments
-- Chemical Brow Lift
-- Lip Flip
-- Jawline Slimming
-- Botulinum Migraine Treatment 
-- Hyperhidrosis Treatment
-- Traptox or BarbieTox
-- Calf Slimming
+### Anti-Wrinkle Injection (Botulinum)
+- Forehead lines
+- Frown lines (between eyebrows)
+- Crow's feet (lines around the eyes)
+- Bunny lines (lines on the nose)
+- Marionette lines (lines around the mouth)
+- Dimpled chin
+- Platysmal Bands Treatment   
 
 Botulinum toxin is a neurotoxic protein produced by the bacterium Clostridium botulinum. It is the most potent toxin known and in controlled and diluted forms, botulinum toxin is used for medical and cosmetic purposes.  
 

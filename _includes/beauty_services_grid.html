@@ -10,7 +10,7 @@
     </div>
     <div class="row">
 	{% for service in site.beauty-services %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#b{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -20,7 +20,7 @@
           <img class="img-fluid" src="{{ service.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ service.caption.title }}</h4>
+          <h6>{{ service.caption.title }}</h4>
           <p class="text-muted">{{ service.caption.subtitle }}</p>
         </div>
       </div>
@@ -39,7 +39,7 @@
     </div>
     <div class="row">
 	{% for service in site.beauty-services %}
-      <div class="col-md-4 col-sm-6 portfolio-item">
+      <div class="col-md-3 col-sm-6 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#b{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -49,7 +49,7 @@
           <img class="img-fluid" src="{{ service.caption.thumbnail }}" alt="">
         </a>
         <div class="portfolio-caption">
-          <h4>{{ service.caption.title }}</h4>
+          <h6>{{ service.caption.title }}</h4>
           <p class="text-muted">{{ service.caption.subtitle }}</p>
         </div>
       </div>
