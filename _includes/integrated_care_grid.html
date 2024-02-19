@@ -10,7 +10,7 @@
     <div class="row">
 	{% for service in site.integrated-care %}
       <div class="col-md-3 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#m{{ forloop.index }}">
+        <a class="portfolio-link" data-toggle="modal" href="#i{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
@@ -38,7 +38,7 @@
     <div class="row">
 	{% for service in site.integrated-care %}
       <div class="col-md-3 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#m{{ forloop.index }}">
+        <a class="portfolio-link" data-toggle="modal" href="#i{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
