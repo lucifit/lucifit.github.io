@@ -101,7 +101,7 @@ en: &DEFAULT_EN
     message: "Describe your enquire here"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Booking Request"
+    submit: "Send"
 
   footer:
     legal: "Privacy Policy"
