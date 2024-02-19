@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     buttonlink: "#health-services"
 
   common-services:
-    title: "Popular Choice"
+    title: "Popular Choices"
     text: ""
     section: common-services
     closebutton: "Close"
