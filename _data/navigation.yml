@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "About Us"
+      section: about-us
     - title: "Popular Choices"
       section: common-services
     - title: "Beauty Services"
@@ -19,8 +21,6 @@ en: &DEFAULT_EN
       section: health-services
     - title: "Integrated Care"
       section: integrated-care
-    - title: "About Us"
-      section: about-us
 en-US:
   <<: *DEFAULT_EN
 en-CA:
