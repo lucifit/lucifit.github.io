@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Health & Beauty Lab
     text: Integrative care &amp; aesthetics
-    text2: For more detailed information about our services and fees, kindly reach out via email at <b><a href="mailto:info@healthandbeauty.co.uk">info@healthandbeauty.co.uk</a></b> or Whatsapp us at <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+    text2: For more detailed information about our services and fees, kindly reach out via email at <b><a href="mailto:info@healthandbeautylab.co.uk">info@healthandbeautylab.co.uk</a></b> or Whatsapp us at <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
     button: Tell Me More
     buttonlink: "#health-services"
 
