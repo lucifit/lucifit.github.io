@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Stretch and Mobility Therapy
   subtitle: Combines joint mobilisation techniques with stretching
-  thumbnail: assets/img/portfolio/stretch-mobility-therapy.jpeg
+  thumbnail: assets/img/portfolio/stretch-mobility-therapy.webp
   
 #what displays when the item is clicked:
 title: Stretch and Mobility Therapy
 subtitle: Combines joint mobilisation techniques with stretching.
-image: assets/img/portfolio/stretch-mobility-therapy.jpeg
+image: assets/img/portfolio/stretch-mobility-therapy.webp
 alt: Stretch and Mobility Therapy
 
 ---

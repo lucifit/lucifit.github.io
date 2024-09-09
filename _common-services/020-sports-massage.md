@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Sports Massage
   subtitle: Manipulation of muscles and soft tissue to improve performance and recovery
-  thumbnail: assets/img/portfolio/sports-massage.jpeg
+  thumbnail: assets/img/portfolio/sports-massage.webp
   
 #what displays when the item is clicked:
 title: Sports Massage Therapy
 subtitle: Sports massage therapy involves manual manipulation of muscles and soft tissue with the purpose of improving performance and recovery [1]. The techniques used aim to enhance circulation, reduce muscle tension and improve tissue elasticity. The main difference of sports massage compared to regular massage is that sports massage targets specific regions of the body, depending on the presentation of the client.
-image: assets/img/portfolio/sports-massage.jpeg
+image: assets/img/portfolio/sports-massage.webp
 alt: Sports Massage Therapy
 
 ---

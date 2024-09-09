@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Fat Dissolving
   subtitle:  
-  thumbnail: assets/img/portfolio/fat-disolving.jpg
+  thumbnail: assets/img/portfolio/fat-disolving.webp
   
 #what displays when the item is clicked:
 title: Fat Dissolving
 subtitle: 
-image: assets/img/portfolio/fat-disolving.jpg
+image: assets/img/portfolio/fat-disolving.webp
 alt: Fat Dissolving
 
 ---

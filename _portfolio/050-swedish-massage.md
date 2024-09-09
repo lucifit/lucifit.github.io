@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Swedish/Relaxing Massage
   subtitle: Gentle techniques which focus on the superficial tissues
-  thumbnail: assets/img/portfolio/swedish-massage.jpeg
+  thumbnail: assets/img/portfolio/swedish-massage.webp
   
 #what displays when the item is clicked:
 title: Swedish/Relaxing Massage
 subtitle: Sweedish or relaxing massage is using gentle techniques which focus on the superficial (not deep) tissues. While it can be performed in the whole body, Sweedish massage emphasizes on physical symptoms and areas of discomfort.
-image: assets/img/portfolio/swedish-massage.jpeg
+image: assets/img/portfolio/swedish-massage.webp
 alt: Swedish/Relaxing Massage
 
 ---

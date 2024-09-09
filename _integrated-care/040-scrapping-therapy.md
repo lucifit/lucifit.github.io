@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Scraping Therapy
   subtitle: Soft tissue mobilization massage that is done with the help of a scraping tool to heal soft tissue injuries
-  thumbnail: assets/img/portfolio/scrapping-therapy.jpeg
+  thumbnail: assets/img/portfolio/scrapping-therapy.webp
   
 #what displays when the item is clicked:
 title: IASTM or Scraping therapy (Gua sha)
 subtitle: Scraping therapy utilizes instruments with smooth edges to scrape the skin until red blemishes occur. The aim of this intervention is to break down fascial restrictions and scar tissue that could have developed as a result of immobilization, surgery, or musculoskeletal strains and injuries.
-image: assets/img/portfolio/scrapping-therapy.jpeg
+image: assets/img/portfolio/scrapping-therapy.webp
 alt: IASTM or Scraping therapy (Gua sha)
 
 ---

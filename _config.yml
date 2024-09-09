@@ -13,15 +13,15 @@
 
 # theme: jekyll-agency
 
-url    : "healthandbeautylab.co.uk"
+url: "https://healthandbeautylab.co.uk"
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Health & Beauty Lab
-email      : info@healthandbeautylab.co.uk
+title: Health & Beauty Lab
+email: info@healthandbeautylab.co.uk
 description: "Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep."
-author     : Luca Lucifora
+author: Luca Lucifora
 logo:
-  path: assets\img\logo_square.png
+  path: assets\img\logo_square.webp
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml

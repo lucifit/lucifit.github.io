@@ -2,14 +2,14 @@
 caption: #what displays in the portfolio grid:
   title: Deep Tissue Massage
   subtitle: Stronger force used to reach deeper layers of muscle tissue
-  thumbnail: assets/img/portfolio/deep-tissue-massage.jpeg
+  thumbnail: assets/img/portfolio/deep-tissue-massage.webp
   
 #what displays when the item is clicked:
 title: Deep Tissue Massage
 subtitle: Massage therapy with sustained pressure over muscles and connective tissues in a slow-stroke rhythm. The term "deep tissue" 
         refers to the stronger force used to reach deeper layers of muscle tissue, compared to traditional massage. It aims to lengthen, 
         relax and release stiffening patterns within client's threshold of pain."
-image: assets/img/portfolio/deep-tissue-massage.jpeg
+image: assets/img/portfolio/deep-tissue-massage.webp
 alt: Deep Tissue Massage
 
 ---

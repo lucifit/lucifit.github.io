@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Anti-Wrinkle Injection
   subtitle: 
-  thumbnail: assets/img/portfolio/anti-wrinkle-treatment.jpg
+  thumbnail: assets/img/portfolio/anti-wrinkle-treatment.webp
   
 #what displays when the item is clicked:
 title: Anti-Wrinkle Injection
 subtitle: 
-image: assets/img/portfolio/anti-wrinkle-treatment.jpg
+image: assets/img/portfolio/anti-wrinkle-treatment.webp
 alt: Anti-Wrinkle Injection
 
 ---

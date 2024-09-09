@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Skin Boosters
   subtitle:  
-  thumbnail: assets/img/portfolio/skin_booster.jpg
+  thumbnail: assets/img/portfolio/skin_booster.webp
   
 #what displays when the item is clicked:
 title:  Skin Boosters
 subtitle: 
-image: assets/img/portfolio/skin_booster.jpg
+image: assets/img/portfolio/skin_booster.webp
 alt:  Skin Boosters
 
 ---

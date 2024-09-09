@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Botulinum Toxin Specialized Treatments
   subtitle:  
-  thumbnail: assets/img/portfolio/botulinum-treatment.jpg
+  thumbnail: assets/img/portfolio/botulinum-treatment.webp
   
 #what displays when the item is clicked:
 title: Botulinum Toxin Specialized Treatments
 subtitle: 
-image: assets/img/portfolio/botulinum-treatment.jpg
+image: assets/img/portfolio/botulinum-treatment.webp
 alt: Body Aesthetic Injections
 
 ---

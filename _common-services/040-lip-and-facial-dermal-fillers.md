@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Lip and Facial Dermal Fillers
   subtitle:  
-  thumbnail: assets/img/portfolio/lip_and_facial_dermal_fillers.jpg
+  thumbnail: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
   
 #what displays when the item is clicked:
 title: Lip and Facial Dermal Fillers
 subtitle: 
-image: assets/img/portfolio/lip_and_facial_dermal_fillers.jpg
+image: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
 alt: Lip and Facial Dermal Fillers
 
 ---

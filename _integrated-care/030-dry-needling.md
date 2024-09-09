@@ -3,13 +3,13 @@ title: Dry Needling
 subtitle: Procedure where a small needle is inserted into the muscle, aiming to treat trigger points. Trigger points are muscular nodules 
         that are palpable and tender. These nodules can cause pain on the surrounding area and to distant areas of the body, a phenomenon called 
         "referred pain"
-image: assets/img/portfolio/dry-needling.jpeg
+image: assets/img/portfolio/dry-needling.webp
 alt: Dry Needling
 
 caption:
   title: Dry Needling
   subtitle: Procedure where a small needle is inserted into the muscle, aiming to treat trigger points
-  thumbnail: assets/img/portfolio/dry-needling.jpeg
+  thumbnail: assets/img/portfolio/dry-needling.webp
 ---
 Dry needling is a procedure where a small needle is inserted into the
 muscle, aiming to treat trigger points. Trigger points are muscular

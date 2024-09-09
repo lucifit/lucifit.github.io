@@ -3,13 +3,13 @@ title: Percussive Massage Therapy
 subtitle: Percussive massage therapy or vibration therapy uses specific tools (massage guns) that create a very short and fast vibratory 
         movement on the applied muscle. Depending on the tissue applied in, the practitioner uses different massage gun heads and frequencies of
         vibration to tailor the treatment.
-image: assets/img/portfolio/percussive-massage-therapy.jpeg
+image: assets/img/portfolio/percussive-massage-therapy.webp
 alt: Percussive Massage Therapy
 
 caption:
   title: Percussive Massage Therapy
   subtitle: Percussive massage therapy or vibration therapy
-  thumbnail: assets/img/portfolio/percussive-massage-therapy.jpeg
+  thumbnail: assets/img/portfolio/percussive-massage-therapy.webp
 ---
 Percussive massage therapy or vibration therapy use specific tools
 (massage guns) that create a very short and fast vibratory movement on

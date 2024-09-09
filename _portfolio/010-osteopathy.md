@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Osteopathy
   subtitle: Focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system.
-  thumbnail: assets/img/portfolio/ostheopath-treatment.jpeg
+  thumbnail: assets/img/portfolio/ostheopath-treatment.webp
   
 #what displays when the item is clicked:
 title: Osteopathy – Osteopathic Treatment
 subtitle: Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health.
-image: assets/img/portfolio/ostheopath-treatment.jpeg
+image: assets/img/portfolio/ostheopath-treatment.webp
 alt: Osteopathic Treatment
 
 ---

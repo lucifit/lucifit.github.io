@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Lymphatic Draining Massage
   subtitle: Light massage on the skin that helps promote the movement of lymphatic fluid
-  thumbnail: assets/img/portfolio/lymphatic-drainage-massage.jpeg
+  thumbnail: assets/img/portfolio/lymphatic-drainage-massage.webp
   
 #what displays when the item is clicked:
 title: Lymphatic Draining Massage
 subtitle: Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.
-image: assets/img/portfolio/lymphatic-drainage-massage.jpeg
+image: assets/img/portfolio/lymphatic-drainage-massage.webp
 alt: Lymphatic Draining Massage
 
 ---

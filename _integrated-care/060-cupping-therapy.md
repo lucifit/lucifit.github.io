@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Cupping Therapy
   subtitle: Treatment which utilizes a vessels to create suction in the skin over a painful area
-  thumbnail: assets/img/portfolio/cupping-therapy.jpeg
+  thumbnail: assets/img/portfolio/cupping-therapy.webp
   
 #what displays when the item is clicked:
 title: Cupping Therapy
 subtitle: Cupping is a physical treatment which utilizes a glass or a bamboo cup to create suction in the skin over a painful area [1]. It is an ancient technique that was even used by the Greek physician Hippocrates, commonly referred as the ‘’father’’ of medicine. Its aim is to release toxins from body tissue and organs and to increase blood flow to the area applied to.
-image: assets/img/portfolio/cupping-therapy.jpeg
+image: assets/img/portfolio/cupping-therapy.webp
 alt: Cupping Therapy
 
 ---

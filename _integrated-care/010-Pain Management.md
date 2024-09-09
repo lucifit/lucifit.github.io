@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Pain Management
   subtitle: Combination of treatment modalities to manage or reduce the pain and discomfort.
-  thumbnail: assets/img/portfolio/pain-management.jpeg
+  thumbnail: assets/img/portfolio/pain-management.webp
   
 #what displays when the item is clicked:
 title: Pain Management
 subtitle: Combination of treatment modalities to manage or reduce the pain and discomfort.
-image: assets/img/portfolio/pain-management.jpeg
+image: assets/img/portfolio/pain-management.webp
 alt: Pain Management
 
 ---
