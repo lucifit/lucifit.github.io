@@ -46,31 +46,24 @@ en: &DEFAULT_EN
     title: "About Us"
     # text: ""
     body: |
-      **Experience personalized care from our skilled mobile osteopath, massage therapist,
-      and aesthetic injection specialist—all delivered to your doorstep. We prioritize your
-      well-being and convenience, offering a range of services from musculoskeletal care to
-      relaxing massages and aesthetic injections. Our qualified practitioners bring
-      expertise, flexibility, and a holistic approach to every session.**  
-      
-      **Services:**  
+      Located at Queen of Beauty Clinic on Baker Street, we specialize in Aesthetic Injections (Anti-Wrinkle Treatments, Dermal Fillers), Osteopathy, and Dry Needling/Acupuncture, with home visits available upon request. Our personalized approach focuses on your well-being and convenience, providing expert care in a comfortable setting.  
+      Our team combines expertise in aesthetic injections, osteopathy, and dry needling/acupuncture with a holistic philosophy, tailoring each service to your unique needs. Whether you’re seeking musculoskeletal care, relaxation, or cosmetic enhancements, our qualified practitioners are dedicated to helping you achieve your goals.  
+      *Our Services Include:*  
+      - Aesthetic Injections (Anti-Wrinkle Treatments, Dermal Fillers)
       - Osteopathic Assessments and Treatments
+      - Dry Needling/Acupuncture
       - Musculoskeletal Pain Management
       - Relaxing and Therapeutic Massages
-      - Aesthetic Injections (Anti-wrinkle treatment, Dermal filler)
       - Stress Reduction and Relaxation Sessions
 
-      **Why Choose Us?**  
-      1. Convenience: Enjoy our services in the privacy of your home.
-      2. Personalized Care: Tailored sessions to meet your specific needs and goals.
-      3. Expertise: Fully qualified practitioners with years of experience.
-      4. Relaxation and Healing: Experience the benefits of holistic care.
-      5. Flexible Scheduling: We work around your schedule for your convenience.
-      6. Aftercare and Follow-Up
+      *Why Choose Us?*  
+      - *Convenience:* Visit us at our Baker Street clinic or enjoy the option of home services upon request.
+      - *Personalized Care:* Every session is tailored to meet your specific health or beauty needs.
+      - *Expertise:* Our practitioners have extensive experience in aesthetic injections, osteopathy, and dry needling.
+      - *Holistic Approach:* We blend health, beauty, and relaxation to promote overall well-being.
+      - *Flexible Scheduling:* Appointments are available to suit your schedule.
 
-      **Discover the blend of health and beauty with our mobile services. Contact us for
-      personalized sessions at your convenience.**
-
-
+      Discover the perfect combination of health, beauty, and relaxation. Contact us to book your session today!
   clients:
     section: clients
     max-height: 100px
