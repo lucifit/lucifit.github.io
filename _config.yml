@@ -17,11 +17,13 @@ url: "https://healthandbeautylab.co.uk"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Health & Beauty Lab
+tagline: From relieving pain to enhancing beauty—expert osteopathy and aesthetic treatments, tailored for you.
 email: info@healthandbeautylab.co.uk
 description: "Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep."
 author: Luca Lucifora
+logo_height: 52
 logo:
-  path: assets\img\logo_square.webp
+  assets\img\logo_square.webp
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
@@ -40,3 +42,22 @@ collections:
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 formspree_form_path: "f/mdovvdzq"
+
+social:
+  links:
+    - https://www.instagram.com/health_and_beauty_lab
+    - https://www.tiktok.com/@health_and_beauty_lab
+    - https://www.treatwell.co.uk/place/health-and-beauty-lab/
+    - https://wa.me/447918249545
+
+plugins:
+  - jekyll-seo-tag
+  # - jekyll-sitemap
+  # - jekyll-feed
+  # - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: assets\img\logo_square.webp
