@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: Health & Beauty Lab
 tagline: Osteopathy, Pain Relief & Botox Injections in London.
 email: info@healthandbeautylab.co.uk
-description: Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep.
+description: Experience personalized care from our mobile osteopath, massage therapist, and aesthetic injection specialist.
 author: Luca Lucifora
 logo_height: 52
 logo:
@@ -60,5 +60,5 @@ defaults:
   - scope:
       path: ""
     values:
-      title: Osteopathy, Pain Relief & Boto
+      title: Osteopathy, Pain Relief & Botox
       keywords: Low Back Pain, Muscle Strai, Dry Needlin, Cosmetic Filte, Anti Wrinkle Treatment, Botox Injectable, UK, London
