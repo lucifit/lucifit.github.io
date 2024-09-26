@@ -60,5 +60,5 @@ defaults:
   - scope:
       path: ""
     values:
-      title: Health & Beauty Lab - Intgrative Care & Aesthetics
+      title: Health & Beauty Lab - Integrative Care & Aesthetics
       image: assets/img/seo_logo.webp
