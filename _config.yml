@@ -52,7 +52,7 @@ social:
 
 plugins:
   - jekyll-seo-tag
-  # - jekyll-sitemap
+  - jekyll-sitemap
   # - jekyll-feed
   # - jekyll-redirect-from
 
