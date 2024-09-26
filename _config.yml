@@ -60,4 +60,5 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets/img/logo_square.webp
+      title: From relieving pain to enhancing beauty—expert osteopathy and aesthetic treatments.
+      image: assets/img/seo_logo.webp
