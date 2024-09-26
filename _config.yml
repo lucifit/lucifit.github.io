@@ -17,7 +17,7 @@ url: "https://healthandbeautylab.co.uk"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Health & Beauty Lab
-tagline: From relieving pain to enhancing beauty—expert osteopathy and aesthetic treatments, tailored for you.
+tagline: Osteopathy, Pain Relief & Botox Injections in London.
 email: info@healthandbeautylab.co.uk
 description: "Experience personalized care from our skilled mobile osteopath, massage therapist, and aesthetic injection specialist—all delivered to your doorstep."
 author: Luca Lucifora
@@ -60,5 +60,5 @@ defaults:
   - scope:
       path: ""
     values:
-      title: Health & Beauty Lab - Integrative Care & Aesthetics
+      title: Osteopathy, Pain Relief & Botox Injections in London
       image: assets/img/seo_logo.webp
