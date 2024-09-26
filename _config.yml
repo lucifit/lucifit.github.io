@@ -23,7 +23,7 @@ description: "Experience personalized care from our skilled mobile osteopath, ma
 author: Luca Lucifora
 logo_height: 52
 logo:
-  assets\img\logo_square.webp
+  assets/img/logo_square.webp
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
@@ -60,4 +60,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets\img\logo_square.webp
+      image: assets/img/logo_square.webp
