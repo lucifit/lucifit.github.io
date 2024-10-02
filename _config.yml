@@ -53,8 +53,8 @@ social:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
   # - jekyll-feed
-  # - jekyll-redirect-from
 
 defaults:
   - scope:
