@@ -24,7 +24,7 @@
     <button class="btn btn-primary btn-sm text-uppercase">
       <a
         href="https://partner.pabau.com/online-bookings/Health-and-Beauty-Lab"
-        style="color: white"
+        style="color: white" target="_blank" rel="noopener"
         >Book now</a
       >
     </button>
@@ -47,7 +47,7 @@
         link in site.data.navigation[site.locale].nav %}
         <li class="nav-item">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
+          <a class="nav-link js-scroll-trigger" href="{{ link.url }}" target="_blank" rel="noopener"
             >{{ link.title }}</a
           >
           {%- elsif link.section -%}
@@ -61,7 +61,7 @@
         {% endfor %} {% else %} {% for link in site.data.navigation.nav %}
         <li class="nav-item">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
+          <a class="nav-link js-scroll-trigger" href="{{ link.url }}" target="_blank" rel="noopener"
             >{{ link.title }}</a
           >
           {%- elsif link.section -%}
@@ -74,6 +74,56 @@
         </li>
         {% endfor %} {% endif %}
       </ul>
+      <!-- Services shown under dropdown -->
+      <div class="dropdown">
+        <button
+          class="btn btn-primary btn-sm text-uppercase dropdown-toggle"
+          type="button"
+          data-toggle="dropdown"
+          aria-expanded="false"
+        >
+          Services
+        </button>
+        <div class="dropdown-menu">
+          {% if site.locale and site.locale != "" and site.locale != nil %} {%
+          for link in site.data.navigation[site.locale].nav-services %} {%- if link.url
+          -%}
+          <a
+            class="dropdown-item nav-link js-scroll-trigger"
+            href="{{ link.url }}" target="_blank" rel="noopener"
+            >{{ link.title }}</a
+          >
+          {%- elsif link.section -%}
+          <a
+            class="dropdown-item nav-link js-scroll-trigger"
+            href="#{{ link.section }}"
+            >{{ link.title }}</a
+          >
+          {%- else -%}
+          <a class="dropdown-item nav-link js-scroll-trigger" href="#"
+            >{{ link.title }}</a
+          >
+          {%- endif -%} {% endfor %} {% else %} {% for link in
+          site.data.navigation.nav %} {%- if link.url -%}
+          <a
+            class="dropdown-item nav-link js-scroll-trigger"
+            href="{{ link.url }}" target="_blank" rel="noopener"
+            >{{ link.title }}</a
+          >
+          {%- elsif link.section -%}
+          <a
+            class="dropdown-item nav-link js-scroll-trigger"
+            href="#{{ link.section }}"
+            >{{ link.title }}</a
+          >
+          {%- else -%}
+          <a class="dropdown-item nav-link js-scroll-trigger" href="#"
+            >{{ link.title }}</a
+          >
+          {%- endif -%} {% endfor %} {% endif %}
+        </div>
+      </div>
+    </div>
     </div>
   </div>
 </nav>
