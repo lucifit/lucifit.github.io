@@ -41,6 +41,9 @@ en: &DEFAULT_EN
     section: integrated-care
     closebutton: "Close"
 
+  reviews:
+    section: reviews
+
   about-us:
     section: about-us
     title: "About Us"

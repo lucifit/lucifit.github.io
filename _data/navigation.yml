@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "About Us"
       section: about-us
+    - title: "Reviews"
+      section: reviews
     - title: "Login"
       url: "https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true"
   nav-services:
