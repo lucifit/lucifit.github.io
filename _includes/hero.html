@@ -1,0 +1,32 @@
+<!-- Hero -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<header class="masthead">
+  <div class="container">
+    <div class="intro-text">
+      <img src="assets/img/long_logo.webp" width="70%" alt="{{ site.title }}" />
+      {%- if site.data.sitetext[site.locale].header.text2 -%}
+      <div class="intro-text2">
+        {{ site.data.sitetext[site.locale].header.text2 | markdownify }}
+      </div>
+      <img src="assets/img/luca.webp" width="400px" alt="Luca Lucifora" />
+      {%- endif -%} {%- if site.data.sitetext[site.locale].header.button -%} {%-
+      endif -%}
+    </div>
+  </div>
+</header>
+{% else %}
+<header class="masthead">
+  <div class="container">
+    <div class="intro-text">
+      <img src="assets/img/long_logo.webp" width="70%" alt="{{ site.title }}" />
+      {%- if site.data.sitetext.header.text2 -%}
+      <div class="intro-text2">
+        {{ site.data.sitetext.header.text2 | markdownify }}
+      </div>
+      <img src="assets/img/luca.webp" width="400px" alt="Luca Lucifora" />
+      {%- endif -%} {%- if site.data.sitetext.header.button -%} {%- endif -%}
+    </div>
+  </div>
+</header>
+{% endif %}
+<!-- End Header -->

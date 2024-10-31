@@ -31,13 +31,19 @@
         for link in site.data.navigation[site.locale].nav -%}
         <li class="nav-item">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
+          <a
+            class="nav-link js-scroll-trigger"
+            href="{{ link.url }}"
+            target="_blank"
+            rel="noopener"
             >{{ link.title }}</a
           >
           {%- elsif link.section -%}
           <a
             class="nav-link js-scroll-trigger"
             href="{{ site.baseurl }}/#{{ link.section }}"
+            target="_blank"
+            rel="noopener"
             >{{ link.title }}</a
           >
           {%- else -%}
@@ -47,13 +53,19 @@
         {%- endfor -%} {% else %} {%- for link in site.data.navigation.nav -%}
         <li class="nav-item">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
+          <a
+            class="nav-link js-scroll-trigger"
+            href="{{ link.url }}"
+            target="_blank"
+            rel="noopener"
             >{{ link.title }}</a
           >
           {%- elsif link.section -%}
           <a
             class="nav-link js-scroll-trigger"
             href="{{ site.baseurl }}/#{{ link.section }}"
+            target="_blank"
+            rel="noopener"
             >{{ link.title }}</a
           >
           {%- else -%}

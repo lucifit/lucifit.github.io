@@ -12,20 +12,22 @@
 en: &DEFAULT_EN
   nav:
     - title: "About Us"
-      section: about-us
+      internal-url: "/#about-us"
     - title: "Reviews"
-      section: reviews
+      internal-url: "/#reviews"
+    - title: "Pricing"
+      internal-url: /pricing
     - title: "Login"
       url: "https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true"
   nav-services:
     - title: "Popular Choices"
-      section: common-services
+      internal-url: "/#common-services"
     - title: "Beauty Services"
-      section: beauty-services
+      internal-url: "/#beauty-services"
     - title: "Health Services"
-      section: health-services
+      internal-url: "/#health-services"
     - title: "Integrated Care"
-      section: integrated-care
+      internal-url: "/#integrated-care"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
