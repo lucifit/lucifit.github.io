@@ -44,6 +44,9 @@ en: &DEFAULT_EN
   reviews:
     section: reviews
 
+  chat:
+    section: chat
+
   about-us:
     section: about-us
     title: "About Us"
