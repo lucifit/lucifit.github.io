@@ -2,14 +2,16 @@
 layout: page
 ---
 # Pricing List
-Face to face consultations of 15 minutes are **free**. The same applies for consultations over the phone via phone call or chat.
+**Free** 15 minutes consultation (Face to face, by phone or  via chat).
 
 ## Osteopathy - Massage
+If you have any questions or concerns, feel free to reach out! Please note: Home visits may incur a surcharge of £10
 - Osteopathy Initial Consultation & Treatment 1hr: **£110**
 - Osteopathy Follow Up Treatment 45mins: **£90**
 - Osteopathy Follow Up Treatment 30mins: **£60**
 - Holistic MOT: (Osteopathy & Massage) 90mins: **£120**
 - Holistic MOT (Osteopathy & Massage) 1hr: **£90**
+- Dry Needling Standalone 1hr: **£90**
 - Massage 90 mins: **£110**
 - Massage 1hr: **£90**
 
@@ -73,4 +75,4 @@ Most people start seeing results from microneedling after 3 to 4 sessions, space
 - Hair loss Exosomes treatment 2 sessions **£320**
 - Hair loss Exosomes treatment 4 sessions **£600**
 
-## Free Consultation
+
