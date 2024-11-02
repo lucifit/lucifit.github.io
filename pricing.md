@@ -17,7 +17,6 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 ## Dermal Fillers
 if you have any preferences regarding product let us know before your appointment
-- Cheek Filler 1ml: **£220**
 - Lip Filler 0,5ml: **£150**
 - Lip Filler 1.0ml **£250**
 - Non Surgical Rhinoplasty (Nose Filler) 1,0ml **£300**
