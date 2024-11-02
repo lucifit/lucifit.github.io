@@ -2,10 +2,10 @@
 layout: page
 ---
 # Pricing List
-**Free** 15 minutes consultation (Face to face, by phone or  via chat).
+15 minutes consultation (Face to face, by phone or  via chat) **Free**.
 
 ## Osteopathy - Massage
-If you have any questions or concerns, feel free to reach out! Please note: Home visits may incur a surcharge of £10
+If you have any questions or concerns, feel free to reach out! Please note: Home visits may incur a surcharge of **£10**
 - Osteopathy Initial Consultation & Treatment 1hr: **£110**
 - Osteopathy Follow Up Treatment 45mins: **£90**
 - Osteopathy Follow Up Treatment 30mins: **£60**
