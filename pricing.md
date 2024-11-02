@@ -5,13 +5,13 @@ layout: page
 Face to face consultations of 15 minutes are **free**. The same applies for consultations over the phone via phone call or chat.
 
 ## Osteopathy - Massage
-- Massage 1hr: **£60**
-- Massage 90 mins: **£90**
-- Holistic MOT (Osteopathy & Massage) 1hr: **£90**
-- Holistic MOT: (Osteopathy & Massage) 90mins: **£120**
 - Osteopathy Initial Consultation & Treatment 1hr: **£110**
-- Osteopathy Follow Up Treatment 30mins: **£60**
 - Osteopathy Follow Up Treatment 45mins: **£90**
+- Osteopathy Follow Up Treatment 30mins: **£60**
+- Holistic MOT: (Osteopathy & Massage) 90mins: **£120**
+- Holistic MOT (Osteopathy & Massage) 1hr: **£90**
+- Massage 90 mins: **£90**
+- Massage 1hr: **£60**
 
 ## Dermal Fillers
 - Cheek Filler 1ml: **£220**
