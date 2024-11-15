@@ -17,62 +17,62 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 ## Dermal Fillers
 if you have any preferences regarding product let us know before your appointment
-- Lip Filler 0,5ml: **£149**
-- Lip Filler 1.0ml **£249**
-- Non Surgical Rhinoplasty (Nose Filler) 1,0ml **£299**
-- Nasolabial Fold (Smile lines) **£229**
-- Cheek Filler 1ml **£219**
-- Cheek Filler 1,5ml: **£289**
-- Cheek Filler 2ml: **£349**
-- Chin Filler 0,5ml: **£149**
-- Chin Filler 1ml: **£249**
-- Chin Filler 1,5ml: **£299**
-- Chin Filler 2ml: **£349**
-- Jaw Line Filler 1ml: **£219**
-- Jaw Line Filler 2ml: **£349**
-- Jaw Line Filler 3ml: **£449**
-- Jaw Line Filler 4ml: **£549**
+- Lip Filler 0,5ml: **£119**
+- Lip Filler 1.0ml **£189**
+- Non Surgical Rhinoplasty (Nose Filler) 1,0ml From **£199** To **£299**
+- Nasolabial Fold (Smile lines) **£169**
+- Cheek Filler 1ml **£159**
+- Cheek Filler 1,5ml: **£219**
+- Cheek Filler 2ml: **£259**
+- Chin Filler 0,5ml: **£119**
+- Chin Filler 1ml: **£189**
+- Chin Filler 1,5ml: **£219**
+- Chin Filler 2ml: **£259**
+- Jaw Line Filler 1ml: **£159**
+- Jaw Line Filler 2ml: **£259**
+- Jaw Line Filler 3ml: **£339**
+- Jaw Line Filler 4ml: **£409**
 
 ## Botulinum Toxin
 FREE top up session included after 2 weeks if needed
-- Anti Wrinkle Serum 1 Area: **£149**
-- Anti Wrinkle Serum 2 Areas: **£199**
-- Anti Wrinkle Serum 3 Areas: **£249**
-- Anti Wrinkle Serum 4 areas: **£279**
-- Nefertiti Lift: **£299**
-- Lip Flip: **£129**
-- Masseter Injection: **£229**
-- Chin Botox: **£129**
+- Anti Wrinkle Serum 1 Area: **£119**
+- Anti Wrinkle Serum 2 Areas: **£149**
+- Anti Wrinkle Serum 3 Areas: **£189**
+- Anti Wrinkle Serum 4 areas: **£209**
+- Nefertiti Lift: **£219**
+- Lip Flip: **£99**
+- Masseter Injection: **£169**
+- Chin Botox: **£99**
 
 ## Skin Boosters
-- Skin Booster - Profhilo 2ml: **£299**
-- Skin Booster: **£249**
-- Polynucleotides Face **£299**
-- Polynucleotides Under Eye **£149**
-- Tear Trough Jumber Threads plus Polynucleotides **£399**
+- Skin Booster - Profhilo 2ml: **£219**
+- Skin Booster: **£179**
+- Polynucleotides Face **£219**
+- Polynucleotides Under Eye **£119**
+- Tear Trough Jumber Threads plus Polynucleotides **£299**
 
 ## Microneedling
 Most people start seeing results from microneedling after 3 to 4 sessions, spaced about 4 to 6 weeks apart
-- Basic Microneedling: **£149**
-- Basic Microneedling 3 Sessions: **£419**
-- Basic Microneedling 4 Sessions: **£539**
-- Microneedling With Peptides **£199**
-- Microneedling With Peptides 3 Sessions **£569**
-- Microneedling With Peptides 4 Sessions **£739**
-- Microneedling With Polynucleotides **£249**
-- Microneedling With Polynucleotides 3 Sessions **£719**
-- Microneedling With Polynucleotides 4 Sessions **£939**
-- Microneedling With Exosomes **£299**
-- Microneedling With Exosomes 3 Sessions **£869**
-- Microneedling With Exosomes 4 Sessions **£1,139**
+- Basic Microneedling: **£119**
+- Basic Microneedling 3 Sessions: **£339**
+- Basic Microneedling 4 Sessions: **£439**
+- Microneedling With Peptides **£149**
+- Microneedling With Peptides 3 Sessions **£429**
+- Microneedling With Peptides 4 Sessions **£559**
+- Microneedling With Polynucleotides **£179**
+- Microneedling With Polynucleotides 3 Sessions **£519**
+- Microneedling With Polynucleotides 4 Sessions **£679**
+- Microneedling With Exosomes **£219**
+- Microneedling With Exosomes 3 Sessions **£639**
+- Microneedling With Exosomes 4 Sessions **£839**
 
 ## Other Injections
-- Fat Burn (lipolitic) 1 session: **£199**
-- Fat Burn (lipolitic) 2 sessions **£359**
-- Fat Burn (lipolitic) 4 sessions **£599**
-- Hair loss Exosomes treatment 1 session **£169**
-- Hair loss Exosomes treatment 2 sessions **£319**
-- Hair loss Exosomes treatment 4 sessions **£599**
+- Fat Burn (lipolitic) 1 session: **£149**
+- Fat Burn (lipolitic) 2 sessions **£279**
+- Fat Burn (lipolitic) 4 sessions **£519**
+- Hair loss Exosomes treatment 1 session **£129**
+- Hair loss Exosomes treatment 2 sessions **£249**
+- Hair loss Exosomes treatment 4 sessions **£459**
 
 
 
