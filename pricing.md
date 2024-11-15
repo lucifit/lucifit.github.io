@@ -17,7 +17,7 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 ## Dermal Fillers
 if you have any preferences regarding product let us know before your appointment.
-  **Free** check-up or top-up if needed after 2 weeks.
+**Free** check-up or top-up if needed after 2 weeks.
 
 - Lip Filler 0,5ml: **£119**
 - Lip Filler 1.0ml **£189**
