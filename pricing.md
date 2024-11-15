@@ -16,7 +16,9 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 - Massage 1hr: **£90**
 
 ## Dermal Fillers
-if you have any preferences regarding product let us know before your appointment
+if you have any preferences regarding product let us know before your appointment.
+**Free** check-up or top-up if needed after 2 weeks.
+
 - Lip Filler 0,5ml: **£119**
 - Lip Filler 1.0ml **£189**
 - Non Surgical Rhinoplasty (Nose Filler) 1,0ml From **£199** To **£299**
@@ -34,7 +36,7 @@ if you have any preferences regarding product let us know before your appointmen
 - Jaw Line Filler 4ml: **£409**
 
 ## Botulinum Toxin
-FREE top up session included after 2 weeks if needed
+**Free** check-up or top-up if needed after 2 weeks.
 - Anti Wrinkle Serum 1 Area: **£119**
 - Anti Wrinkle Serum 2 Areas: **£149**
 - Anti Wrinkle Serum 3 Areas: **£189**
