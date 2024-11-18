@@ -6,7 +6,7 @@ layout: page
 
 ## Osteopathy - Massage
 If you have any questions or concerns, feel free to reach out! Please note: Home visits and Last minute/emergency bookings may incur a surcharge.
-- Osteopathy Initial Consultation & Treatment 1hr: **£110**
+- Osteopathy Initial Consultation (including case history, physical examination, diagnosis and treatment) 1hr: **£110**
 - Osteopathy Follow Up Treatment 45mins: **£90**
 - Osteopathy Follow Up Treatment 30mins: **£60**
 - Holistic MOT: (Osteopathy & Massage) 90mins: **£120**
