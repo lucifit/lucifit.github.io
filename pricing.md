@@ -69,12 +69,12 @@ Most people start seeing results from microneedling after 3 to 4 sessions, space
 - Microneedling With Exosomes 4 Sessions **£839**
 
 ## Other Injections
-- Fat Burn (lipolitic) 1 session: **£149**
-- Fat Burn (lipolitic) 2 sessions **£279**
-- Fat Burn (lipolitic) 4 sessions **£519**
-- Hair loss Exosomes treatment 1 session **£129**
-- Hair loss Exosomes treatment 2 sessions **£249**
-- Hair loss Exosomes treatment 4 sessions **£459**
+- Fat Burn (lipolytic): **£149**
+- Fat Burn (lipolytic) 2 sessions **£279**
+- Fat Burn (lipolytic) 4 sessions **£519**
+- Hair loss Treatment **£129**
+- Hair loss Treatment 2 sessions **£249**
+- Hair loss Treatment 4 sessions **£459**
 
 
 
