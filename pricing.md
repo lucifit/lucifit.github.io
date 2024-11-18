@@ -72,9 +72,9 @@ Most people start seeing results from microneedling after 3 to 4 sessions, space
 - Fat Burn (lipolytic): **£149**
 - Fat Burn (lipolytic) 2 sessions **£279**
 - Fat Burn (lipolytic) 4 sessions **£519**
-- Hair loss Treatment **£129**
-- Hair loss Treatment 2 sessions **£249**
-- Hair loss Treatment 4 sessions **£459**
+- Hair Loss Treatment **£129**
+- Hair Loss Treatment 2 sessions **£249**
+- Hair Loss Treatment 4 sessions **£459**
 
 
 
