@@ -37,11 +37,11 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 ## Botulinum Toxin
 **Free** check-up or top-up if needed after 2 weeks.
-- Anti Wrinkle Serum 1 Area: **£119**
-- Anti Wrinkle Serum 2 Areas: **£149**
-- Anti Wrinkle Serum 3 Areas: **£189**
-- Anti Wrinkle Serum 4 areas: **£209**
-- Nefertiti Lift: **£219**
+- Anti Wrinkle Serum 1 Area: **£139**
+- Anti Wrinkle Serum 2 Areas: **£179**
+- Anti Wrinkle Serum 3 Areas: **£219**
+- Anti Wrinkle Serum 4 areas: **£249**
+- Nefertiti Lift: **£249**
 - Lip Flip: **£99**
 - Masseter Injection: **£169**
 - Chin Botox: **£99**
