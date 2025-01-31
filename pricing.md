@@ -20,7 +20,7 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 
 - Lip Filler 0,5ml: **£119**
-- Lip Filler 1.0ml **£189**
+- Lip Filler 1,0ml **£189**
 - Non Surgical Rhinoplasty (Nose Filler) 1,0ml From **£199** To **£299**
 - Nasolabial Fold (Smile lines) **£169**
 - Cheek Filler 1ml **£159**
