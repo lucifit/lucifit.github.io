@@ -1,0 +1,96 @@
+# https://github.com/untra/polyglot
+header:
+  book-now: Book Now
+  services: Services
+  links:
+    - title: About Us
+      internal-url: /#about-us
+    - title: Reviews
+      internal-url: /#reviews
+    - title: Locations
+      internal-url: /locations
+    - title: Pricing
+      internal-url: /pricing
+    - title: Login
+      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+  services-menu:
+    - title: Popular Choices
+      internal-url: /#popular-choices
+    - title: Beauty Services
+      internal-url: /#beauty-services
+    - title: Health Services
+      internal-url: /#health-services
+    - title: Integrated Care
+      internal-url: /#integrated-care
+
+hero:
+  text: |
+    For more detailed information about our services and fees, 
+    kindly reach out via email at <b><a href="mailto:info@healthandbeautylab.co.uk">info@healthandbeautylab.co.uk</a></b> 
+    or Whatsapp us at <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+
+about-us:
+  section: about-us
+  title: About Us
+  body: |
+    Located in the heart of London on Baker Street, we specialize in Aesthetic Injections (Anti-Wrinkle Treatments, Dermal Fillers), Osteopathy, and Dry Needling/Acupuncture, with home visits available upon request. Our personalized approach focuses on your well-being and convenience, providing expert care in a comfortable setting.  
+    Our team combines expertise in aesthetic injections, osteopathy, and dry needling/acupuncture with a holistic philosophy, tailoring each service to your unique needs. Whether you’re seeking musculoskeletal care, relaxation, or cosmetic enhancements, our qualified practitioners are dedicated to helping you achieve your goals.  
+    *Our Services Include:*  
+    - Aesthetic Injections (Anti-Wrinkle Treatments, Dermal Fillers)
+    - Osteopathic Assessments and Treatments
+    - Dry Needling/Acupuncture
+    - Musculoskeletal Pain Management
+    - Relaxing and Therapeutic Massages
+    - Stress Reduction and Relaxation Sessions
+
+    *Why Choose Us?*  
+    - *Convenience:* Visit us at our Baker Street clinic or enjoy the option of home services upon request.
+    - *Personalized Care:* Every session is tailored to meet your specific health or beauty needs.
+    - *Expertise:* Our practitioners have extensive experience in aesthetic injections, osteopathy, and dry needling.
+    - *Holistic Approach:* We blend health, beauty, and relaxation to promote overall well-being.
+    - *Flexible Scheduling:* Appointments are available to suit your schedule.
+
+    Discover the perfect combination of health, beauty, and relaxation. Contact us to book your session today!
+
+modal:
+  close: Close
+
+popular-choices:
+  title: Popular Choices
+  section: popular-choices
+
+beauty-services:
+  title: Beauty Services
+  section: beauty-services
+
+health-services:
+  title: Health Services
+  section: health-services
+
+integrated-care:
+  title: Integrated Care
+  section: integrated-care
+
+contact:
+  title: Contact Us
+  section: contact
+  name: Name*
+  name-validation: Please enter your name.
+  email: Email*
+  email-validation: Please enter your email address.
+  phone: Phone Number
+  phone-validation: Please enter your phone number.
+  message: Describe your enquire here
+  message-validation: Please enter a message.
+  subject: Contact Form Submission
+  submit: Send
+
+footer:
+  legal: Privacy Policy
+  social:
+    - url: https://www.instagram.com/health_and_beauty_lab
+      icon: fab fa-instagram
+    - url: https://wa.me/447918249545
+      icon: fab fa-whatsapp
+    - url: https://www.facebook.com/healthandbeautylabb
+      icon: fab fa-facebook

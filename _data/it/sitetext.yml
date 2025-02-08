@@ -1,0 +1,94 @@
+# https://github.com/untra/polyglot
+header:
+  book-now: Prenota Ora
+  services: Servizi
+  links:
+    - title: Chi Siamo
+      internal-url: /#about-us
+    - title: Recensioni
+      internal-url: /#reviews
+    - title: Località
+      internal-url: /locations
+    - title: Prezzi
+      internal-url: /pricing
+    - title: Accedi
+      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+  services-menu:
+    - title: Servizi Popolari
+      internal-url: /#popular-choices
+    - title: Servizi di Bellezza
+      internal-url: /#beauty-services
+    - title: Servizi Sanitari
+      internal-url: /#health-services
+    - title: Cura Integrata
+      internal-url: /#integrated-care
+
+hero:
+  text: |
+    Per informazioni più dettagliate sui nostri servizi e tariffe, 
+    contattaci via email a <b><a href="mailto:info@healthandbeautylab.co.uk">info@healthandbeautylab.co.uk</a></b> 
+    oppure chiamaci al <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+
+about-us:
+  section: about-us
+  title: Chi Siamo
+  body: |
+    Situato nel cuore di Londra in Baker Street, siamo specializzati in iniezioni estetiche (trattamenti antirughe, filler dermici), osteopatia e agopuntura a secco/agopuntura, con visite a domicilio disponibili su richiesta. Il nostro approccio personalizzato si concentra sul tuo benessere e sulla tua comodità, offrendo cure specialistiche in un ambiente confortevole. Il nostro team unisce l'esperienza in iniezioni estetiche, osteopatia e agopuntura a secco/agopuntura a una filosofia olistica, adattando ogni servizio alle tue esigenze uniche. Che tu stia cercando cure muscoloscheletriche, relax o miglioramenti estetici, i nostri professionisti qualificati sono impegnati ad aiutarti a raggiungere i tuoi obiettivi. *I nostri servizi includono:*
+    - Iniezioni estetiche (trattamenti antirughe, filler dermici)
+    - Valutazioni e trattamenti osteopatici
+    - Agopuntura a secco/Agopuntura
+    - Gestione del dolore muscoloscheletrico
+    - Massaggi rilassanti e terapeutici
+    - Riduzione dello stress e sedute di rilassamento
+
+    *Perché scegliere noi?*
+    - *Comodità:* Vieni a trovarci nella nostra clinica di Baker Street o goditi l'opzione di servizi a domicilio su richiesta.
+    - *Assistenza personalizzata:* Ogni sessione è personalizzata per soddisfare le tue specifiche esigenze di salute o bellezza.
+    - *Competenza:* I nostri professionisti hanno una vasta esperienza in iniezioni estetiche, osteopatia e agopuntura a secco.
+    - *Approccio olistico:* Combiniamo salute, bellezza e relax per promuovere il benessere generale.
+    - *Programmazione flessibile:* Sono disponibili appuntamenti in base al tuo programma.
+
+    Scopri la combinazione perfetta di salute, bellezza e relax. Contattaci per prenotare la tua sessione oggi stesso!
+
+modal:
+  close: Chiudi
+
+popular-choices:
+  title: Servizi Popolari
+  section: popular-choices
+
+beauty-services:
+  title: Servizi di Bellezza
+  section: beauty-services
+
+health-services:
+  title: Servizi Sanitari
+  section: health-services
+
+integrated-care:
+  title: Cura Integrata
+  section: integrated-care
+
+contact:
+  title: Contattaci
+  section: contact
+  name: Nome*
+  name-validation: Inserisci il tuo nome.
+  email: Email*
+  email-validation: Inserisci la tua email.
+  phone: Numero di telefono
+  phone-validation: Inserisci il tuo numero di telefono.
+  message: Inserisci il tuo messaggio
+  message-validation: Inserisci il tuo messaggio.
+  subject: Contact Form Submission
+  submit: Invia
+
+footer:
+  legal: Politica sulla riservatezza
+  social:
+    - url: https://www.instagram.com/health_and_beauty_lab
+      icon: fab fa-instagram
+    - url: https://wa.me/447918249545
+      icon: fab fa-whatsapp
+    - url: https://www.facebook.com/healthandbeautylabb
+      icon: fab fa-facebook
