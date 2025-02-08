@@ -1,5 +1,5 @@
-// Styling for the portfolio section
-#common-services {
+// Styling for the health-services section
+#health-services {
   .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -34,7 +34,7 @@
             margin-top: -12px;
           }
           h3,
-          h4 {
+          h6 {
             margin: 0;
           }
         }
@@ -43,15 +43,15 @@
     .portfolio-caption {
       max-width: 400px;
       margin: 0 auto;
-      padding: 25px;
+      padding: 5px;
       text-align: center;
       background-color: $white;
-      h4 {
+      h6 {
         margin: 0;
         text-transform: none;
       }
       p {
-        font-size: 16px;
+        font-size: 14px;
         font-style: italic;
         margin: 0;
         @include serif-font;
@@ -63,7 +63,7 @@
   }
 }
 @media (min-width: 767px) {
-  #common-services {
+  #health-services {
     .portfolio-item {
       margin: 0 0 30px;
     }
