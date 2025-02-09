@@ -4,6 +4,7 @@ body {
   @include body-font;
   background-color: $gray-100;
   color: #000000;
+  text-align: unset;
 }
 
 p {

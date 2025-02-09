@@ -1,15 +1,24 @@
 <!-- About us -->
-<section class="page-section" id="{{ site.data[site.active_lang].sitetext.about-us.section | default: "about-us" }}">
+<section
+  class="page-section"
+  id="{{ site.data[site.active_lang].sitetext.about-us.section }}"
+>
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">{{ site.data[site.active_lang].sitetext.about-us.title | default: "About Us" }}</h2>
-        <h3 class="section-subheading">{{ site.data[site.active_lang].sitetext.about-us.text | default: "" }}</h3>
+        <h2 class="section-heading text-uppercase">
+          {{ site.data[site.active_lang].sitetext.about-us.title }}
+        </h2>
+        <h3 class="section-subheading">
+          {{ site.data[site.active_lang].sitetext.about-us.text }}
+        </h3>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <div class="large">{{ site.data[site.active_lang].sitetext.about-us.body | markdownify }}</div>
+        <div class="large">
+          {{ site.data[site.active_lang].sitetext.about-us.body | markdownify }}
+        </div>
       </div>
     </div>
   </div>
