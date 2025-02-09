@@ -1,0 +1,95 @@
+# https://github.com/untra/polyglot
+header:
+  book-now: احجز الآن
+  services: الخدمات
+  links:
+    - title: من نحن
+      internal-url: /#about-us
+    - title: التعليقات
+      internal-url: /#reviews
+    - title: الموقع
+      internal-url: /locations
+    - title: الأسعار
+      internal-url: /pricing
+    - title: تسجيل الدخول
+      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+  services-menu:
+    - title: الخدمات الشعبية
+      internal-url: /#popular-choices
+    - title: خدمات التجميل
+      internal-url: /#beauty-services
+    - title: الخدمات الصحية
+      internal-url: /#health-services
+    - title: الرعاية المتكاملة
+      internal-url: /#integrated-care
+
+hero:
+  text: |
+    لمزيد من المعلومات حول خدماتنا وأسعارنا،
+    اتصل بنا عبر البريد الإلكتروني على <b><a href="mailto:info@healthandbeautylab.co.uk">info@healthandbeautylab.co.uk</a></b>
+    أو اتصل بنا على <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+
+about-us:
+  section: about-us
+  title: من نحن
+  body: |
+    يقع مركزنا في قلب لندن على شارع بيكر، ويتخصص في الحقن التجميلية (علاجات مكافحة التجاعيد، الحشوات الجلدية)، والعلاج بالعظام، والوخز بالإبر الجافة/الوخز بالإبر، مع إمكانية إجراء زيارات منزلية عند الطلب. يركز نهجنا الشخصي على رفاهيتك وراحتك، وتوفير رعاية متخصصة في بيئة مريحة. يجمع فريقنا بين الخبرة في الحقن التجميلية والعلاج بالعظام والوخز بالإبر الجافة/الوخز بالإبر مع فلسفة شاملة، حيث يخصص كل خدمة لاحتياجاتك الفريدة. سواء كنت تبحث عن رعاية العضلات والعظام، أو الاسترخاء، أو التحسينات التجميلية، فإن ممارسينا المؤهلين ملتزمون بمساعدتك على تحقيق أهدافك.
+    *تتضمن خدماتنا:*
+    - الحقن التجميلية (علاجات مكافحة التجاعيد، الحشوات الجلدية)
+    - التقييمات والعلاجات العظمية
+    - الوخز بالإبر الجافة/الوخز بالإبر
+    - إدارة آلام الجهاز العضلي الهيكلي
+    - التدليك المريح والعلاجي
+    - جلسات تخفيف التوتر والاسترخاء
+
+    *لماذا تختارنا؟*
+    - *الراحة:* تفضل بزيارة عيادتنا في شارع بيكر أو استمتع بخيار الخدمات المنزلية عند الطلب.
+    - *رعاية شخصية:* يتم تصميم كل جلسة لتلبية احتياجاتك الصحية أو الجمالية المحددة.
+    - *الخبرة:* يتمتع ممارسونا بخبرة واسعة في الحقن التجميلية والعظام والوخز بالإبر الجافة.
+    - *النهج الشامل:* نمزج بين الصحة والجمال والاسترخاء لتعزيز الرفاهية العامة.
+    - *الجدولة المرنة:* تتوفر المواعيد لتناسب جدولك.
+
+    اكتشف المزيج المثالي من الصحة والجمال والاسترخاء. اتصل بنا لحجز جلستك اليوم!
+
+modal:
+  close: إغلاق
+
+popular-choices:
+  title: الخدمات الشعبية
+  section: popular-choices
+
+beauty-services:
+  title: خدمات التجميل
+  section: beauty-services
+
+health-services:
+  title: الخدمات الصحية
+  section: health-services
+
+integrated-care:
+  title: الرعاية المتكاملة
+  section: integrated-care
+
+contact:
+  title: اتصل بنا
+  section: contact
+  name: الاسم*
+  name-validation: الرجاء إدخال اسمك.
+  email: البريد الإلكتروني*
+  email-validation: الرجاء إدخال بريدك الإلكتروني.
+  phone: رقم الهاتف
+  phone-validation: الرجاء إدخال رقم هاتفك.
+  message: الرجاء إدخال رسالتك
+  message-validation: الرجاء إدخال رسالتك.
+  subject: إرسال نموذج الاتصال
+  submit: إرسال
+
+footer:
+  legal: سياسة الخصوصية
+  social:
+    - url: https://www.instagram.com/health_and_beauty_lab
+      icon: fab fa-instagram
+    - url: https://wa.me/447918249545
+      icon: fab fa-whatsapp
+    - url: https://www.facebook.com/healthandbeautylabb
+      icon: fab fa-facebook
