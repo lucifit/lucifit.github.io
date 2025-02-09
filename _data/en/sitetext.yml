@@ -2,6 +2,7 @@
 header:
   book-now: Book Now
   services: Services
+  language: Language
   links:
     - title: About Us
       internal-url: /#about-us
@@ -94,3 +95,7 @@ footer:
       icon: fab fa-whatsapp
     - url: https://www.facebook.com/healthandbeautylabb
       icon: fab fa-facebook
+
+languages:
+  en: English
+  it: Italiano

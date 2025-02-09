@@ -104,6 +104,31 @@
           {% endfor %}
         </div>
       </div>
+      <span>&nbsp;</span>
+
+      <!-- Language Selector -->
+      <div class="dropdown">
+        <button
+          class="btn btn-primary btn-sm text-uppercase dropdown-toggle"
+          data-toggle="dropdown"
+          aria-expanded="false"
+        >
+        <i class="fa fa-globe"></i>
+          {{ site.data[site.active_lang].sitetext.languages[ site.active_lang ] }}
+        </button>
+        <div class="dropdown-menu">
+          {% for tongue in site.languages %}
+          <a 
+            class="dropdown-item nav-link js-scroll-trigger" 
+            {% if tongue == site.active_lang %} style="font-weight: bold;"{% endif %} 
+            {% static_href %}
+              href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"
+            {% endstatic_href %} >
+            {{ site.data[site.active_lang].sitetext.languages[ tongue ] | default: tongue }}
+          </a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
+          {% endfor %}
+        </div>
+      </div>
     </div>
     </div>
   </div>
