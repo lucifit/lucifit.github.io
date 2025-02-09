@@ -113,8 +113,11 @@
           data-toggle="dropdown"
           aria-expanded="false"
         >
-        <i class="fa fa-globe"></i>
-          {{ site.data[site.active_lang].sitetext.languages[ site.active_lang ] }}
+          <img
+            src="assets/img/flags/{{ site.active_lang }}.png"
+            alt="{{ site.data[site.active_lang].sitetext.languages[ site.active_lang ] }}"
+            width="20px"
+          />
         </button>
         <div class="dropdown-menu">
           {% for tongue in site.languages %}
@@ -124,7 +127,12 @@
             {% static_href %}
               href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"
             {% endstatic_href %} >
-            {{ site.data[site.active_lang].sitetext.languages[ tongue ] | default: tongue }}
+            <img
+            src="assets/img/flags/{{ tongue }}.png"
+            alt="{{ site.data[site.active_lang].sitetext.languages[ tongue ] }}"
+            width="20px"
+          />
+            {{ site.data[site.active_lang].sitetext.languages[ tongue ] }}
           </a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
           {% endfor %}
         </div>
