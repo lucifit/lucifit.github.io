@@ -11,6 +11,8 @@ subtitle: Massage therapy with sustained pressure over muscles and connective ti
         relax and release stiffening patterns within client's threshold of pain."
 image: assets/img/portfolio/deep-tissue-massage.webp
 alt: Deep Tissue Massage
+lang: en
+page_id: deep-tissue-massage
 
 ---
 Deep tissue massage is a type of massage therapy where the therapist

@@ -9,6 +9,8 @@ title: Lymphatic Draining Massage
 subtitle: Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.
 image: assets/img/portfolio/lymphatic-drainage-massage.webp
 alt: Lymphatic Draining Massage
+lang: en
+page_id: lymphatic-drainage-massage
 
 ---
 Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.

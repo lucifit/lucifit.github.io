@@ -9,6 +9,8 @@ title: IASTM or Scraping therapy (Gua sha)
 subtitle: Scraping therapy utilizes instruments with smooth edges to scrape the skin until red blemishes occur. The aim of this intervention is to break down fascial restrictions and scar tissue that could have developed as a result of immobilization, surgery, or musculoskeletal strains and injuries.
 image: assets/img/portfolio/scrapping-therapy.webp
 alt: IASTM or Scraping therapy (Gua sha)
+lang: en
+page_id: scrapping-therapy
 
 ---
 **Effects of scraping therapy based on research:**

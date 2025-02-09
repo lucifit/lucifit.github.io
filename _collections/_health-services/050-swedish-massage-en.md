@@ -9,6 +9,8 @@ title: Swedish/Relaxing Massage
 subtitle: Sweedish or relaxing massage is using gentle techniques which focus on the superficial (not deep) tissues. While it can be performed in the whole body, Sweedish massage emphasizes on physical symptoms and areas of discomfort.
 image: assets/img/portfolio/swedish-massage.webp
 alt: Swedish/Relaxing Massage
+lang: en
+page_id: swedish-massage
 
 ---
 **Effectiveness according to research:**

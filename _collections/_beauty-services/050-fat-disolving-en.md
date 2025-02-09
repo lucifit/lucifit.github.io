@@ -9,6 +9,8 @@ title: Fat Dissolving
 subtitle: 
 image: assets/img/portfolio/fat-disolving.webp
 alt: Fat Dissolving
+lang: en
+page_id: fat-disolving
 
 ---
 ### Fat Dissolving

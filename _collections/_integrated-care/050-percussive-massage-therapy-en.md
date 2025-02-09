@@ -10,6 +10,8 @@ caption:
   title: Percussive Massage Therapy
   subtitle: Percussive massage therapy or vibration therapy
   thumbnail: assets/img/portfolio/percussive-massage-therapy.webp
+lang: en
+page_id: percussive-massage-therapy
 ---
 Percussive massage therapy or vibration therapy use specific tools
 (massage guns) that create a very short and fast vibratory movement on

@@ -9,6 +9,8 @@ title: Anti-Wrinkle Injection
 subtitle: 
 image: assets/img/portfolio/anti-wrinkle-treatment.webp
 alt: Anti-Wrinkle Injection
+lang: en
+page_id: anti-wrinkle-treatment2
 
 ---
 ### Anti-Wrinkle Injection (Botulinum)

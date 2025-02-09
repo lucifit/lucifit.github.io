@@ -9,6 +9,8 @@ title:  Skin Boosters
 subtitle: 
 image: assets/img/portfolio/skin_booster.webp
 alt:  Skin Boosters
+lang: en
+page_id: skin_booster
 
 ---
 ### Skin Boosters

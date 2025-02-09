@@ -9,6 +9,8 @@ title: Pain Management
 subtitle: Combination of treatment modalities to manage or reduce the pain and discomfort.
 image: assets/img/portfolio/pain-management.webp
 alt: Pain Management
+lang: en
+page_id: pain-management
 
 ---
 In pain management, we use a combination of treatment modalities tailored to your presentation to manage or reduce the pain and discomfort. The difference of pain management compared to other services is that within a treatment session the practitioner will assess you and depending on the findings, will select and use a combination of treatment modalities that are most appropriate for you.

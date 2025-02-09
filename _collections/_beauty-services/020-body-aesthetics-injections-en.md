@@ -9,6 +9,8 @@ title: Botulinum Toxin Specialized Treatments
 subtitle: 
 image: assets/img/portfolio/botulinum-treatment.webp
 alt: Body Aesthetic Injections
+lang: en
+page_id: botulinum-treatment
 
 ---
 ### Botulinum Toxin Specialized Treatments

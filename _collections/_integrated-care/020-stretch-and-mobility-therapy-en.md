@@ -9,6 +9,8 @@ title: Stretch and Mobility Therapy
 subtitle: Combines joint mobilisation techniques with stretching.
 image: assets/img/portfolio/stretch-mobility-therapy.webp
 alt: Stretch and Mobility Therapy
+lang: en
+page_id: stretch-mobility-therapy
 
 ---
 Stretching and mobility are two of the most common and effective interventions to manage musculoskeletal pain. In this treatment, the trained practitioner combines joint mobilisation techniques with stretching. Some of the techniques in this session are passive (done by the practitioner) and others are more dynamic (exercise-based). This combination can optimize the recovery process.

@@ -10,6 +10,8 @@ caption:
   title: Dry Needling
   subtitle: Procedure where a small needle is inserted into the muscle, aiming to treat trigger points
   thumbnail: assets/img/portfolio/dry-needling.webp
+lang: en
+page_id: dry-needling
 ---
 Dry needling is a procedure where a small needle is inserted into the
 muscle, aiming to treat trigger points. Trigger points are muscular
