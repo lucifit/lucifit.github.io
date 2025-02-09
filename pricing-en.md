@@ -1,5 +1,7 @@
 ---
 layout: page
+permalink: pricing
+lang: en
 ---
 # Pricing List
 15 minutes consultation (Face to face, by phone or  via chat) **Free**.
