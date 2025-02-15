@@ -1,57 +1,39 @@
 ---
-title: Percussive Massage Therapy
-subtitle: Percussive massage therapy or vibration therapy uses specific tools (massage guns) that create a very short and fast vibratory 
-        movement on the applied muscle. Depending on the tissue applied in, the practitioner uses different massage gun heads and frequencies of
-        vibration to tailor the treatment.
+
+title: علاج التدليك بالطرق الارتجاجي
+subtitle: يستخدم العلاج بالتدليك الإيقاعي أو العلاج بالاهتزاز أدوات محددة (مسدسات التدليك) التي تخلق حركة اهتزازية قصيرة جدًا وسريعة على العضلات المطبقة. اعتمادًا على الأنسجة المستخدمة، يستخدم الممارس رؤوس مسدسات تدليك مختلفة وترددات اهتزاز مختلفة لتخصيص العلاج.
 image: assets/img/portfolio/percussive-massage-therapy.webp
-alt: Percussive Massage Therapy
+alt: العلاج بالتدليك القرعي
 
 caption:
-  title: Percussive Massage Therapy
-  subtitle: Percussive massage therapy or vibration therapy
+  title: علاج التدليك بالطرق
+  subtitle: علاج التدليك القرعي أو العلاج بالاهتزاز
   thumbnail: assets/img/portfolio/percussive-massage-therapy.webp
 lang: ar
 page_id: percussive-massage-therapy
 ---
-Percussive massage therapy or vibration therapy use specific tools
-(massage guns) that create a very short and fast vibratory movement on
-the applied muscle. Depending on the tissue applied in, the practitioner
-uses different massage gun heads and frequencies of vibration to tailor
-the treatment.\[1\]
+**العلاج بالتدليك الإيقاعي أو العلاج بالاهتزاز**
 
-**Effectiveness of massage therapy according to research**
--   Increases range of movement \[2\]
--   Reduces muscle stiffness \[3\]
--   reduces pain from musculoskeletal causes \[4\]
--   Increases muscular strength \[2\]
--   Increases explosive power in athletes \[5\]
--   Reduces DOMS (muscular soreness after a workout) \[5\]
--   Increases blood flow under the skin \[5\]
+يستخدم أدوات محددة (مثل المسدسات التدليكية) التي تُحدث حركة اهتزازية قصيرة وسريعة للغاية على العضلات المستهدفة. بحسب النسيج المطبق عليه، يستخدم المعالج رؤوس مسدس تدليك وترددات اهتزاز مختلفة لتخصيص العلاج.
 
-**References:**
+**فعالية العلاج بالتدليك وفقًا للأبحاث**
 
-1.  *Konrad, A., Glashüttner, C., Reiner, M. M., Bernsteiner, D., &
-    Tilp, M. (2020). The Acute Effects of a Percussive Massage Treatment
-    with a Hypervolt Device on Plantar Flexor Muscles\' Range of Motion
-    and Performance. Journal of sports science & medicine, 19(4),
-    690--694.*
+- يزيد من مدى الحركة
+- يقلل من تصلب العضلات
+- يقلل من الألم الناتج عن الأسباب العضلية الهيكلية
+- يزيد من القوة العضلية
+- يزيد من القوة التفجيرية لدى الرياضيين
+- يقلل من ألم العضلات المؤخر بعد التمرين (DOMS)
+- يزيد من تدفق الدم تحت الجلد
 
-2.  *Germann D., El Bouse A., Shnier J., Abdelkader N., Kazemi M.
-    (2018) Effects of local vibration therapy on various performance
-    parameters: A narrative literature review. Journal of the Canadian
-    Chiropractic Association 62(3), 170--181*
+**المراجع:**
 
-3.  *Eriksson Crommert M., Lacourpaille L., Heales L. J., Tucker K.,
-    Hug F. (2015). Massage induces an immediate, albeit short-term,
-    reduction in muscle stiffness. Scandinavian Journal of Medicine and
-    Science in Sports 25(5), e490--e496*
+1.  *Konrad, A., Glashüttner, C., Reiner, M. M., Bernsteiner, D., & Tilp, M. (2020). الآثار الفورية لعلاج تدليك إيقاعي بجهاز هايبرڤولت على مدى حركة وأداء عضلات مثنية القدم. مجلة علوم الرياضة والطب، 19(4)، 690-694.*
 
-4.  *Cheatham S. W., Stull K. R., Kolber M. J. (2019) Comparison of a
-    vibration roller and a nonvibration roller intervention on knee
-    range of motion and pressure pain threshold: A randomized controlled
-    trial. Journal of Sport Rehabilitation 28(1), 39--45.*
+2.  *Germann D., El Bouse A., Shnier J., Abdelkader N., Kazemi M. (2018) تأثيرات العلاج الموضعي بالاهتزاز على مختلف العوامل الأداءية: مراجعة للأدبيات السردية. مجلة الرابطة الكندية لتقويم العمود الفقري 62(3)، 170-181.*
 
-5.  *Veqar, Z., & Imtiyaz, S. (2014). Vibration Therapy in Management of
-    Delayed Onset Muscle Soreness (DOMS). Journal of clinical and
-    diagnostic research : JCDR, 8(6), LE01--LE4.
-    https://doi.org/10.7860/JCDR/2014/7323.4434*
+3.  *Eriksson Crommert M., Lacourpaille L., Heales L. J., Tucker K., Hug F. (2015). التدليك يؤدي إلى انخفاض فوري ولكن قصير المدى في تصلب العضلات. مجلة الطب والعلوم في الرياضة الاسكندنافية 25(5)، e490-e496.*
+
+4.  *Cheatham S. W., Stull K. R., Kolber M. J. (2019) مقارنة بين التدليك باستخدام الرول الاهتزاي والرول غير الاهتزاي على مدى حركة الركبة وحد الألم بالضغط: تجربة عشوائية محكومة. مجلة إعادة التأهيل الرياضي 28(1)، 39-45.*
+
+5.  *Veqar, Z., & Imtiyaz, S. (2014). العلاج بالاهتزاز في إدارة ألم العضلات المتأخر (DOMS). مجلة البحوث السريرية والتشخيصية: JCDR، 8(6)، LE01-LE4. https://doi.org/10.7860/JCDR/2014/7323.4434*

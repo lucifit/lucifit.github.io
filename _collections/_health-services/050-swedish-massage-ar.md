@@ -1,27 +1,28 @@
 ---
+
 caption: #what displays in the portfolio grid:
-  title: Swedish/Relaxing Massage
-  subtitle: Gentle techniques which focus on the superficial tissues
+  title: تدليك سويدي/مريح
+  subtitle: تقنيات لطيفة تركز على الأنسجة السطحية
   thumbnail: assets/img/portfolio/swedish-massage.webp
   
 #what displays when the item is clicked:
-title: Swedish/Relaxing Massage
-subtitle: Sweedish or relaxing massage is using gentle techniques which focus on the superficial (not deep) tissues. While it can be performed in the whole body, Sweedish massage emphasizes on physical symptoms and areas of discomfort.
+title: مساج سويدي/استرخائي
+subtitle: التدليك السويدي أو التدليك المريح يستخدم تقنيات لطيفة تركز على الأنسجة السطحية (وليست العميقة). وعلى الرغم من أنه يمكن تطبيقه على الجسم بالكامل، إلا أن التدليك السويدي يركز على الأعراض الجسدية ومناطق الانزعاج.
 image: assets/img/portfolio/swedish-massage.webp
-alt: Swedish/Relaxing Massage
+alt: تدليك سويدي / استرخائي
 lang: ar
 page_id: swedish-massage
 
 ---
-**Effectiveness according to research:**
-1. Decreases pain level in musculoskeletal conditions [1]
-2. Decreases muscular tension [2]
-3. Increases range of movement [2]
-4. Increases local blood circulation [2]
+**الفعالية وفقًا للأبحاث:**
 
- 
- 
-**References:**
-1. *Sritoomma Netchanok, Moyle Wendy, Cooke Marie, O'Dwyer Siobhan, The effectiveness of Swedish massage and traditional Thai massage in treating chronic low back pain: A review of the literature, Complementary Therapies in Clinical Practice, Volume 18, Issue 4, 2012, Pages 227-234, ISSN 1744-3881,https://doi.org/10.1016/j.ctcp.2012.07.001*
+1. يقلل مستوى الألم في حالات الجهاز العضلي الهيكلي [1]
+2. يقلل التوتر العضلي [2]
+3. يزيد من نطاق الحركة [2]
+4. يزيد من الدورة الدموية المحلية [2]
 
-2. *Jamsek, Mark. (2013). Physiological Effects of Swedish Massage: A Preliminary Analysis of the Fundamental Techniques. A preliminary analysis of the literature elucidating the physiological effects of the basic Swedish strokes.*
+**المراجع:**
+
+1. *Netchanok Sritoomma, Wendy Moyle, Marie Cooke, Siobhan O'Dwyer, فعالية التدليك السويدي والتدليك التايلاندي التقليدي في علاج آلام أسفل الظهر المزمنة: مراجعة للأدبيات، العلاجات التكميلية في الممارسة السريرية، المجلد 18، العدد 4، 2012، الصفحات 227-234، ISSN 1744-3881، https://doi.org/10.1016/j.ctcp.2012.07.001*
+
+2. *Jamsek, Mark. (2013). التأثيرات الفسيولوجية للتدليك السويدي: تحليل أولي للتقنيات الأساسية. تحليل أولي للأدبيات توضح التأثيرات الفسيولوجية للضربات السويدية الأساسية.*

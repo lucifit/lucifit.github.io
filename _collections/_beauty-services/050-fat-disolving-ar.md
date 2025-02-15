@@ -1,44 +1,45 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Fat Dissolving
-  subtitle:  
+  title: إذابة الدهون
+  subtitle: 
   thumbnail: assets/img/portfolio/fat-disolving.webp
   
 #what displays when the item is clicked:
-title: Fat Dissolving
+title: إذابة الدهون
 subtitle: 
 image: assets/img/portfolio/fat-disolving.webp
-alt: Fat Dissolving
+alt: إذابة الدهون
 lang: ar
 page_id: fat-disolving
-
 ---
-### Fat Dissolving
-- Double Chin Reduction: Fat dissolving injections are often used to reduce submental fat, commonly referred to as a "double chin."
-- Body Contouring: The procedure can be applied to other areas with localized fat deposits, such as the abdomen, thighs, or flanks.
+### إذابة الدهون
 
-Fat dissolving, also known as non-surgical fat reduction or injection lipolysis, is a cosmetic procedure designed to reduce localized pockets of fat without surgery. One common method involves the use of injectable compounds, such as deoxycholic acid, to break down and eliminate fat cells. This procedure is often used for contouring areas with excess fat, such as under the chin (submental fat).
+- تقليل الذقن المزدوجة: تُستخدم حقن إذابة الدهون غالبًا لتقليل الدهون تحت الذقن، والمعروفة باسم "الذقن المزدوجة".
+- تشكيل الجسم: يمكن تطبيق الإجراء على مناطق أخرى تحتوي على تراكمات دهنية موضعية، مثل البطن أو الفخذين أو الجوانب.
 
-Here's how fat dissolving works:
+إذابة الدهون، والمعروفة أيضًا باسم تقليل الدهون بدون جراحة أو تحلل الدهون بالحقن، هي إجراء تجميلي يُصمم لتقليل جيوب الدهون الموضعية بدون جراحة. إحدى الطرق الشائعة تتضمن استخدام تركيبات قابلة للحقن، مثل حمض الديوكسيكوليك، لتكسير والتخلص من الخلايا الدهنية. يُستخدم هذا الإجراء غالبًا لتشكيل المناطق ذات الدهون الزائدة، مثل تحت الذقن (الدهون تحت الذقن).
 
-- Injection of Solution:
-  -	A solution containing a fat-dissolving compound, typically deoxycholic acid, is injected directly into the targeted area with excess fat.
+إليك كيفية عمل إذابة الدهون:
 
-- Deoxycholic Acid:
-  -	Deoxycholic acid is a naturally occurring bile acid in the body that aids in the breakdown and absorption of dietary fat. In a fat dissolving procedure, a synthetic form of deoxycholic acid is used in higher concentrations to disrupt the fat cell membrane.  
+- حقن المحلول:
 
-- Disruption of Fat Cells:
-  -	The injected solution disrupts the integrity of fat cell membranes, causing them to break down. This process is also known as adipocytolysis.  
+  - يتم حقن محول يحتوي على مركب لإذابة الدهون، عادةً ما يكون حمض الديوكسيكوليك، مباشرة في المنطقة المستهدفة ذات الدهون الزائدة.
+- حمض الديوكسيكوليك:
 
-- Release of Fatty Acids:
-  -	As fat cells break down, they release fatty acids and other components. The body's natural metabolic processes then work to eliminate these byproducts.  
+  - حمض الديوكسيكوليك هو حمض صفراوي طبيعي في الجسم يساعد في تكسير وامتصاص الدهون الغذائية. في إجراء إذابة الدهون، تُستخدم صورة صناعية لحمض الديوكسيكوليك بتركيزات أعلى لتعطيل غشاء الخلية الدهنية.
+- تعطيل الخلايا الدهنية:
 
-- Gradual Fat Reduction:
-  -	Over several weeks to months, the treated area experiences a gradual reduction in fat volume as the broken-down fat cells are cleared away by the body's lymphatic system.  
+  - يعمل المحلول المحقون على تعطيل سلامة أغشية الخلايا الدهنية، مما يؤدي إلى تكسيرها. يُعرف هذا العملية أيضًا باسم تحلل الدهون.
+- إطلاق الأحماض الدهنية:
 
-- Important Considerations:
-  -	Multiple sessions may be required to achieve optimal results.
-  -	Swelling, bruising, and temporary discomfort at the injection site are common side effects.
-  -	Results are not immediate and may take several weeks to become noticeable.
+  - مع تفكك الخلايا الدهنية، تطلق الأحماض الدهنية ومكونات أخرى. تعمل العمليات الأيضية الطبيعية للجسم على التخلص من هذه المنتجات الزائدة.
+- تقليل الدهون تدريجيًا:
 
-It's crucial to have a consultation with a healthcare professional to determine if fat dissolving is a suitable option for your specific goals and to discuss potential risks and benefits.
+  - على مدى عدة أسابيع إلى شهور، تشهد المنطقة المعالجة تقليلاً تدريجيًا في حجم الدهون مع تخلص النظام اللمفاوي للجسم من الخلايا الدهنية المتكسرة.
+- اعتبارات مهمة:
+
+  - قد تكون هناك حاجة إلى جلسات متعددة لتحقيق النتائج المثلى.
+  - الانتفاخ والكدمات والانزعاج المؤقت في موقع الحقن هي آثار جانبية شائعة.
+  - لا تظهر النتائج فورًا وقد تستغرق عدة أسابيع لتصبح ملحوظة.
+
+من الضروري استشارة مختص طبي لتحديد ما إذا كانت إذابة الدهون خيارًا مناسبًا لأهدافك الخاصة ولمناقشة المخاطر والفوائد المحتملة.

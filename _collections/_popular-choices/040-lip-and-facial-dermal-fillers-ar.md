@@ -1,42 +1,35 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Lip and Facial Dermal Fillers
-  subtitle:  
+  title: حشو الشفاه والوجه الجلدي
+  subtitle: 
   thumbnail: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
   
 #what displays when the item is clicked:
-title: Lip and Facial Dermal Fillers
+title: حشوات الشفاه والوجه الجلدية
 subtitle: 
 image: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
-alt: Lip and Facial Dermal Fillers
+alt: حشوات الشفاه والوجه الجلدية
 lang: ar
 page_id: lip_and_facial_dermal_fillers2
-
 ---
-### Lip and Facial Dermal Fillers
-- Lip augmentation
-- Rhino Filler
-- Temple Filler 
-- Jawline contouring
-- Cheek enhancement
-- Tear troughs (under-eye hollows)
-- Nasolabial folds (lines from the nose to the mouth)
-- Marionette lines (lines around the mouth)
+### حقن الفيلر للشفاه والوجه
 
-Dermal fillers are cosmetic injectables designed to add volume, contour, and reduce the appearance of wrinkles and fine lines in the face. They are commonly used to restore a more youthful and refreshed appearance. Unlike botulinum toxin, which relaxes muscles to reduce wrinkles, fillers work by adding volume to the treated area.  
+- تكبير الشفاه
+- فيلر للأنف
+- فيلر للصدغين
+- تحديد خط الفك
+- تعزيز الخدود
+- علاج التجاويف تحت العين
+- طيات الأنف الشفوية (الخطوط من الأنف إلى الفم)
+- خطوط الماريونيت (الخطوط حول الفم)
 
-Here's how dermal fillers generally work:
-- Composition:  
-  Dermal fillers are typically made of various substances, and the specific type of filler used can vary. Common filler ingredients include hyaluronic acid, collagen, calcium hydroxylapatite, and poly-L-lactic acid. Hyaluronic acid is one of the most widely used and versatile fillers.
+حقن الفيلر هي مواد تجميلية تُحقن بهدف إضافة حجم وتشكيل وتقليل ظهور التجاعيد والخطوط الدقيقة في الوجه. تُستخدم عادة لاستعادة مظهر أكثر شباباً وانتعاشًا. على عكس توكسين البوتولينوم الذي يعمل على استرخاء العضلات لتقليل التجاعيد، يعمل الفيلر من خلال إضافة حجم للمنطقة المُعالجة.
 
-- Injection Process:  
-The filler is injected beneath the skin's surface, directly into the targeted areas. The injection is performed with a fine needle or a cannula, depending on the technique and the area being treated.
+إليكم كيفية عمل حقن الفيلر عادة:
 
-- Volume Restoration:  
-Once injected, the filler adds volume to the treated area, filling in wrinkles, lines, or areas with lost volume. It helps to restore a smoother, plumper appearance to the skin.
-
-- Stimulation of Collagen Production:  
-In addition to providing immediate volume, some fillers stimulate the production of collagen, a protein that supports the structure and elasticity of the skin. This collagen production contributes to longer-term improvements in skin texture and firmness.
-
-- Duration of Effects:  
-The duration of filler effects varies based on the type of filler used. Some fillers provide temporary results, lasting several months to a year, while others offer longer-lasting results.
+- التركيب:تتكون حقن الفيلر عادة من مواد مختلفة، ويمكن أن يختلف نوع الفيلر المُستخدم. تشمل المكونات الشائعة للفيلر حمض الهيالورونيك، الكولاجين، هيدروكسيلاباتيت الكالسيوم، وحمض البولي-إل-لاكتيك. يُعتبر حمض الهيالورونيك أحد أكثر الفيلرات استخدامًا وتنوعًا.
+- عملية الحقن:يتم حقن الفيلر تحت سطح الجلد، مباشرة في المناطق المستهدفة. يتم الحقن بإبرة دقيقة أو أنبوب مجوف (كانيولا)، وذلك حسب التقنية والمنطقة المُعالجة.
+- استعادة الحجم:بعد الحقن، يضيف الفيلر حجمًا للمنطقة المعالجة، مما يملأ التجاعيد أو الخطوط أو المناطق التي فقدت الحجم. يُساعد ذلك في استعادة مظهر أكثر نعومة وامتلاءً للبشرة.
+- تحفيز إنتاج الكولاجين:علاوة على توفير الحجم الفوري، تُحفّز بعض الفيلرات إنتاج الكولاجين، وهو بروتين يدعم هيكل البشرة ومرونتها. يُساهم إنتاج الكولاجين هذا في تحسينات طويلة الأجل في ملمس البشرة وثباتها.
+- مدة التأثيرات:
+  تختلف مدة تأثيرات الفيلر بناءً على نوع الفيلر المستخدم. توفر بعض الفيلرات نتائج مؤقتة تستمر لعدة أشهر إلى عام، بينما تقدم أخرى نتائج تستمر لفترة أطول.

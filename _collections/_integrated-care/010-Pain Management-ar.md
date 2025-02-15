@@ -1,23 +1,24 @@
 ---
+
 caption: #what displays in the portfolio grid:
-  title: Pain Management
-  subtitle: Combination of treatment modalities to manage or reduce the pain and discomfort.
+  title: إدارة الألم
+  subtitle: الجمع بين أساليب العلاج لإدارة أو تقليل الألم والانزعاج.
   thumbnail: assets/img/portfolio/pain-management.webp
   
 #what displays when the item is clicked:
-title: Pain Management
-subtitle: Combination of treatment modalities to manage or reduce the pain and discomfort.
+title: إدارة الألم
+subtitle: مزيج من أساليب العلاج لإدارة أو تقليل الألم والانزعاج.
 image: assets/img/portfolio/pain-management.webp
-alt: Pain Management
+alt: إدارة الألم
 lang: ar
 page_id: pain-management
 
 ---
-In pain management, we use a combination of treatment modalities tailored to your presentation to manage or reduce the pain and discomfort. The difference of pain management compared to other services is that within a treatment session the practitioner will assess you and depending on the findings, will select and use a combination of treatment modalities that are most appropriate for you.
+في إدارة الألم، نستخدم مجموعة من الوسائل العلاجية المخصصة لحالتك للتعامل مع الألم والانزعاج أو تقليلهما. يختلف إدارة الألم عن الخدمات الأخرى في أن الممارس سيقوم بتقييم حالتك خلال جلسة العلاج، وبناءً على النتائج، سيختار ويستخدم مجموعة من الوسائل العلاجية الأكثر ملاءمة لك.
 
-Some examples of the treatment modalities can include:
-1. stretch and mobility
-2. dry needling
-3. scraping/percussive massage therapy
-4. cupping therapy
-5. Sports/Relaxing/Deep tissue massage
+بعض الأمثلة على الوسائل العلاجية يمكن أن تشمل:
+1. التمدد وتحسين الحركة
+2. الوخز الجاف
+3. العلاج بالتدليك بالكشط/الاهتزاز
+4. العلاج بالحجامة
+5. تدليك رياضي/مريح/للأنسجة العميقة

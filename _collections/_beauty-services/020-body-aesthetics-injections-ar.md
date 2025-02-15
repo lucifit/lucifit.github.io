@@ -1,45 +1,48 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Botulinum Toxin Specialized Treatments
-  subtitle:  
+  title: علاجات متخصصة باستخدام سم البوتولينوم
+  subtitle: 
   thumbnail: assets/img/portfolio/botulinum-treatment.webp
   
 #what displays when the item is clicked:
-title: Botulinum Toxin Specialized Treatments
+title: علاجات متخصصة لسم البوتولينوم
 subtitle: 
 image: assets/img/portfolio/botulinum-treatment.webp
-alt: Body Aesthetic Injections
+alt: حقن تجميل الجسم
 lang: ar
 page_id: botulinum-treatment
-
 ---
-### Botulinum Toxin Specialized Treatments
-- Chemical Brow Lift
-- Lip Flip
-- Jawline Slimming
-- Botulinum Migraine Treatment 
-- Hyperhidrosis Treatment
-- Traptox or BarbieTox
-- Calf Slimming
+### علاجات متخصصة باستخدام سم البوتولينوم
 
-Botulinum toxin is a neurotoxic protein produced by the bacterium Clostridium botulinum. It is the most potent toxin known and in controlled and diluted forms, botulinum toxin is used for medical and cosmetic purposes.  
+- رفع الحاجب الكيميائي
+- قلب الشفاه
+- تنحيف الفك
+- علاج الصداع النصفي باستخدام البوتولينوم
+- علاج فرط التعرق
+- علاج العضلة شبه المنحرفة (Traptox) أو علاج باربي توكس (BarbieTox)
+- تنحيف الساق
 
-There are several types of botulinum toxin, designated as types A, B, C, D, E, F, and G. The most used for medical and cosmetic applications are types A and B.  
+سم البوتولينوم هو بروتين سام عصبي يُنتَج بواسطة بكتيريا الكلوستريديوم بوتولينوم. يُعتبر السم الأكثر فعالية المعروف، وفي أشكال مخففة ومراقَبة، يُستخدم سم البوتولينوم لأغراض طبية وتجميلية.
 
-Here's how botulinum toxin works:  
-- Inhibition of Acetylcholine Release:
-  -	Botulinum toxin interferes with the release of acetylcholine, a neurotransmitter, from nerve endings. Acetylcholine is responsible for transmitting signals between nerve cells and muscle cells, leading to muscle contraction.  
+هناك عدة أنواع من سم البوتولينوم، تصنّف كأنواع A، B، C، D، E، F، و G. الأنواع الأكثر استخدامًا للأغراض الطبية والتجميلية هي الأنواع A و B.
 
-- Neuromuscular Blockade:
-  -	When botulinum toxin is injected into a muscle, it prevents the release of acetylcholine at the neuromuscular junction. This results in a temporary and reversible inhibition of muscle contractions.  
+إليك كيفية عمل سم البوتولينوم:
 
-- Muscle Paralysis:
-  -	Without the normal transmission of signals from nerves to muscles, the affected muscles become paralyzed or weakened. This effect is localized to the area where the toxin is injected.  
+- تثبيط إطلاق الأستيل كولين:
 
-In medical applications, botulinum toxin is used to treat various conditions characterized by overactive muscles or unwanted muscle contractions.  
+  - يتداخل سم البوتولينوم مع إطلاق الأستيل كولين، وهو ناقل عصبي ينتقل من النهايات العصبية. الأستيل كولين مسؤول عن نقل الإشارات بين الخلايا العصبية وخلايا العضلات، مما يؤدي إلى انقباض العضلات.
+- الحصار العصبي العضلي:
 
-Some common medical uses include:
-- Cosmetic purposes: To reduce the appearance of wrinkles and fine lines by temporarily relaxing facial muscles
-- Medical conditions: To treat conditions such as muscle spasms, cervical dystonia, blepharospasm (involuntary eyelid contractions), and chronic migraine headaches. 
+  - عندما يُحقن سم البوتولينوم في العضلة، يمنع إطلاق الأستيل كولين في الموصل العصبي العضلي. هذا يؤدي إلى تثبيط مؤقت وقابل للعكس في انقباض العضلات.
+- شلل العضلات:
 
-Additionally, the effects are temporary, and repeat injections are often necessary to maintain the desired results.
+  - بدون النقل الطبيعي للإشارات من الأعصاب إلى العضلات، تصبح العضلات المتأثرة مشلولة أو ضعيفة. هذا التأثير يكون محدداً للمنطقة التي يُحقن فيها السم.
+
+في التطبيقات الطبية، يستخدم سم البوتولينوم لعلاج حالات متنوعة تتميز بفرط نشاط العضلات أو انقباضات غير مرغوب فيها في العضلات.
+
+بعض الاستخدامات الطبية الشائعة تشمل:
+
+- أغراض تجميلية: لتقليل ظهور التجاعيد والخطوط الدقيقة عن طريق إرخاء عضلات الوجه بشكل مؤقت
+- حالات طبية: لعلاج حالات مثل تشنجات العضلات، خلل التوتر العنقي، تشنج الجفن (تقلصات لا إرادية للجفن)، والصداع النصفي المزمن.
+
+بالإضافة إلى ذلك، تكون التأثيرات مؤقتة، وغالبًا ما تكون هناك حاجة إلى تكرار الحقن للحفاظ على النتائج المرغوبة.

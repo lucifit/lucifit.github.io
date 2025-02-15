@@ -1,36 +1,35 @@
 ---
+
 caption: #what displays in the portfolio grid:
-  title: Osteopathy
-  subtitle: Focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system.
+  title: تقويم العظام
+  subtitle: ركز على الأنظمة المتشابكة للجسم، مع التأكيد على أهمية الجهاز العضلي الهيكلي.
   thumbnail: assets/img/portfolio/ostheopath-treatment.webp
   
 #what displays when the item is clicked:
-title: Osteopathy – Osteopathic Treatment
-subtitle: Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health.
+title: تقويم العظام – العلاج بتقويم العظام
+subtitle: يُركز أطباء العظام على الأنظمة المتصلة في الجسم، مؤكدين على أهمية الجهاز العضلي الهيكلي في الصحة العامة.
 image: assets/img/portfolio/ostheopath-treatment.webp
-alt: Osteopathic Treatment
+alt: علاج تقويم العظام
 lang: ar
 page_id: ostheopath-treatment
 
 ---
-An osteopath is a highly trained healthcare professional who specializes in a holistic approach to diagnosing, treating, and preventing a wide range of musculoskeletal and functional disorders. Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health. They use a combination of manual techniques, patient education, and lifestyle advice to promote wellness and alleviate pain, helping patients achieve optimal physical and emotional well-being. Osteopathy aims to restore balance, mobility, and function, allowing the body to heal itself naturally. Osteopaths treat a diverse patient population, including individuals with back pain, joint issues, sports injuries, and various chronic conditions, tailoring their care to each patient's unique needs.
+أخصائي تقويم العظام هو محترف رعاية صحية متمرس يختص باتباع نهج شامل في تشخيص وعلاج والوقاية من مجموعة واسعة من الاضطرابات العضلية الهيكلية والوظيفية. يركز أخصائيو تقويم العظام على الأنظمة المترابطة للجسم، مؤكدين على أهمية النظام العضلي الهيكلي في الصحة العامة. يستخدمون مزيجًا من التقنيات اليدوية وتثقيف المرضى ونصائح نمط الحياة لتعزيز العافية وتخفيف الألم، مما يساعد المرضى على تحقيق الرفاهية البدنية والعاطفية المثلى. تهدف تقويم العظام إلى استعادة التوازن، والحركة، والوظيفة، مما يتيح للجسم الشفاء بشكل طبيعي. يعالج أخصائيو تقويم العظام مجموعة متنوعة من المرضى، بما في ذلك الأفراد الذين يعانون من آلام الظهر، ومشكلات المفاصل، وإصابات الرياضة، وحالات مزمنة متنوعة، حيث يكيفون رعايتهم لتلبية الاحتياجات الفريدة لكل مريض.
 
-Here is a list of common conditions that osteopaths often treat:
-- Back Pain: Osteopaths frequently treat individuals with acute or chronic back pain, including conditions like herniated discs, sciatica, and muscle strains.
-- Neck Pain: Neck pain resulting from issues like whiplash, muscle tension, or poor posture can be addressed through osteopathic care.
-- Joint Pain: Osteopaths can help manage joint pain in various areas of the body, including the shoulders, elbows, wrists, hips, knees, and ankles.
-- Muscle Strains: Strained muscles and ligaments, often caused by sports injuries or overuse, can be treated with osteopathic techniques.
-- Headaches and Migraines: Osteopathic care can be beneficial for individuals suffering from tension headaches or migraines, as they often have musculoskeletal components.
-- Arthritis: Osteopaths can provide relief and improve joint function in individuals with osteoarthritis or other forms of arthritis.
-- Sports Injuries: Athletes frequently consult osteopaths for the treatment and prevention of sports-related injuries, such as sprains, strains, and tendonitis.
-- Postural Issues: Osteopaths can help correct postural problems that may lead to pain or discomfort.
-- Pregnancy-Related Pain: Osteopathy can offer relief from pregnancy-related issues like lower back pain and pelvic pain.
-- Digestive Disorders: Osteopaths may assist in the management of certain digestive issues by addressing underlying musculoskeletal imbalances that can affect the digestive system.
-- Respiratory Conditions: While not a primary treatment for respiratory conditions, osteopathy can sometimes complement conventional care for individuals with conditions like asthma or chronic obstructive pulmonary disease (COPD).
-- Stress and Anxiety: Osteopaths consider the mind-body connection and may offer relaxation techniques and manual therapies to help alleviate stress-related symptoms.
-- Repetitive Strain Injuries: Conditions like carpal tunnel syndrome or tennis elbow can benefit from osteopathic treatment.
-- Pediatric Conditions: Osteopaths can treat various musculoskeletal issues in children, such as developmental concerns, colic, and ear infections.
-- Preventive Care: Osteopathic treatment can also serve as a form of preventive care by maintaining overall musculoskeletal health and function.
-- jaw-related conditions, particularly those that involve musculoskeletal issues in the jaw and surrounding areas. Osteopathic treatment for jaw problems often falls under the broader category of cranial osteopathy or craniosacral therapy.
-
-It's important to note that osteopaths take a holistic approach to healthcare, considering not only the specific condition but also the patient's overall health and well-being. They may use a variety of manual techniques, including manipulation, stretching, and massage, to promote healing and improve function. Osteopathic treatment plans are often tailored to the individual needs and preferences of the patient. If you have a specific condition or concern, it's advisable to consult with an osteopath to discuss your treatment options.
+إليك قائمة بالحالات الشائعة التي يُعالجها أخصائيو تقويم العظام غالبًا:
+- آلام الظهر: يعالج أخصائيو تقويم العظام بشكل مستمر الأفراد الذين يعانون من آلام الظهر الحادة أو المزمنة، بما في ذلك الحالات مثل الانزلاق الغضروفي، وعرق النسا، وإجهاد العضلات.
+- آلام الرقبة: يمكن معالجة آلام الرقبة الناتجة عن مشكلات مثل إصابة عنق السوط، أو توتر العضلات، أو سوء الوقوف من خلال الرعاية التقويمية العظمية.
+- آلام المفاصل: يمكن لأخصائيي تقويم العظام أن يساعدوا في إدارة آلام المفاصل في مناطق مختلفة من الجسم، بما في ذلك الكتفين، والمرفقين، والمعصمين، والوركين، والركبتين، والكاحلين.
+- إجهاد العضلات: يمكن معالجة العضلات والأربطة المجهدة، التي غالبًا ما تسببها الإصابات الرياضية أو الاستخدام المفرط، عبر تقنيات تقويم العظام.
+- الصداع والصداع النصفي: قد تكون الرعاية التقويمية العظمية مفيدة للأفراد الذين يعانون من الصداع الناتج عن التوتر أو الصداع النصفي، لكون هذه الحالات غالبًا تحمل مكونات عضلية هيكلية.
+- التهاب المفاصل: يمكن لأخصائيي تقويم العظام توفير الراحة وتحسين وظيفة المفاصل للأفراد المصابين بالتهاب المفاصل العظمي أو أشكال أخرى من التهاب المفاصل.
+- الإصابات الرياضية: غالبًا ما يستشير بعض الرياضيين أخصائي تقويم العظام لعلاج والوقاية من الإصابات الرياضية، مثل الالتواءات، والإجهادات، والتهاب الأوتار.
+- مشكلات الوقوف: يمكن لأخصائييي تقويم العظام مساعدة المرضى في تصحيح مشكلات الوقوف التي قد تؤدي إلى الألم أو الانزعاج.
+- آلام الحمل: يمكن لتقويم العظام توفير الراحة من المشكلات المرتبطة بالحمل مثل آلام الظهر السفلي وآلام الحوض.
+- اضطرابات الجهاز الهضمي: قد يساعد أخصائيو تقويم العظام في إدارة بعض الحالات الهضمية من خلال معالجة الاختلالات العضلية الهيكلية الأساسية التي يمكن أن تؤثر على الجهاز الهضمي.
+- حالات الجهاز التنفسي: رغم أنه ليس علاجًا رئيسيًا لحالات الجهاز التنفسي، فإنه يمكن لتقويم العظام في بعض الأحيان أن يكون مكملاً للرعاية التقليدية للأفراد المصابين بأمراض مثل الربو أو مرض الانسداد الرئوي المزمن (COPD).
+- التوتر والقلق: يأخذ أخصائيو تقويم العظام في اعتبارهم العلاقة بين العقل والجسد وقد يقدمون تقنيات استرخاء وعلاجات يدوية للمساعدة في تخفيف الأعراض المرتبطة بالتوتر.
+- إصابات الإجهاد المتكررة: يمكن أن تستفيد الحالات مثل متلازمة النفق الرسغي أو مرفق التنس من العلاج التقويمي العظمي.
+- الحالات الخاصة بالأطفال: يمكن لأخصائيي تقويم العظام علاج مختلف المشكلات العضلية الهيكلية لدى الأطفال، مثل المخاوف التنموية، والمغص، والتهابات الأذن.
+- الرعاية الوقائية: يمكن أن تكون معاملة تقويم العظام أيضًا شكلاً من أشكال الرعاية الوقائية من خلال الحفاظ على الصحة والوظيفة العضلية الهيكلية العامة.
+- حالات متعلقة بالفك، خاصة تلك التي تتضمن مشكلات عضلية هيكلية في الفك والمناطق المجاورة. غالبًا ما تقع معالجة تقويم العظام لمشاكل الفك تحت الف

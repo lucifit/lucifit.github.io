@@ -1,42 +1,35 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Lip and Facial Dermal Fillers
-  subtitle:  
+  title: حشوات الشفاه والوجه الجلدية
+  subtitle: 
   thumbnail: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
   
 #what displays when the item is clicked:
-title: Lip and Facial Dermal Fillers
+title: الفيلر الجلدي للشفاه والوجه
 subtitle: 
 image: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
-alt: Lip and Facial Dermal Fillers
+alt: حشوات جلدية للشفاه والوجه
 lang: ar
 page_id: lip_and_facial_dermal_fillers
-
 ---
-### Lip and Facial Dermal Fillers
-- Lip augmentation
-- Rhino Filler
-- Temple Filler 
-- Jawline contouring
-- Cheek enhancement
-- Tear troughs (under-eye hollows)
-- Nasolabial folds (lines from the nose to the mouth)
-- Marionette lines (lines around the mouth)
+### حشوات الشفاه والوجه الجلدية
 
-Dermal fillers are cosmetic injectables designed to add volume, contour, and reduce the appearance of wrinkles and fine lines in the face. They are commonly used to restore a more youthful and refreshed appearance. Unlike botulinum toxin, which relaxes muscles to reduce wrinkles, fillers work by adding volume to the treated area.  
+- تكبير الشفاه
+- حشوات الأنف
+- حشوات الصدغ
+- تحديد خط الفك
+- تحسين الخدود
+- معالجة هالات العين (الأخاديد تحت العين)
+- الطيات الأنفية الشفوية (الخطوط بين الأنف والفم)
+- خطوط الماريونيت (الخطوط حول الفم)
 
-Here's how dermal fillers generally work:
-- Composition:  
-  Dermal fillers are typically made of various substances, and the specific type of filler used can vary. Common filler ingredients include hyaluronic acid, collagen, calcium hydroxylapatite, and poly-L-lactic acid. Hyaluronic acid is one of the most widely used and versatile fillers.
+تُعتبر الحشوات الجلدية مواد تجميلية تُحقن بهدف إضافة الحجم وتحديد الملامح وتقليل ظهور التجاعيد والخطوط الدقيقة في الوجه. غالبًا ما تُستخدم لاستعادة مظهر أكثر شبابًا وانتعاشًا. وعلى عكس توكسين البوتولينوم الذي يرخي العضلات لتقليل التجاعيد، تعمل الحشوات عن طريق إضافة حجم إلى المنطقة المعالجة.
 
-- Injection Process:  
-The filler is injected beneath the skin's surface, directly into the targeted areas. The injection is performed with a fine needle or a cannula, depending on the technique and the area being treated.
+إليكم كيف تعمل الحشوات الجلدية بشكل عام:
 
-- Volume Restoration:  
-Once injected, the filler adds volume to the treated area, filling in wrinkles, lines, or areas with lost volume. It helps to restore a smoother, plumper appearance to the skin.
-
-- Stimulation of Collagen Production:  
-In addition to providing immediate volume, some fillers stimulate the production of collagen, a protein that supports the structure and elasticity of the skin. This collagen production contributes to longer-term improvements in skin texture and firmness.
-
-- Duration of Effects:  
-The duration of filler effects varies based on the type of filler used. Some fillers provide temporary results, lasting several months to a year, while others offer longer-lasting results.
+- **التركيب:**تُصنع الحشوات الجلدية عادة من مواد مختلفة، ويمكن أن يختلف نوع الحشو المستخدم. تشمل المكونات الشائعة للحشوات حمض الهيالورونيك، والكولاجين، وهيدروكسيلاباتيت الكالسيوم، وحمض البوليل لاكتيك. يُعتبر حمض الهيالورونيك أحد أكثر أنواع الحشوات استخدامًا وتنوعًا.
+- **عملية الحقن:**يتم حقن الحشو تحت سطح الجلد، مباشرة في المناطق المستهدفة. يُجرى الحقن باستخدام إبرة رفيعة أو كانيولا، وذلك حسب التقنية والمنطقة المُعالجة.
+- **استعادة الحجم:**بمجرد أن يتم حقنها، تضيف الحشوة حجمًا إلى المنطقة المُعالجة، ما يملأ التجاعيد أو الخطوط أو المناطق التي فقدت حجمها. وتساعد على استعادة مظهر أكثر نعومة وامتلاءً للبشرة.
+- **تحفيز إنتاج الكولاجين:**بالإضافة إلى توفير الحجم الفوري، تحفز بعض الحشوات إنتاج الكولاجين، وهو بروتين يدعم بنية ومرونة الجلد. يُسهم إنتاج الكولاجين هذا في تحسينات طويلة الأمد في ملمس الجلد ومرونته.
+- **مدة الآثار:**
+  تتفاوت مدة آثار الحشوات بناءً على نوع الحشو المستخدم. توفِّر بعض الحشوات نتائج مؤقتة تستمر لعدة أشهر إلى سنة، بينما تقدّم الأخرى نتائج تدوم لفترة أطول.
