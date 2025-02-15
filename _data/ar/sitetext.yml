@@ -93,3 +93,8 @@ footer:
       icon: fab fa-whatsapp
     - url: https://www.facebook.com/healthandbeautylabb
       icon: fab fa-facebook
+
+languages:
+  en: English
+  it: Italiano
+  ar: عربى
