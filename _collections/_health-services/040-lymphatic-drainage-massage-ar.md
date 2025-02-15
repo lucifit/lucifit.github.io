@@ -1,46 +1,47 @@
 ---
+
 caption: #what displays in the portfolio grid:
-  title: Lymphatic Draining Massage
-  subtitle: Light massage on the skin that helps promote the movement of lymphatic fluid
+  title: تدليك تصريف الجهاز اللمفاوي
+  subtitle: تدليك خفيف على البشرة يساعد في تعزيز حركة السائل الليمفاوي.
   thumbnail: assets/img/portfolio/lymphatic-drainage-massage.webp
   
 #what displays when the item is clicked:
-title: Lymphatic Draining Massage
-subtitle: Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.
+title: تدليك تصريف الجهاز الليمفاوي
+subtitle: تحريك السائل الليمفاوي هو تدليك خفيف على الجلد يساعد في تعزيز حركة السائل الليمفاوي. وعلى عكس طرق التدليك الأخرى، يركز تحريك السائل الليمفاوي بشكل خاص على الأوعية الليمفاوية لدعم تدفق السائل الليمفاوي.
 image: assets/img/portfolio/lymphatic-drainage-massage.webp
-alt: Lymphatic Draining Massage
+alt: تدليك التصريف الليمفاوي
 lang: ar
 page_id: lymphatic-drainage-massage
 
 ---
-Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.
+تدليك التصريف اللمفاوي هو تدليك خفيف على الجلد يساعد في تعزيز حركة السائل اللمفاوي. وعلى النقيض من أساليب التدليك الأخرى، يركز تدليك التصريف اللمفاوي تحديدًا على الأوعية اللمفاوية لدعم تدفق اللمف.
 
-**Mechanisms of action**
-- Stimulation of lymph nodes to improve their function [1].
-- Increases blood flow in both deep and superficial veins [2].
-- Improving the immune system by increasing the production of lymph cells.
-- Reducing toxins in the body.
-While lymphatic drainage is mainly used to treat lymphoedema (swelling in legs or arms) it has also been scientifically proven beneficial in:
-- Pain relief/management [3]
-- Post- orthopedic surgery pain reduction and increase in ranges of movement [4]
-- Migraine pain reduction [5]
-- Swelling in legs, arms, face.
-- Swelling and pain reduction after liposuction and lipoabdominoplasty.[6]
-- Psychological stress management [7]
-- Stretch marks reduction 
-- Cellulitis management 
+**آليات العمل**
+- تحفيز العقد اللمفاوية لتحسين وظيفتها [1].
+- زيادة تدفق الدم في الأوردة العميقة والسطحية [2].
+- تحسين الجهاز المناعي عن طريق زيادة إنتاج الخلايا اللمفاوية.
+- تقليل السموم في الجسم.
+بينما يُستخدم التصريف اللمفاوي بشكل أساسي لعلاج الوذمة اللمفية (التورم في الساقين أو الذراعين) فقد تم إثبات فائدته علميًا أيضًا في:
+- تخفيف وإدارة الألم [3]
+- تقليل الألم وزيادة نطاق الحركة بعد جراحة العظام [4]
+- تقليل آلام الصداع النصفي [5]
+- التورم في الساقين والذراعين والوجه.
+- تقليل التورم والألم بعد شفط الدهون وعمليات شد البطن [6].
+- إدارة الضغط النفسي [7]
+- تقليل علامات التمدد
+- إدارة التهاب النسيج الخلوي
 
-**References:**
-1. Tzani I, Tsichlaki M, Zerva E, Papathanasiou G, Dimakakos E. Physiotherapeutic rehabilitation of lymphedema: State-of-the-art. Lymphology. 2018 Jul 2;51(1):1-2.
+**المراجع:**
+1. Tzani I, Tsichlaki M, Zerva E, Papathanasiou G, Dimakakos E. إعادة تأهيل الوذمة اللمفية من وجهة نظر العلاج الطبيعي: أحدث التطورات. ليمفولوجي. 2 يوليو 2018; 51(1):1-2.
 
-2. Crisóstomo RS, Candeias MS, Armada-da-Silva PA. Venous flow during manual lymphatic drainage applied to different regions of the lower extremity in people with and without chronic venous insufficiency: a cross-sectional study.Physiotherapy. 2016 Feb 1. pii: S0031-9406(16)00023-7.
+2. Crisóstomo RS, Candeias MS, Armada-da-Silva PA. تدفق الدم الوريدي أثناء التصريف اللمفاوي اليدوي المطبق على مناطق مختلفة من الأطراف السفلية لدى الأشخاص الذين يعانون وبدون معاناة من القصور الوريدي المزمن: دراسة مقطعية. العلاج الطبيعي. 1 فبراير 2016.
 
-3. Lymphoedema Framework. Best Practice for the Management of Lymphoedema. International consensus. London: MEP Ltd, 2006.
+3. إطار العمل للوذمة اللمفية. أفضل الممارسات لإدارة الوذمة اللمفية. توافق دولي. لندن: MEP Ltd، 2006.
 
-4. Ebert, J. R., Joss, B., Jardine, B., & Wood, D. J. (2013). Randomized trial investigating the efficacy of manual lymphatic drainage to improve early outcome after total knee arthroplasty. Archives of physical medicine and rehabilitation, 94(11), 2103–2111. https://doi.org/10.1016/j.apmr.2013.06.009 
+4. Ebert, J. R., Joss, B., Jardine, B., & Wood, D. J. (2013). دراسة تجريبية عشوائية تحقق في فعالية التصريف اللمفاوي اليدوي لتحسين النتائج المبكرة بعد جراحة استبدال الركبة الكلية. أرشيف الطب الطبيعي وإعادة التأهيل، 94(11)، 2103–2111. https://doi.org/10.1016/j.apmr.2013.06.009 
 
-5. Happe, S., Peikert, A., Siegert, R., & Evers, S. (2016). The efficacy of lymphatic drainage and traditional massage in the prophylaxis of migraine: a randomized, controlled parallel group study. Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology, 37(10), 1627–1632. https://doi.org/10.1007/s10072-016-2645-3 
+5. Happe, S., Peikert, A., Siegert, R., & Evers, S. (2016). فعالية التصريف اللمفاوي والتدليك التقليدي في الوقاية من الصداع النصفي: دراسة مجموعة موازية عشوائية ومُراقبة. العلوم العصبية: المجلة الرسمية لجمعية الأعصاب الإيطالية والجمعية الإيطالية للتأهيل العصبي السريري، 37(10)، 1627–1632. https://doi.org/10.1007/s10072-016-2645-3 
 
-6. Masson, I. F., de Oliveira, B. D., Machado, A. F., Farcic, T. S., Júnior, I. E., & Baldan, C. S. (2014). Manual lymphatic drainage and therapeutic ultrasound in liposuction and lipoabdominoplasty post-operative period. Indian journal of plastic surgery : official publication of the Association of Plastic Surgeons of India, 47(1), 70–76. https://doi.org/10.4103/0970-0358.129627 
+6. Masson, I. F., de Oliveira, B. D., Machado, A. F., Farcic, T. S., Júnior, I. E., & Baldan, C. S. (2014). التصريف اللمفاوي اليدوي والموجات فوق الصوتية العلاجية في فترة ما بعد العمليات الجراحية لشفط الدهون وشد البطن. المجلة الهندية لجراحة التجميل: المنشور الرسمي لجمعية جراحي التجميل في الهند، 47(1)، 70–76. https://doi.org/10.4103/0970-0358.129627 
 
-7. Effects of manual lymph drainage for abdomen on the brain activity of subjects with psychological stress. Journal of physical therapy science. 2017;29(3):491-4.
+7. تأثيرات تصريف اللمف اليدوي للبطن على النشاط الدماغي لدى الأشخاص الذين يعانون من الضغط النفسي. مجلة العلوم العلاجية الفيزيائية، 2017؛29(3):491-4.

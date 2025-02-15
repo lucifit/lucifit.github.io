@@ -1,51 +1,32 @@
 ---
+
 caption: #what displays in the portfolio grid:
-  title: Deep Tissue Massage
-  subtitle: Stronger force used to reach deeper layers of muscle tissue
+  title: تدليك الأنسجة العميقة
+  subtitle: استخدام قوة أكبر للوصول إلى الطبقات العميقة من الأنسجة العضلية.
   thumbnail: assets/img/portfolio/deep-tissue-massage.webp
   
 #what displays when the item is clicked:
-title: Deep Tissue Massage
-subtitle: Massage therapy with sustained pressure over muscles and connective tissues in a slow-stroke rhythm. The term "deep tissue" 
-        refers to the stronger force used to reach deeper layers of muscle tissue, compared to traditional massage. It aims to lengthen, 
-        relax and release stiffening patterns within client's threshold of pain."
+title: تدليك الأنسجة العميقة
+subtitle: العلاج بالتدليك مع الضغط المستمر على العضلات والأنسجة الرابطة بإيقاع بطي��. يشير مصطلح "الأنسجة العميقة" إلى القوة الأقوى المستخدمة للوصول إلى الطبقات العميقة من العضلات مقارنة بالتدليك التقليدي. يهدف إلى تطويل واسترخاء وتحرير أنماط التصلب داخل عتبة الألم للعميل.
 image: assets/img/portfolio/deep-tissue-massage.webp
-alt: Deep Tissue Massage
+alt: تدليك الأنسجة العميقة
 lang: ar
 page_id: deep-tissue-massage
 
 ---
-Deep tissue massage is a type of massage therapy where the therapist
-uses sustained pressure over muscles and connective tissues in a
-slow-stroke rhythm. The term \'\'deep tissue\'\' refers to the stronger
-force used to reach deeper layers of muscle tissue, compared to
-traditional massage. It aims to lengthen, relax and release stiffening
-patterns within client\'s threshold of pain.\[1\]
+التدليك العميق للأنسجة هو نوع من العلاج بالتدليك حيث يستخدم المعالج ضغطاً مستداماً على العضلات والأنسجة الضامة في نمط ضربات بطيء. يُشير مصطلح "الأنسجة العميقة" إلى القوة الأقوى المستخدمة للوصول إلى طبقات أعمق من الأنسجة العضلية، مقارنة بالتدليك التقليدي. يهدف إلى إطالة واسترخاء وتحرير الأنماط المتصلبة ضمن عتبة الألم لدى العميل.
 
-**Effects according to research**
--   Positively influences blood pressure and heart rate. \[2\]
--   Increases range of movement \[3\]
--   Reduces pain \[3\]
--   Was found to be better than traditional massage for low back pain\[4\]
+**التأثيرات وفقاً للأبحاث**
+- يُؤثر إيجاباً على ضغط الدم ومعدل ضربات القلب.
+- يزيد من نطاق الحركة.
+- يُقلل الألم.
+- وُجد أنه أفضل من التدليك التقليدي لألم أسفل الظهر.
 
-**References:**
-1.  *Riggs A. 2007. Deep tissue massage: A visual guide to techniques.
-    North Atlantic Books.*
+**المراجع:**
+1. *Riggs A. 2007. التدليك العميق للأنسجة: دليل مرئي للتقنيات. كتب المحيط الأطلسي الشمالي.*
 
-2.  *Fernandez-Perez AM, Peralta-Ramirez MI, Pilat A,
-    Villaverde C. 2008. Effects of myofascial induction techniques on
-    physiologic and psychologic parameters: A randomized controlled
-    trial. J Altern Complement Med 14:807-811*
+2. *Fernandez-Perez AM, Peralta-Ramirez MI, Pilat A, Villaverde C. 2008. تأثيرات تقنيات التحريض الفاشيولوجية على المعايير الفسيولوجية والنفسية: تجربة محكومة عشوائية. J Altern Complement Med 14:807-811*
 
-3.  *Crawford C, Boyd C, Paat CF, Price A, Xenakis L, Yang EM, Zhang W,
-    the Evidence for Massage Therapy (EMT) Working Group. 2016. The
-    impact of massage therapy on function in pain population. A
-    systematic review and meta-analysis of randomized controlled trials:
-    Part I, patients experiencing pain in the general population. Pain
-    Med 17:1353-1375.*
+3. *Crawford C, Boyd C, Paat CF, Price A, Xenakis L, Yang EM, Zhang W, the Evidence for Massage Therapy (EMT) Working Group. 2016. تأثير العلاج بالتدليك على الوظيفة في سكان الألم. مراجعة منهجية وتحليل تلوي للتجارب المحكومة العشوائية: الجزء الأول، المرضى الذين يعانون من الألم في الجمهور العام. Pain Med 17:1353-1375.*
 
-4.  *Romanowski, Mateusz & Romanowska, Joanna & Grześkowiak, Marcin.
-    (2012). A comparison of the effects of deep tissue massage and
-    therapeutic massage on chronic low back pain. Studies in health
-    technology and informatics. 176. 411-4.
-    10.3233/978-1-61499-067-3-411.   *
+4. *Romanowski, Mateusz & Romanowska, Joanna & Grześkowiak, Marcin. (2012). مقارنة تأثيرات التدليك العميق للأنسجة والتدليك العلاجي على الألم المزمن أسفل الظهر. دراسات في تكنولوجيا الصحة والمعلوماتية. 176. 411-4. 10.3233/978-1-61499-067-3-411.*

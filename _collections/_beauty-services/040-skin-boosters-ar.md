@@ -1,53 +1,57 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Skin Boosters
-  subtitle:  
+  title: محفزات البشرة
+  subtitle: 
   thumbnail: assets/img/portfolio/skin_booster.webp
   
 #what displays when the item is clicked:
-title:  Skin Boosters
+title: محفزات البشرة
 subtitle: 
 image: assets/img/portfolio/skin_booster.webp
-alt:  Skin Boosters
+alt: محفزات البشرة
 lang: ar
 page_id: skin_booster
-
 ---
-### Skin Boosters
-Treatment Areas:
-- Face.
-- Tear Trough (under eye)
-- Dark Circle Under Eye
-- neck.
-- décolletage. 
-- hands.
+### معززات البشرة
 
-Skin boosters are a type of aesthetic treatment designed to improve the hydration, texture, and overall quality of the skin. These treatments involve the injection of specialized substances, typically hyaluronic acid, into the skin to enhance moisture levels and stimulate collagen production. Skin boosters are also known as hydrating injections or injectable moisturizers.  
+مناطق العلاج:
 
-Here's how skin boosters generally work:
+- الوجه.
+- الهالات الدمعية (تحت العين).
+- الهالات السوداء تحت العين.
+- الرقبة.
+- منطقة الصدر.
+- اليدين.
 
-- Hyaluronic Acid:
-  - Hyaluronic acid is a naturally occurring substance in the body that plays a crucial role in maintaining skin hydration and elasticity. In skin booster treatments, a stabilized form of hyaluronic acid is used.
+معززات البشرة هي نوع من العلاجات التجميلية المصممة لتحسين ترطيب البشرة وملمسها وجودتها العامة. تتضمن هذه العلاجات حقن مواد متخصصة، غالبًا حمض الهيالورونيك، في البشرة لتعزيز مستويات الرطوبة وتحفيز إنتاج الكولاجين. تُعرف معززات البشرة أيضًا بحقن الترطيب أو المرطبات القابلة للحقن.
 
-- Injection into the Skin:
-  - The hyaluronic acid solution is injected into the skin using a fine needle or cannula. The injections are typically administered in a grid-like pattern over the treatment area.
+إليك كيفية عمل معززات البشرة بشكل عام:
 
-- Hydration and Volume Enhancement:
-  - Hyaluronic acid can attract and retain water molecules, providing immediate hydration to the skin. This results in improved skin texture, suppleness, and a subtle volumizing effect.
+- حمض الهيالورونيك:
 
-- Collagen Stimulation:
-  - In addition to its hydrating properties, hyaluronic acid can stimulate collagen production in the skin. Collagen is a protein that provides structural support to the skin, contributing to its firmness and elasticity.
+  - حمض الهيالورونيك هو مادة تتواجد بشكل طبيعي في الجسم وتلعب دورًا حيويًا في الحفاظ على ترطيب البشرة ومرونتها. في علاجات معززات البشرة، يتم استخدام شكل مستقر من حمض الهيالورونيك.
+- حقن في البشرة:
 
-- Long-Term Benefits:
-  - While the immediate effects of skin boosters include enhanced hydration and a radiant appearance, the longer-term benefits may include improved skin quality, increased collagen levels, and a reduction in fine lines and wrinkles.
+  - يتم حقن محلول حمض الهيالورونيك في البشرة باستخدام إبرة دقيقة أو كانيولا. تُجرى الحقن عادةً بنمط شبكي فوق منطقة العلاج.
+- تحسين الترطيب والحجم:
 
-Common Uses:
-- Dehydrated or dull skin.
-- Fine lines and superficial wrinkles.
-- Sun-damaged skin.
-- Uneven skin texture and tone.
+  - يمكن لحمض الهيالورونيك جذب واستبقاء جزيئات الماء، مما يوفر ترطيبًا فوريًا للبشرة. يؤدي ذلك إلى تحسين ملمس البشرة ونعومتها وتحسين حجمها بشكل طفيف.
+- تحفيز إنتاج الكولاجين:
 
-Number of Sessions:
-  -	A series of sessions is often recommended to achieve optimal results. The specific number of sessions may vary based on individual needs and the condition of the skin.
+  - بالإضافة إلى خصائصه المرطبة، يمكن لحمض الهيالورونيك تحفيز إنتاج الكولاجين في البشرة. الكولاجين هو بروتين يوفر دعمًا هيكليًا للبشرة، مما يسهم في صلابتها ومرونتها.
+- الفوائد طويلة الأمد:
 
-Skin boosters are typically well-tolerated, and the downtime is minimal.
+  - بينما تشمل الآثار الفورية لمعززات البشرة تعزيز الترطيب ومظهرًا متألقًا، قد تشمل الفوائد الطويلة الأمد تحسين جودة البشرة وزيادة مستويات الكولاجين وتقليل الخطوط الدقيقة والتجاعيد.
+
+الاستخدامات الشائعة:
+
+- البشرة الجافة أو الباهتة.
+- الخطوط الدقيقة والتجاعيد السطحية.
+- البشرة المتضررة من الشمس.
+- ملمس البشرة غير الموحد والنغمات غير المتساوية.
+
+عدد الجلسات:
+
+- يُوصى غالبًا بسلسلة من الجلسات لتحقيق النتائج المثلى. قد يختلف عدد الجلسات المحدد حسب احتياجات الفرد وحالة البشرة.
+
+معززات البشرة تكون عمومًا محمولة بشكل جيد، وفترة التعطل قليلة.

@@ -1,88 +1,53 @@
 ---
-title: Dry Needling
-subtitle: Procedure where a small needle is inserted into the muscle, aiming to treat trigger points. Trigger points are muscular nodules 
-        that are palpable and tender. These nodules can cause pain on the surrounding area and to distant areas of the body, a phenomenon called 
-        "referred pain"
+
+title: التنقيط الجاف
+subtitle: إجراء يتم فيه إدخال إبرة صغيرة في العضلة بهدف علاج نقاط الزناد. نقاط الزناد هي عقيدات عضلية واضحة ومؤلمة. يمكن أن تسبب هذه العقيدات ألمًا في المنطقة المحيطة بها وفي مناطق بعيدة من الجسم، وهي ظاهرة تسمى "الألم الرجيع".
 image: assets/img/portfolio/dry-needling.webp
-alt: Dry Needling
+alt: الوخز الجاف
 
 caption:
-  title: Dry Needling
-  subtitle: Procedure where a small needle is inserted into the muscle, aiming to treat trigger points
+  title: الوخز الجاف
+  subtitle: إجراء يتم فيه إدخال إبرة صغيرة في العضلة بهدف علاج نقاط الزناد.
   thumbnail: assets/img/portfolio/dry-needling.webp
 lang: ar
 page_id: dry-needling
 ---
-Dry needling is a procedure where a small needle is inserted into the
-muscle, aiming to treat trigger points. Trigger points are muscular
-nodules that are palpable and tender. These nodules can cause pain on
-the surrounding area and to distant areas of the body, a phenomenon
-called \'\'referred pain\'\'.\[1\]
+الوخز الجاف هو إجراء يتم فيه إدخال إبرة صغيرة إلى العضلة بهدف علاج النقاط الزناد. النقاط الزناد هي عقد عضلية يمكن تحسسها وتكون مؤلمة. يمكن لهذه العقد أن تسبب الألم في المنطقة المحيطة وأيضاً في مناطق بعيدة في الجسم، وهو ما يُعرف بالألم المحال.
 
-**Evidence-based effects of dry needling therapy**
+**التأثيرات المثبتة للوخز الجاف**
 
--   **Reduce pain in**:
-  1.  Knee/Hip osteoarthritis \[3\]
-  2.  Piriformis syndrome \[4\]
-  3.  Carpal tunnel syndrome \[5\]
-  4.  Migraines and other types of headaches \[6\]
-  5.  Shoulder pain, Neck pain, Low back pain \[7\],\[8\],\[9\]
-  6.  Plantar fasciitis \[10\]
+- **تقليل الألم في**:
+  1. التهاب المفاصل في الركبة/الورك
+  2. متلازمة العضلة الكمثرية
+  3. متلازمة النفق الرسغي
+  4. الصداع النصفي وأنواع أخرى من الصداع
+  5. آلام الكتف، وآلام الرقبة، وآلام أسفل الظهر
+  6. التهاب اللفافة الأخمصية
 
-**Is it a painful procedure?**  
-Even if the insertion of a needle in the muscle might seem painful, the
-needles are very thin and don\'t cause pain. There are times when the
-insertion of the needle might cause a muscle twitch, but this is not
-commonly described as painful by the patients.
+**هل هي عملية مؤلمة؟**  
+حتى وإن كان إدخال الإبرة في العضلة قد يبدو مؤلمًا، إلا أن الإبر رفيعة جدًا ولا تسبب الألم. قد يحدث أحيانًا أن يسبب إدخال الإبرة انقباضًا عضليًا، لكن المرضى لا يصفونه عادةً بأنه مؤلم.
 
-**Am I going to be sore?**  
-As with most musculskeletal treatments, there might be some mild muscle
-soreness for 24-48 hours following a treatment.
+**هل سأتألم بعد العلاج؟**  
+كما هو الحال مع معظم العلاجات العضلية الهيكلية، قد يكون هناك بعض الألم العضلي الخفيف لمدة 24-48 ساعة بعد العلاج.
 
-**References:**  
-1.  *Shah, J. P., Thaker, N., Heimur, J., Aredo, J. V., Sikdar, S., &
-    Gerber, L. (2015). Myofascial Trigger Points Then and Now: A
-    Historical and Scientific Perspective. PM & R : the journal of
-    injury, function, and rehabilitation, 7(7), 746--761.
-    https://doi.org/10.1016/j.pmrj.2015.01.024*
+**المراجع:**  
 
-2.  *Itoh, K., Katsumi, Y., Hirota, S., & Kitakoji, H. (2007).
-    Randomised trial of trigger point acupuncture compared with other
-    acupuncture for treatment of chronic neck pain. Complementary
-    therapies in medicine, 15(3), 172--179.
-    https://doi.org/10.1016/j.ctim.2006.05.003*
+1. شاه، جيه. بي., ثاكر، ن., هايمور، جي., أريدو، جيه. في., سيكدار، إس., و جيربر، إل. (2015). النقاط الزناد العضلية اللفافية بين الماضي والحاضر: منظور تاريخي وعلمي.
+   
+2. إيتوه، ك., كاتسومي، ي., هيروتا، س., وكيتاكوجي، هـ. (2007). دراسة معشاة للنقاط الزناد بالوخز بالإبر مقارنة مع أساليب أخرى لعلاج آلام الرقبة المزمنة.
 
-3.  *Dunning, J., Butts, R., Mourad, F., Young, I., Flannagan, S., &
-    Perreault, T. (2014). Dry needling: a literature review with
-    implications for clinical practice guidelines. Physical therapy
-    reviews : PTR, 19(4), 252--265.
-    https://doi.org/10.1179/108331913X13844245102034*
+3. داننغ، جيه., بوتس، ر., موراد، ف., يونغ، آي., فلاناجان، إس., و بيرو، ت. (2014). الوخز الجاف: مراجعة للأدبيات مع توصيات لممارسات العلاج السريري.
 
-4.  *Fishman LM, Dombi GW, Michaelsen C, Ringel S, Rozbruch J, Rosner B,
-    et al. Piriformis syndrome: diagnosis, treatment, and outcome--a
-    10-year study. Arch Phys Med Rehabil. 2002;83(3):295--301*
+4. فيشمان، إل. إم., دومبي، جيه. دبليو., مايكلسن، سي., رينجل، إس., روزبروخ، جيه., روزنر، بي. وآخرون. تشخيص وعلاج متلازمة العضلة الكمثرية: دراسة لمدة 10 سنوات.
 
-5.  *Khosrawi S, Moghtaderi A, Haghighat S. Acupuncture in treatment of
-    carpal tunnel syndrome: a randomized controlled trial study. J Res
-    Med Sci. 2012;17(1):1--7*
+5. خسروي، إس., مغتادري، أ., حقيقات، س. العلاج بالوخز بالإبر لمتلازمة النفق الرسغي: دراسة تجريبية معشاة.
 
-6.  *Allais G, De Lorenzo C, Quirico PE, Airola G, Tolardo G, Mana O, et
-    al. Acupuncture in the prophylactic treatment of migraine without
-    aura: a comparison with flunarizine. Headache. 2002;42(9):855--61*
+6. أوليس، جي., دي لورينزو، سي., كويريكو، بي. إي., أيلا، جي., تلاردو، جي., مانا، أو. وآخرون. الوخز بالإبر في العلاج الوقائي للصداع النصفي بدون هالة.
 
-7.  *Osborne NJ, Gatt IT. Management of shoulder injuries using dry
-    needling in elite volleyball players. Acupunct
-    Med. 2010;28(1):42--5*
+7. أوزبورن، إن. جي., جات، آي. تي. إدارة إصابات الكتف باستخدام الوخز الجاف في لاعبي الكرة الطائرة النخبة.
 
-8.  * Tough EA, White A. Effectiveness of acupuncture/dry needling for
-    myofascial trigger point pain--a systematic review. Phys Ther
-    Rev. 2011;16(2):147--54*
+8. توف، إي. إيه., وايت، أ. فعالية الوخز بالإبر/الوخز الجاف لألم النقاط الزناد العضلية اللفافية: مراجعة منهجية.
 
-9.  *Vas J, Aranda JM, Modesto M, Benítez-Parejo N, Herrera A,
-    Martínez-Barquín DM, et al. Acupuncture in patients with acute low
-    back pain: a multicentre randomised controlled clinical
-    trial. Pain. 2012;153(9):1883--9*
+9. فاس، ج., أراندا، جيه. إم., مودستو، م., بنيتز-باريجو، إن., هيريرا، أ., مارتينيز-باركين، دي. إم. وآخرون. الوخز بالإبر في المرضى الذين يعانون من آلام أسفل الظهر الحادة: تجربة سريرية معشاة متعددة المراكز.
 
-10. *Zhang S, Yip T, Li Q. Acupuncture treatment for plantar fasciitis:
-    a randomized controlled trial with six months follow-up. Evid Based
-    Complement Alternat Med. 2009;20(11):1--10.*
+10. زانغ، إس., يب، تي., لي، كيو. علاج الوخز بالإبر لالتهاب اللفافة الأخمصية: دراسة تجريبية معشاة بمتابعة لمدة ستة أشهر.

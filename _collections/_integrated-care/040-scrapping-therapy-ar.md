@@ -1,27 +1,29 @@
 ---
+
 caption: #what displays in the portfolio grid:
-  title: Scraping Therapy
-  subtitle: Soft tissue mobilization massage that is done with the help of a scraping tool to heal soft tissue injuries
+  title: العلاج بالتقشير
+  subtitle: تدليك تعبئة الأنسجة الرخوة الذي يتم باستخدام أداة كشط لعلاج إصابات الأنسجة الرخوة.
   thumbnail: assets/img/portfolio/scrapping-therapy.webp
   
 #what displays when the item is clicked:
-title: IASTM or Scraping therapy (Gua sha)
-subtitle: Scraping therapy utilizes instruments with smooth edges to scrape the skin until red blemishes occur. The aim of this intervention is to break down fascial restrictions and scar tissue that could have developed as a result of immobilization, surgery, or musculoskeletal strains and injuries.
+title: علاج الكشط أو العلاج بالأدوات التقويمية للأنسجة الرخوة (غوا شا)
+subtitle: يتضمن العلاج بالكشط استخدام أدوات ذات حواف ناعمة لكشط الجلد حتى تظهر بقع حمراء. يهدف هذا التدخل إلى تفتيت القيود اللفافية والأنسجة الندبية التي قد تكون تطورت نتيجة عدم الحركة أو الجراحة أو الإجهاد والإصابات العضلية الهيكلية.
 image: assets/img/portfolio/scrapping-therapy.webp
-alt: IASTM or Scraping therapy (Gua sha)
+alt: IASTM أو العلاج بالكشط (جوا شا)
 lang: ar
 page_id: scrapping-therapy
 
 ---
-**Effects of scraping therapy based on research:**
-1. Increases blood flow to the area applied to [2]
-2. Supports faster healing of tissues
-3. Can help in tendinopathies [3]
-4. Reduces pain [4]
-5. Improves range of motion [5]
+**تأثيرات العلاج بالكي بناءً على الأبحاث:**
 
- 
-**References**
+1. يزيد من تدفق الدم إلى المنطقة التي يُطبق عليها [2]
+2. يدعم سرعة شفاء الأنسجة
+3. يمكن أن يساعد في علاج التهاب الأوتار [3]
+4. يقلل الألم [4]
+5. يحسن نطاق الحركة [5]
+
+**المراجع**
+
 1. *Cheatham SW, Baker R, Kreiswirth E. Instrument assisted soft-tissue mobilization: A commentary on clinical practice guidelines for rehabilitation professionals. International journal of sports physical therapy. 2019 Jul;14(4):670.*
 
 2. *Xu, Q. Y., Yang, J. S., Zhu, B., Yang, L., Wang, Y. Y., & Gao, X. Y. (2012). The effects of scraping therapy on local temperature and blood perfusion volume in healthy subjects. Evidence-based complementary and alternative medicine : eCAM, 2012, 490292. https://doi.org/10.1155/2012/490292*
@@ -31,4 +33,3 @@ page_id: scrapping-therapy
 4. *Lee JH, Lee DK, Oh JS. The effect of Graston technique on the pain and range of motion in patients with chronic low back pain. J Phys Ther Sci. 2016;28:1852–1855.*
 
 5. *Baker RT, Nasypany A, Seegmiller JG, Baker JG. Instrument-assisted soft tissue mobilization treatment for tissue extensibility dysfunction. Int J Athl The Train. 2013;18:16–21*
-
