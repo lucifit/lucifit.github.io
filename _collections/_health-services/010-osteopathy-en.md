@@ -1,19 +1,18 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Osteopathy & Manual Therapy
-  subtitle: Focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system.
+  subtitle: A holistic approach to pain relief and mobility, restoring balance through osteopathic techniques..
   thumbnail: assets/img/portfolio/ostheopath-treatment.webp
   
 #what displays when the item is clicked:
 title: Osteopathy - Osteopathic Treatment & Manual Therapy
-subtitle: Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health.
+subtitle: A full-body assessment and treatment designed to address musculoskeletal imbalances, relieve pain, and improve mobility. Techniques may include joint mobilization, myofascial release, and soft tissue therapy, depending on your individual needs.
 image: assets/img/portfolio/ostheopath-treatment.webp
 alt: Osteopathic Treatment
 lang: en
 page_id: ostheopath-treatment
 
 ---
-A full-body assessment and treatment designed to address musculoskeletal imbalances, relieve pain, and improve mobility. Techniques may include joint mobilization, myofascial release, and soft tissue therapy, depending on your individual needs.
 
 ➡ Best for: Back pain, joint stiffness, postural issues, sports injuries, and overall musculoskeletal health.
 
