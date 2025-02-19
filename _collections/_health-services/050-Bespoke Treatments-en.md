@@ -10,16 +10,11 @@ subtitle: Not sure which treatment is best for you? Book a consultation, and I w
 image: assets/img/portfolio/swedish-massage.webp
 alt: Swedish/Relaxing Massage
 lang: en
-page_id: swedish-massage
+page_id: Bespoke Treatments
 
 ---
 
 Every body is unique, and so is every treatment. Using an osteopathic approach, I customize each session to address your specific needs—whether it's pain relief, improved mobility, or relaxation. Relaxation can be achieved through various techniques, including gentle soft tissue therapy, diaphragmatic release, and guided breathing techniques, ensuring a fully personalized and effective experience for your well-being.
-
-
-
-
-
 
 
 
