@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Myofascial Release & Trigger Point Therapy
-  subtitle: Stronger force used to reach deeper layers of muscle tissue
+  subtitle: Precision techniques to release fascial restrictions and relieve deep-seated muscular tension.
   thumbnail: assets/img/portfolio/deep-tissue-massage.webp
   
 #what displays when the item is clicked:
