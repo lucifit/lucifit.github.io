@@ -1,18 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Lymphatic Draining Massage
-  subtitle: Light massage on the skin that helps promote the movement of lymphatic fluid
+  title: Osteopathic Lymphatic Drainage
+  subtitle: A gentle osteopathic technique to enhance circulation, reduce fluid retention, and support the body's natural detoxification process.
   thumbnail: assets/img/portfolio/lymphatic-drainage-massage.webp
   
 #what displays when the item is clicked:
-title: Lymphatic Draining Massage
-subtitle: Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.
+title: Osteopathic Lymphatic Drainage (Advanced Circulation & Detox Therapy)
+subtitle: A gentle, rhythmic technique that stimulates the lymphatic system to promote detoxification, reduce swelling, and support immune function. This approach is particularly beneficial for post-surgery recovery, inflammation, and fluid retention.
 image: assets/img/portfolio/lymphatic-drainage-massage.webp
 alt: Lymphatic Draining Massage
 lang: en
 page_id: lymphatic-drainage-massage
 
 ---
+
+- Best for: Swelling, post-surgical recovery, toxin buildup, and immune support.
+
 Lymphatic drainage is a light massage on the skin that helps promote the movement of lymphatic fluid. In contrast to other massage approaches, lymphatic drainage focuses specifically on lymph vessels to assist the flow of the lymph.
 
 **Mechanisms of action**
