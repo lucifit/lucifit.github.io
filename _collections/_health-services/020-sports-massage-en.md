@@ -1,24 +1,29 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Sports Massage
+  title: Deep Tissue & Sports Therapy
   subtitle: Manipulation of muscles and soft tissue to improve performance and recovery
   thumbnail: assets/img/portfolio/sports-massage.webp
   
 #what displays when the item is clicked:
-title: Sports Massage Therapy
-subtitle: Sports massage therapy involves manual manipulation of muscles and soft tissue with the purpose of improving performance and recovery [1]. The techniques used aim to enhance circulation, reduce muscle tension and improve tissue elasticity. The main difference of sports massage compared to regular massage is that sports massage targets specific regions of the body, depending on the presentation of the client.
+title: Deep Tissue & Sports Therapy (Osteopathy-Based Soft Tissue Treatment)
+subtitle: A targeted treatment that focuses on releasing muscle tension, improving circulation, and reducing pain. Unlike traditional massage, this approach integrates osteopathic techniques to address the root causes of discomfort, making it ideal for athletes, active individuals, and those experiencing chronic tension.
 image: assets/img/portfolio/sports-massage.webp
 alt: Sports Massage Therapy
 lang: en
 page_id: sports-massage
 
 ---
-Sports massage therapy involves manual manipulation of muscles and soft tissue with the purpose of improving performance and recovery [1]. The techniques used aim to enhance circulation, reduce muscle tension and improve tissue elasticity. The main difference of sports massage compared to regular massage is that sports massage targets specific regions of the body, depending on the presentation of the client.
-Effects of sports massage according to research:
-1. Significantly increases flexibility [2,3]  
-2. Reduces muscle fatigue [4]  
-3. Reduced Delayed Onset Muscle Soreness (DOMS) [5]  
-4. Can potentially increase strength and athletic performance [6]  
+Deep Tissue & Sports Therapy is a specialized hands-on treatment designed to target muscle tension, improve mobility, and aid in recovery. Unlike standard massage, this therapy integrates osteopathic techniques to address musculoskeletal imbalances, ensuring a more effective and results-driven approach.
+
+This treatment focuses on deep pressure and targeted manipulations, helping to release chronic muscle tightness, enhance circulation, and improve tissue elasticity. Whether you are an athlete looking to optimize performance or someone experiencing persistent muscular discomfort, this therapy is designed to provide long-lasting relief.
+
+Benefits of Deep Tissue & Sports Therapy:
+Improves mobility & flexibility by enhancing joint and soft tissue function.
+Reduces muscle fatigue and aids in faster recovery.
+Relieves chronic tension & postural imbalances through precise pressure and soft tissue release.
+Minimizes Delayed Onset Muscle Soreness (DOMS), promoting better performance and recovery.
+Enhances circulation & oxygen flow to muscles, supporting overall musculoskeletal health.
+By integrating osteopathic expertise, this therapy goes beyond traditional deep tissue massage, ensuring that pressure is applied effectively to the right areas for maximum therapeutic benefit. Whether you're recovering from an injury, managing chronic pain, or simply looking to improve mobility, this treatment is tailored to meet your needs.
  
  
 **References:**
