@@ -1,18 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Osteopathy
-  subtitle: Focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system.
+  title: Osteopathy & Manual Therapy
+  subtitle: A holistic approach to pain relief and mobility, restoring balance through osteopathic techniques..
   thumbnail: assets/img/portfolio/ostheopath-treatment.webp
   
 #what displays when the item is clicked:
-title: Osteopathy – Osteopathic Treatment
-subtitle: Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health.
+title: Osteopathy - Osteopathic Treatment & Manual Therapy
+subtitle: A full-body assessment and treatment designed to address musculoskeletal imbalances, relieve pain, and improve mobility. Techniques may include joint mobilization, myofascial release, and soft tissue therapy, depending on your individual needs.
 image: assets/img/portfolio/ostheopath-treatment.webp
 alt: Osteopathic Treatment
 lang: en
 page_id: ostheopath-treatment2
 
 ---
+
+- Best for: Back pain, joint stiffness, postural issues, sports injuries, and overall musculoskeletal health.
+
 An osteopath is a highly trained healthcare professional who specializes in a holistic approach to diagnosing, treating, and preventing a wide range of musculoskeletal and functional disorders. Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health. They use a combination of manual techniques, patient education, and lifestyle advice to promote wellness and alleviate pain, helping patients achieve optimal physical and emotional well-being. Osteopathy aims to restore balance, mobility, and function, allowing the body to heal itself naturally. Osteopaths treat a diverse patient population, including individuals with back pain, joint issues, sports injuries, and various chronic conditions, tailoring their care to each patient's unique needs.
 
 Here is a list of common conditions that osteopaths often treat:
@@ -34,3 +37,4 @@ Here is a list of common conditions that osteopaths often treat:
 - jaw-related conditions, particularly those that involve musculoskeletal issues in the jaw and surrounding areas. Osteopathic treatment for jaw problems often falls under the broader category of cranial osteopathy or craniosacral therapy.
 
 It's important to note that osteopaths take a holistic approach to healthcare, considering not only the specific condition but also the patient's overall health and well-being. They may use a variety of manual techniques, including manipulation, stretching, and massage, to promote healing and improve function. Osteopathic treatment plans are often tailored to the individual needs and preferences of the patient. If you have a specific condition or concern, it's advisable to consult with an osteopath to discuss your treatment options.
+
