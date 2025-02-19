@@ -1,4 +1,5 @@
 import os
+import shutil
 from openai import OpenAI
 
 client = OpenAI()
@@ -27,6 +28,13 @@ def translate(text):
 
 # Navigate to the _collections directory
 os.chdir("_collections")
+
+# First, remove any existing target language files
+for root, dirs, files in os.walk("."):
+    for file in files:
+        if file.endswith(f"-{language_code}.md"):
+            filepath = os.path.join(root, file)
+            os.remove(filepath)
 
 # Duplicate all files ending with -en.md to -{language_code}.md
 for root, dirs, files in os.walk("."):
