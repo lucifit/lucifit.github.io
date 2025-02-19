@@ -1,27 +1,20 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Swedish/Relaxing Massage
-  subtitle: Gentle techniques which focus on the superficial tissues
+  title: Bespoke Treatments
+  subtitle: Personalized osteopathic treatments for pain relief, mobility, and deep relaxation with a clinical approach.
   thumbnail: assets/img/portfolio/swedish-massage.webp
   
 #what displays when the item is clicked:
-title: Swedish/Relaxing Massage
-subtitle: Sweedish or relaxing massage is using gentle techniques which focus on the superficial (not deep) tissues. While it can be performed in the whole body, Sweedish massage emphasizes on physical symptoms and areas of discomfort.
+title: Bespoke Treatments: Tailored to Your Needs
+subtitle: Not sure which treatment is best for you? Book a consultation, and I will create a customized session based on your needs—whether it’s pain relief, mobility improvement, or deep relaxation with a clinical approach.
 image: assets/img/portfolio/swedish-massage.webp
 alt: Swedish/Relaxing Massage
 lang: en
 page_id: swedish-massage
 
 ---
-**Effectiveness according to research:**
-1. Decreases pain level in musculoskeletal conditions [1]
-2. Decreases muscular tension [2]
-3. Increases range of movement [2]
-4. Increases local blood circulation [2]
+
+Every body is unique, and so is every treatment. Using an osteopathic approach, I customize each session to address your specific needs—whether it's pain relief, improved mobility, or relaxation. Relaxation can be achieved through various techniques, including gentle soft tissue therapy, diaphragmatic release, and guided breathing techniques, ensuring a fully personalized and effective experience for your well-being.
 
  
  
-**References:**
-1. *Sritoomma Netchanok, Moyle Wendy, Cooke Marie, O'Dwyer Siobhan, The effectiveness of Swedish massage and traditional Thai massage in treating chronic low back pain: A review of the literature, Complementary Therapies in Clinical Practice, Volume 18, Issue 4, 2012, Pages 227-234, ISSN 1744-3881,https://doi.org/10.1016/j.ctcp.2012.07.001*
-
-2. *Jamsek, Mark. (2013). Physiological Effects of Swedish Massage: A Preliminary Analysis of the Fundamental Techniques. A preliminary analysis of the literature elucidating the physiological effects of the basic Swedish strokes.*
