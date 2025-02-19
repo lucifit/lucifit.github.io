@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Deep Tissue & Sports Therapy
-  subtitle: Manipulation of muscles and soft tissue to improve performance and recovery
+  subtitle: Targeted deep pressure therapy to relieve muscle tension, enhance recovery, and improve mobility.
   thumbnail: assets/img/portfolio/sports-massage.webp
   
 #what displays when the item is clicked:
