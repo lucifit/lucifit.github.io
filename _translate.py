@@ -13,6 +13,10 @@ language_code = "ar"
 
 # Function to translate text using OpenAI's GPT-4
 def translate(text):
+    # if text is empty, return empty
+    if not text:
+        return ""
+
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
@@ -29,6 +33,13 @@ def translate(text):
 # Navigate to the _collections directory
 os.chdir("_collections")
 
+# Get total number of files to process
+total_files = sum(1 for root, _, files in os.walk(".") 
+                 for file in files if file.endswith("-en.md"))
+print(f"Found {total_files} English files to process")
+
+processed_files = 0
+
 # First, remove any existing target language files
 for root, dirs, files in os.walk("."):
     for file in files:
@@ -44,22 +55,35 @@ for root, dirs, files in os.walk("."):
             target_filepath = os.path.join(
                 root, file.replace("-en.md", f"-{language_code}.md")
             )
+            print(f"Copying {en_filepath} to {target_filepath}")
             shutil.copy(en_filepath, target_filepath)
+            processed_files += 1
+            progress = (processed_files / total_files) * 100
+            print(f"Progress: {progress:.1f}% ({processed_files}/{total_files})")
 
+print("\nStarting translation process...")
+# Reset counter for translation phase
+processed_files = 0
+total_translation_files = sum(1 for root, _, files in os.walk(".")
+                            for file in files if file.endswith(f"-{language_code}.md"))
 
 # Find all markdown files ending with -{language_code}.md and process them
 for root, dirs, files in os.walk("."):
     for file in files:
         if file.endswith(f"-{language_code}.md"):
             filepath = os.path.join(root, file)
+            print(f"\nProcessing {filepath}")
+            
             with open(filepath, "r", encoding="utf-8") as f:
                 content = f.read()
 
             # Split the content into frontmatter and body
             parts = content.split("---")
             if len(parts) < 3:
-                continue  # Skip files that don't have proper frontmatter
+                print(f"Skipping {filepath} - Invalid frontmatter format")
+                continue
 
+            print("Translating frontmatter...")
             frontmatter = parts[1]
             body = parts[2]
 
@@ -79,7 +103,7 @@ for root, dirs, files in os.walk("."):
                     translated_frontmatter.append(line)
             translated_frontmatter = "\n".join(translated_frontmatter)
 
-            # Translate the body content
+            print("Translating body content...")
             translated_body = translate(body.strip())
 
             # Combine translated frontmatter and body
@@ -90,3 +114,9 @@ for root, dirs, files in os.walk("."):
             # Write the translated content back to the file
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(translated_content)
+
+            processed_files += 1
+            progress = (processed_files / total_translation_files) * 100
+            print(f"Progress: {progress:.1f}% ({processed_files}/{total_translation_files})")
+
+print("\nTranslation completed successfully!")
