@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/swedish-massage.webp
 
 #what displays when the item is clicked:
-title: Bespoke Treatments -  Tailored to Your Needs
+title: Bespoke Treatments - Tailored to Your Needs
 subtitle: Not sure which treatment is best for you? Book a consultation, and I will create a customized session based on your needs—whether it’s pain relief, mobility improvement, or deep relaxation with a clinical approach.
 image: assets/img/portfolio/swedish-massage.webp
 alt: Swedish/Relaxing Massage
