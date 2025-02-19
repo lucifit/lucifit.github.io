@@ -1,4 +1,3 @@
-# https://github.com/untra/polyglot
 header:
   book-now: Prenota Ora
   services: Servizi
@@ -8,54 +7,59 @@ header:
       internal-url: /#about-us
     - title: Recensioni
       internal-url: /#reviews
-    - title: Località
+    - title: Ubicazioni
       internal-url: /locations
     - title: Prezzi
       internal-url: /pricing
     - title: Accedi
       url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
   services-menu:
-    - title: Servizi Popolari
+    - title: Scelte Popolari
       internal-url: /#popular-choices
     - title: Servizi di Bellezza
       internal-url: /#beauty-services
     - title: Servizi Sanitari
       internal-url: /#health-services
-    - title: Cura Integrata
+    - title: Assistenza Integrata
       internal-url: /#integrated-care
 
 hero:
   text: |
-    Per informazioni più dettagliate sui nostri servizi e tariffe, 
-    contattaci via email a <b><a href="mailto:info@healthandbeautylab.eu">info@healthandbeautylab.eu</a></b> 
-    oppure chiamaci al <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+    Per ulteriori informazioni dettagliate sui nostri servizi e tariffe, per favore contattaci via email a <b><a href="mailto:info@healthandbeautylab.eu">info@healthandbeautylab.eu</a></b> 
+    o Whatsappaci a <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
 
 about-us:
   section: about-us
   title: Chi Siamo
   body: |
-    Situato nel cuore di Londra in Baker Street, siamo specializzati in iniezioni estetiche (trattamenti antirughe, filler dermici), osteopatia e agopuntura a secco/agopuntura, con visite a domicilio disponibili su richiesta. Il nostro approccio personalizzato si concentra sul tuo benessere e sulla tua comodità, offrendo cure specialistiche in un ambiente confortevole. Il nostro team unisce l'esperienza in iniezioni estetiche, osteopatia e agopuntura a secco/agopuntura a una filosofia olistica, adattando ogni servizio alle tue esigenze uniche. Che tu stia cercando cure muscoloscheletriche, relax o miglioramenti estetici, i nostri professionisti qualificati sono impegnati ad aiutarti a raggiungere i tuoi obiettivi. *I nostri servizi includono:*
-    - Iniezioni estetiche (trattamenti antirughe, filler dermici)
-    - Valutazioni e trattamenti osteopatici
-    - Agopuntura a secco/Agopuntura
-    - Gestione del dolore muscoloscheletrico
-    - Massaggi rilassanti e terapeutici
-    - Riduzione dello stress e sedute di rilassamento
+    Situati nel cuore di Londra su Baker Street, offriamo un approccio olistico alla salute e bellezza, combinando Iniezioni Estetiche (Trattamenti Anti-Rughe, Filler Dermici), Osteopatia e Dry Needling/Agopuntura. Con un background in personal training e terapia del massaggio sportivo, fornisco un approccio completo alla cura che integra conoscenze anatomiche profonde e tecniche osteopatiche, offrendo trattamenti personalizzati progettati per soddisfare le tue esigenze specifiche.
 
-    *Perché scegliere noi?*
-    - *Comodità:* Vieni a trovarci nella nostra clinica di Baker Street o goditi l'opzione di servizi a domicilio su richiesta.
-    - *Assistenza personalizzata:* Ogni sessione è personalizzata per soddisfare le tue specifiche esigenze di salute o bellezza.
-    - *Competenza:* I nostri professionisti hanno una vasta esperienza in iniezioni estetiche, osteopatia e agopuntura a secco.
-    - *Approccio olistico:* Combiniamo salute, bellezza e relax per promuovere il benessere generale.
-    - *Programmazione flessibile:* Sono disponibili appuntamenti in base al tuo programma.
+    Come osteopata, mi concentro sull'utilizzo di tecniche manuali per trattare il dolore muscoloscheletrico e migliorare la mobilità. I miei trattamenti non si limitano al sollievo—mirano ad affrontare la causa principale del disagio e promuovere la salute a lungo termine. Ogni sessione è radicata nei principi osteopatici, che io stia utilizzando la mobilizzazione articolare, il rilascio miofasciale o la terapia dei tessuti molli. Anche nei massaggi più tradizionali, applico tecniche osteopatiche per potenziare gli effetti, assicurandosi che ogni tocco sia intenzionale e contribuisca a un reale e duraturo cambiamento.
 
-    Scopri la combinazione perfetta di salute, bellezza e relax. Contattaci per prenotare la tua sessione oggi stesso!
+    I Nostri Servizi Includono:
+
+    - Iniezioni Estetiche (Trattamenti Anti-Rughe, Filler Dermici): Miglioramenti sottili per promuovere un aspetto giovanile e naturale.
+    - Valutazioni e Trattamenti Osteopatici: Cura completa che affronta il dolore muscoloscheletrico, i problemi di mobilità e il benessere generale.
+    - Dry Needling/Agopuntura: Tecniche mirate per alleviare il dolore e la tensione, aiutando nel recupero più rapido.
+    - Massaggio Osteopatico Terapeutico: Un approccio al massaggio informato dai principi osteopatici, utilizzando tecniche che non solo rilassano, ma anche ripristinano l'equilibrio, migliorano la mobilità e alleviano il dolore.
+    - Gestione del Dolore Muscoloscheletrico: Trattamenti osteopatici personalizzati per affrontare e risolvere il dolore cronico.
+    - Trattamenti Personalizzati: Adatti alle Tue Esigenze—Non sei sicuro di quale trattamento sia il migliore per te? Prenota una consulenza e creerò una sessione personalizzata in base alle tue esigenze—sia per il sollievo dal dolore, miglioramento della mobilità o profondo rilassamento con un approccio clinico.
+
+    Perché Scegliere Noi?
+
+    - Competenza Osteopatica: Ogni trattamento è basato su principi osteopatici, garantendo un approccio completo e scientificamente valido alla tua salute.
+    - Cura Personalizzata: Trattamenti adattati alle tue esigenze individuali, sia per il sollievo dal dolore, la mobilità o il miglioramento estetico.
+    - Approccio Olistico: Combiniamo salute, bellezza e relax per migliorare il benessere fisico ed emotivo.
+    - Convenienza: Visita il nostro ambulatorio a Baker Street o richiedi visite domiciliari su richiesta.
+    - Risultati Naturali: Nei trattamenti estetici, ci concentriamo su miglioramenti sottili e naturali che appaiono belli e raffinati, senza effetti eccessivi o artificiali.
+
+    Scopri come i nostri servizi basati sull'osteopatia possono migliorare il tuo benessere ed esaltare la tua bellezza naturale. Contattaci per prenotare la tua sessione oggi stesso!
 
 modal:
   close: Chiudi
 
 popular-choices:
-  title: Servizi Popolari
+  title: Scelte Popolari
   section: popular-choices
 
 beauty-services:
@@ -67,25 +71,25 @@ health-services:
   section: health-services
 
 integrated-care:
-  title: Cura Integrata
+  title: Assistenza Integrata
   section: integrated-care
 
 contact:
   title: Contattaci
   section: contact
   name: Nome*
-  name-validation: Inserisci il tuo nome.
+  name-validation: Per favore inserisci il tuo nome.
   email: Email*
-  email-validation: Inserisci la tua email.
-  phone: Numero di telefono
-  phone-validation: Inserisci il tuo numero di telefono.
-  message: Inserisci il tuo messaggio
-  message-validation: Inserisci il tuo messaggio.
-  subject: Contact Form Submission
+  email-validation: Per favore inserisci il tuo indirizzo email.
+  phone: Numero di Telefono
+  phone-validation: Per favore inserisci il tuo numero di telefono.
+  message: Descrivi qui la tua richiesta
+  message-validation: Per favore inserisci un messaggio.
+  subject: Invio Modulo di Contatto
   submit: Invia
 
 footer:
-  legal: Politica sulla riservatezza
+  legal: Politica sulla Privacy
   social:
     - url: https://www.instagram.com/health_and_beauty_lab
       icon: fab fa-instagram
