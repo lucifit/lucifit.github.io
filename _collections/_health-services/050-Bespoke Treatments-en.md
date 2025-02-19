@@ -10,7 +10,7 @@ subtitle: Not sure which treatment is best for you? Book a consultation, and I w
 image: assets/img/portfolio/swedish-massage.webp
 alt: Swedish/Relaxing Massage
 lang: en
-page_id: Bespoke Treatments
+page_id: Swedish-massage
 
 ---
 
