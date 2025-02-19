@@ -18,11 +18,11 @@ Deep Tissue & Sports Therapy is a specialized hands-on treatment designed to tar
 This treatment focuses on deep pressure and targeted manipulations, helping to release chronic muscle tightness, enhance circulation, and improve tissue elasticity. Whether you are an athlete looking to optimize performance or someone experiencing persistent muscular discomfort, this therapy is designed to provide long-lasting relief.
 
 Benefits of Deep Tissue & Sports Therapy:
-Improves mobility & flexibility by enhancing joint and soft tissue function.
-Reduces muscle fatigue and aids in faster recovery.
-Relieves chronic tension & postural imbalances through precise pressure and soft tissue release.
-Minimizes Delayed Onset Muscle Soreness (DOMS), promoting better performance and recovery.
-Enhances circulation & oxygen flow to muscles, supporting overall musculoskeletal health.
+- Improves mobility & flexibility by enhancing joint and soft tissue function.
+- Reduces muscle fatigue and aids in faster recovery.
+- Relieves chronic tension & postural imbalances through precise pressure and soft tissue release.
+- Minimizes Delayed Onset Muscle Soreness (DOMS), promoting better performance and recovery.
+- Enhances circulation & oxygen flow to muscles, supporting overall musculoskeletal health.
 By integrating osteopathic expertise, this therapy goes beyond traditional deep tissue massage, ensuring that pressure is applied effectively to the right areas for maximum therapeutic benefit. Whether you're recovering from an injury, managing chronic pain, or simply looking to improve mobility, this treatment is tailored to meet your needs.
  
  
