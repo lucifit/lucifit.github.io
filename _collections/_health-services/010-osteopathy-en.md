@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/ostheopath-treatment.webp
   
 #what displays when the item is clicked:
-title: Osteopathy/Osteopathic Treatment & Manual Therapy
+title: Osteopathy - Osteopathic Treatment & Manual Therapy
 subtitle: Osteopaths focus on the body's interconnected systems, emphasizing the importance of the musculoskeletal system in overall health.
 image: assets/img/portfolio/ostheopath-treatment.webp
 alt: Osteopathic Treatment
