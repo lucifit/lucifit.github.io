@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/sports-massage.webp
   
 #what displays when the item is clicked:
-title: Deep Tissue & Sports Therapy (Osteopathy-Based Soft Tissue Treatment)
+title: Deep Tissue & Sports Therapy - (Osteopathy-Based Soft Tissue Treatment)
 subtitle: A targeted treatment that focuses on releasing muscle tension, improving circulation, and reducing pain. Unlike traditional massage, this approach integrates osteopathic techniques to address the root causes of discomfort, making it ideal for athletes, active individuals, and those experiencing chronic tension.
 image: assets/img/portfolio/sports-massage.webp
 alt: Sports Massage Therapy
