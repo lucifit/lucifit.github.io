@@ -1,12 +1,12 @@
 ---
 
 caption: #what displays in the portfolio grid:
-  title: Rilascio Miofasciale e Terapia dei Punti Trigger
+  title: Rilascio Miofasciale e Terapia dei Trigger Point
   subtitle: Tecniche di precisione per liberare restrizioni fasciali e alleviare tensioni muscolari profonde.
   thumbnail: assets/img/portfolio/deep-tissue-massage.webp
   
 #what displays when the item is clicked:
-title: Rilascio Miofasciale e Terapia dei Trigger Point
+title: Rilascio Miofasciale e Terapia dei Trigger Point (Nodi Muscolari)
 subtitle: Una tecnica specializzata progettata per rilasciare la fascia tesa e i nodi muscolari, ripristinando il movimento e riducendo il dolore. Questo trattamento è particolarmente efficace per condizioni come la fibromialgia, il dolore cronico e il disagio legato alla tensione.
 image: assets/img/portfolio/deep-tissue-massage.webp
 alt: Massaggio dei tessuti profondi
