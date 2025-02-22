@@ -1,35 +1,31 @@
 ---
 
 caption: #what displays in the portfolio grid:
-  title: العلاج بالكشط
-  subtitle: تدليك تعبئة الأنسجة الرخوة الذي يُجرى بمساعدة أداة كشط لعلاج إصابات الأنسجة الرخوة.
+  title: العلاج بالخدش
+  subtitle: التدليك بتحريك الأنسجة اللينة الذي يتم بمساعدة أداة الحك لعلاج إصابات الأنسجة اللينة
   thumbnail: assets/img/portfolio/scrapping-therapy.webp
   
 #what displays when the item is clicked:
-title: IASTM أو علاج الكشط (جوا شا)
-subtitle: تعتمد تقنية العلاج بالكشط على استخدام أدوات ذات حواف ناعمة لكشط الجلد حتى تظهر البقع الحمراء. يهدف هذا التدخل إلى تفتيت القيود اللفافية والنسيج الندبي الذي قد يكون تطور نتيجة عدم الحركة، أو الجراحة، أو التوترات والإصابات العضلية الهيكلية.
+title: العلاج بالأدوات اليدوية للتحفيز عندما تكون الحاجة لذلك
+subtitle: تستخدم علاجات التقشير أدوات تحتوي على حواف ناعمة لتقشير الجلد حتى تحدوث بقع حمراء. الهدف من هذا العلاج هو تحطيم القيود الفاشية ونسيج الندبات التي قد تكون قد طورت نتيجة للتعطيل أو الجراحة أو الإجهاد العضلي الهيكلي والإصابات.
 image: assets/img/portfolio/scrapping-therapy.webp
-alt: علاج الكشط أو العلاج بـ IASTM (جوا شا)
-lang: ar
+alt: العلاج بواسطة الحدادة أو الخدش (جوا شا)
+lang: en
 page_id: scrapping-therapy
 
+source_hash: 333af72eb0b4cacd2d5910a3f0d56162
+lang: ar
 ---
-**تأثيرات العلاج بالكشط بناءً على الأبحاث:**
+تأثيرات العلاج بالخدش بناءً على الأبحاث:
+1. يزيد من تدفق الدم إلى المنطقة المطبق عليها
+2. يدعم التئام الأنسجة بشكل أسرع
+3. يمكن أن يساعد في الإصابات والتهابات الأوتار
+4. يقلل من الألم
+5. يحسن من نطاق الحركة
 
-1. يزيد من تدفق الدم إلى المنطقة المطبقة عليها [2]
-2. يدعم الشفاء الأسرع للأنسجة
-3. يمكن أن يساعد في علاج التهابات الأوتار [3]
-4. يقلل الألم [4]
-5. يحسن نطاق الحركة [5]
-
-**المراجع**
-
-1. *Cheatham SW, Baker R, Kreiswirth E. Instrument assisted soft-tissue mobilization: A commentary on clinical practice guidelines for rehabilitation professionals. International journal of sports physical therapy. 2019 Jul;14(4):670.*
-
-2. *Xu, Q. Y., Yang, J. S., Zhu, B., Yang, L., Wang, Y. Y., & Gao, X. Y. (2012). The effects of scraping therapy on local temperature and blood perfusion volume in healthy subjects. Evidence-based complementary and alternative medicine : eCAM, 2012, 490292. https://doi.org/10.1155/2012/490292*
-
-3. *McConnell J, Cruser S, Warden SJ, Bayliss AJ. Instrument-assisted soft tissue mobilization alters material and mechanical properties in Achilles tendinopathy. J Orthop Sports Phys Ther. 2016;46:114*
-
-4. *Lee JH, Lee DK, Oh JS. The effect of Graston technique on the pain and range of motion in patients with chronic low back pain. J Phys Ther Sci. 2016;28:1852–1855.*
-
-5. *Baker RT, Nasypany A, Seegmiller JG, Baker JG. Instrument-assisted soft tissue mobilization treatment for tissue extensibility dysfunction. Int J Athl The Train. 2013;18:16–21*
+المراجع:
+1. تشيثام س. دكتوراه، بيكر ر.، كريزويرث إ. تقنية التحريك الناعم بمساعدة الأدوات: تعليق على الإرشادات السريرية للمحترفين في التأهيل. مجلة التأهيل بالرياضة الدولية. 2019 يوليو؛ 14 (4): 670.
+2. شوفو تشي، يانغ جاي سونغ، زو بي، يانغ لي، وانج يي يي، وجاو قاو يونغ. (2012). تأثيرات علاج الخدوش على درجة الحرارة المحلية وحجم تروية الدم في الأشخاص الأصحاء. الطب البديل والتكميلي الدليلي: eCAM، 2012، 490292. https://doi.org/10.1155/2012/490292
+3. ماكونيل جيه، كروزر اس، واردن اس جيه، بايليس اج. تعديل تقنية التحريك الناعم بالأدوات الخواص والخرائط الميكانيكية في التهاب الأوتار الكعبي. الممارسة الرياضية الأوروبية للعلاج الفيزيائي الرياضي. 2016؛ 46: 114
+4. لي جيه اتش، لي دي كيه، أوه جيه اس. تأثير تقنية جراستون على الألم ونطاق الحركة في المرضى الذين يعانون من آلام أسفل الظهر المزمنة. جمعية علوم العلاج الطبيعي. 2016؛ 28: 1852-1855
+5. بيكر ر. تي.، ناسيباني أ.، سيغميلر ج. جي كيه، بيكر جيه جيه. علاج التحريك الناعم بالأدوات لاضطراب مرونة الأنسجة. المجلة الدولية للتدريب الرياضي. 2013؛ 18: 16-21
