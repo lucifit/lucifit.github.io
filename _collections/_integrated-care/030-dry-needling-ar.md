@@ -9,7 +9,6 @@ caption:
   title: الإبرة الجافة
   subtitle: الإجراء حيث يتم إدخال إبرة صغيرة في العضلة، بهدف علاج نقاط الزناد
   thumbnail: assets/img/portfolio/dry-needling.webp
-lang: en
 page_id: dry-needling
 source_hash: 1a96538db9ac888decc65745e5f7cbe2
 lang: ar

@@ -10,7 +10,6 @@ title: العلاج بالتمديد والحركة
 subtitle: يجمع بين تقنيات تحريك المفاصل والتمدد.
 image: assets/img/portfolio/stretch-mobility-therapy.webp
 alt: العلاج بالتمدد والحركة
-lang: en
 page_id: stretch-mobility-therapy
 
 source_hash: ebf698893b37a6bee2b5a394446a84e8

@@ -10,7 +10,6 @@ title: العظامية - علاج العظام والعلاج اليدوي ال
 subtitle: تقييم وعلاج شامل للجسم مصمم لمعالجة عدم التوازن العضلي الهيكلي، وتخفيف الألم، وتحسين الحركة. قد تشمل التقنيات تحريك المفاصل، وإطلاق العضلات الوجهية، وعلاج الأنسجة اللينة، وذلك اعتمادًا على احتياجاتك الفردية.
 image: assets/img/portfolio/ostheopath-treatment.webp
 alt: العلاج العظمياء
-lang: en
 page_id: ostheopath-treatment2
 
 source_hash: 288df6aa778afcc5ec462d7eb24061df

@@ -63,9 +63,23 @@ defaults:
       title: Osteopathy, Pain Relief & Botox
       keywords: Low Back Pain, Muscle Strai, Dry Needlin, Cosmetic Filte, Anti Wrinkle Treatment, Botox Injectable, UK, London
 
-languages: ["en", "it", "ar"]
+languages: ["en", "ar", "it", "ru", "zh", "fr", "gr", "he", "pt", "es"]
 default_lang: "en"
 exclude_from_localization:
   ["javascript", "images", "css", "public", "sitemap", ".github", "Makefile"]
 parallel_localization: false
 left_to_right: false
+
+exclude:
+  - .conda/
+  - vendor/
+  - .git/
+  - node_modules/
+  - environment.yml
+  - jekyll-agency.gemspec
+  - LICENSE
+  - Makefile
+  - README.md
+  - requirements.txt
+  
+

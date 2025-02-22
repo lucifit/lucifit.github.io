@@ -10,7 +10,6 @@ title: حشوات الشفاه والوجه الحديثة
 subtitle: 
 image: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
 alt: حشوات الشفاه والبشرة الوجهية.
-lang: en
 page_id: lip_and_facial_dermal_fillers2
 
 source_hash: d0646ce94626ae86d26e44e54b9d34d6

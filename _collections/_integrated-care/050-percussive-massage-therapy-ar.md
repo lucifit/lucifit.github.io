@@ -9,7 +9,6 @@ caption:
   title: العلاج بالتدليك الايقاعي
   subtitle: العلاج بالتدليك الايقاعي أو العلاج بالاهتزاز
   thumbnail: assets/img/portfolio/percussive-massage-therapy.webp
-lang: en
 page_id: percussive-massage-therapy
 source_hash: bf4acf07ee37b466a8d8bc83b0abb2fb
 lang: ar

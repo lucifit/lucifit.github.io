@@ -10,7 +10,6 @@ title: حقن الشفاه والوجه الجلدية
 subtitle: 
 image: assets/img/portfolio/lip_and_facial_dermal_fillers.webp
 alt: حشوات الشفاه والوجه الجلدية
-lang: en
 page_id: lip_and_facial_dermal_fillers
 
 source_hash: 6bcf6c649a50113c50a89b5cccd08b3d

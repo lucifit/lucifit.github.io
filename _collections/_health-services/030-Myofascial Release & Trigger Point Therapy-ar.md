@@ -10,7 +10,6 @@ title: إطلاق العضلات وعلاج نقاط الإثارة
 subtitle: تقنية متخصصة مصممة لتحرير الأنسجة الضامة الضيقة والعقد العضلية، مما يعيد الحركة ويقلل من الألم. هذا العلاج فعال بشكل خاص للحالات مثل الفيبروميالجيا، والألم المزمن، وعدم الراحة ذات الصلة بالتوتر.
 image: assets/img/portfolio/deep-tissue-massage.webp
 alt: التدليك العميق للأنسجة
-lang: en
 page_id: deep-tissue-massage
 
 source_hash: 030baf406369a11bba00f8add9edbf3c

@@ -1,0 +1,115 @@
+source_hash: 22c58afdf82e6e513cb99c2cf0a7a958
+# https://github.com/untra/polyglot
+header:
+  book-now: 立即预订
+  services: 服务
+  language: 语言
+  links:
+    - title: 关于我们
+      internal-url: /#about-us
+    - title: 评论
+      internal-url: /#reviews
+    - title: 地址
+      internal-url: /locations
+    - title: 价格
+      internal-url: /pricing
+    - title: 登录
+      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+  services-menu:
+    - title: 热门选择
+      internal-url: /#popular-choices
+    - title: 美容服务
+      internal-url: /#beauty-services
+    - title: 健康服务
+      internal-url: /#health-services
+    - title: 综合护理
+      internal-url: /#integrated-care
+
+hero:
+  text: |
+    欲获得我们的服务和费用的更详细信息，请通过电子邮件联系：<b><a href="mailto:info@healthandbeautylab.eu">info@healthandbeautylab.eu</a></b>
+    或通过Whatsapp联系：<b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+
+about-us:
+  section: about-us
+  title: 关于我们
+  body: |
+    位于伦敦贝克街心脏地带，我们采用整体健康和美容的方法，结合美学治疗（抗皱注射，皮下填充）与骨科学，提升您的外观与感觉。
+    
+    多年的美学医学经验，我们专注于自然、微妙的提升，以精炼的方式修饰您的特征，而非改变它们。我们的目标是增强您独特的美丽，而非改变它，帮助您看起来焕然一新，年轻有活力，更加自信。
+    
+    除了美学外，我们在骨科学领域的专业知识使我们能够全面关注护理。我们的治疗超越了症状缓解，而是解决不适的根本原因，有助于恢复平衡和长期健康。我们使用关节动员、干针治疗、筋膜释放、软组织疗法和脊柱手法（HVT - 精确控制的技术，通常被称为“点击”或“调整”）等技术来缓解疼痛并改善运动能力。即使是以放松为重点的治疗也是以专家临床角度来处理，以最大化效果。
+
+    我们在个人训练和运动按摩疗法方面拥有超过十年的经验，对运动、功能和恢复有深刻的了解，这有助于我们作为骨科医生的工作。
+  
+    **我们的服务**
+    - 美学注射（抗皱治疗，皮下填充）：用微妙、自然的方式提升自然美的精致效果。
+    - 骨科评估和治疗：处理疼痛，提高运动能力，恢复平衡，包括干针治疗、筋膜释放、脊柱调整和先进的软组织疗法。
+    - 定制治疗：根据您的需求完全定制的会话，从缓解疼痛到深层放松。
+  
+    **为什么选择我们？**
+    - 自然美学与骨科学方面的专业知识：深入解剖美和健康的方法。
+    - 多年的美学和骨科经验：不断改进和完善技术。
+    - 十多年的个人训练和运动按摩经验：为每个治疗带来先进的解剖知识。
+    - 个性化治疗：每个会话都根据您独特的目标量身定制。
+    - 整体护理：支持内外的健康 - 感觉良好、运动良好，外表最佳。
+    - 双语护理：可提供意大利语和英语咨询。
+    - 便捷：可以在贝克街拜访我们，或按要求预约家庭访问。
+
+    我们不断完善技能，紧跟最新进展，提供最精确、最有效的治疗。
+
+    **通过专业护理提升您的健康、信心和自然美。立即联系我们预约您的会话吧！**
+modal:
+  close: 关闭
+
+popular-choices:
+  title: 热门选择
+  section: popular-choices
+
+beauty-services:
+  title: 美容服务
+  section: beauty-services
+
+health-services:
+  title: 健康服务
+  section: health-services
+
+integrated-care:
+  title: 综合护理
+  section: integrated-care
+
+contact:
+  title: 联系我们
+  section: contact
+  name: 姓名*
+  name-validation: 请输入您的姓名。
+  email: 电子邮件*
+  email-validation: 请输入您的电子邮件地址。
+  phone: 电话号码
+  phone-validation: 请输入您的电话号码。
+  message: 在此描述您的询问
+  message-validation: 请输入消息。
+  subject: 联系表单提交
+  submit: 发送
+
+footer:
+  legal: 隐私政策
+  social:
+    - url: https://www.instagram.com/health_and_beauty_lab
+      icon: fab fa-instagram
+    - url: https://wa.me/447918249545
+      icon: fab fa-whatsapp
+    - url: https://www.facebook.com/healthandbeautylabb
+      icon: fab fa-facebook
+
+languages:
+  en: English
+  ar: العربية
+  it: Italiano
+  ru: Русский
+  zh: 中文
+  fr: Français
+  gr: Ελληνικά
+  he: עברית
+  pt: Português
+  es: Español

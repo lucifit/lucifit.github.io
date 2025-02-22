@@ -10,7 +10,6 @@ title: المحفزات الجلدية
 subtitle: 
 image: assets/img/portfolio/skin_booster.webp
 alt: تحفيزات البظرة
-lang: en
 page_id: skin_booster
 
 source_hash: e4c85e35b059bbcab7c055217f092c0f

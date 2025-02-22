@@ -10,7 +10,6 @@ title: معالجات مخصصة - تصميمها حسب احتياجاتك
 subtitle: لا تأكد أي علاج هو الأفضل بالنسبة لك؟ احجز استشارة، وسأقوم بإنشاء جلسة مخصصة استنادًا إلى احتياجاتك - سواء كان الهدف تخفيف الألم، تحسين الحركة، أو الاسترخاء العميق بنهج سريري.
 image: assets/img/portfolio/swedish-massage.webp
 alt: تدليك سويدي/مريح
-lang: en
 page_id: swedish-massage
 
 source_hash: ce41555e2dae4cb8b728ad497787dbbb

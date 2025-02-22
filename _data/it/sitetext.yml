@@ -1,13 +1,14 @@
+source_hash: 22c58afdf82e6e513cb99c2cf0a7a958
 header:
-  book-now: Prenota Ora
+  book-now: Prenota ora
   services: Servizi
   language: Lingua
   links:
-    - title: Chi Siamo
+    - title: Chi siamo
       internal-url: /#about-us
     - title: Recensioni
       internal-url: /#reviews
-    - title: Ubicazioni
+    - title: Luoghi
       internal-url: /locations
     - title: Prezzi
       internal-url: /pricing
@@ -18,46 +19,46 @@ header:
       internal-url: /#popular-choices
     - title: Servizi di Bellezza
       internal-url: /#beauty-services
-    - title: Servizi Sanitari
+    - title: Servizi di Salute
       internal-url: /#health-services
-    - title: Assistenza Integrata
+    - title: Cura Integrata
       internal-url: /#integrated-care
 
 hero:
   text: |
-    Per ulteriori informazioni dettagliate sui nostri servizi e tariffe, per favore contattaci via email a <b><a href="mailto:info@healthandbeautylab.eu">info@healthandbeautylab.eu</a></b> 
-    o Whatsappaci a <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+    Per informazioni dettagliate sui nostri servizi e tariffe,
+    contattateci via email a <b><a href="mailto:info@healthandbeautylab.eu">info@healthandbeautylab.eu</a></b>
+    o contattateci su Whatsapp al <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
 
 about-us:
   section: about-us
-  title: Chi Siamo
+  title: Chi siamo
   body: |
-    Situati nel cuore di Londra, su Baker Street, adottiamo un approccio olistico alla salute e alla bellezza, combinando Trattamenti Estetici (Iniezioni Anti-Rughe, Filler Dermici) con l'Osteopatia per migliorare sia il benessere fisico che l'aspetto estetico.
-  
-    Con diversi anni di esperienza nella medicina estetica, siamo specializzati in miglioramenti naturali e armoniosi che affinano i tratti senza stravolgerli. Il nostro obiettivo è valorizzare la tua bellezza unica, aiutandoti a ottenere un aspetto fresco, giovane e più sicuro di te.
-  
-    Oltre all'estetica, la nostra esperienza in osteopatia ci consente di adottare un approccio completo alla cura. I nostri trattamenti non si limitano ad alleviare i sintomi, ma mirano a risolvere la causa del disagio, ripristinando equilibrio e benessere a lungo termine. Utilizziamo tecniche come mobilizzazioni articolari, dry needling (agopuntura a secco), rilascio miofasciale, terapia dei tessuti molli e manipolazioni spinali (HVT – tecniche controllate e precise, spesso conosciute come "scrocchi" o "aggiustamenti") per alleviare il dolore e migliorare la mobilità. Anche i trattamenti mirati al rilassamento sono eseguiti con un approccio clinico esperto per massimizzarne l'efficacia.
-  
-    Con oltre un decennio di esperienza nel personal training e nella terapia di massaggio sportivo, abbiamo una profonda conoscenza del movimento, della funzione corporea e del recupero, che arricchisce il nostro lavoro come osteopati.
-  
-    **I Nostri Servizi**
-    - Iniezioni Estetiche (Trattamenti Anti-Rughe, Filler Dermici): Miglioramenti naturali per risultati raffinati ed equilibrati.
-    - Valutazioni e Trattamenti Osteopatici: Approccio mirato per alleviare il dolore, migliorare la mobilità e ripristinare l’equilibrio, con tecniche avanzate come dry needling, rilascio miofasciale, manipolazioni spinali e terapia dei tessuti molli.
-    - Trattamenti Personalizzati: Sessioni su misura in base alle tue esigenze, dal sollievo dal dolore al rilassamento profondo.
-  
-    **Perché Scegliere Noi?**
-    - Esperienza e Competenza in Estetica Naturale & Osteopatia: Un approccio anatomico avanzato alla salute e alla bellezza.
-    - Diversi Anni di Esperienza in Estetica & Osteopatia: Aggiornamento continuo per garantire tecniche all'avanguardia.
-    - Oltre un Decennio di Esperienza in Personal Training & Massaggio Sportivo: Conoscenze avanzate per trattamenti altamente efficaci.
-    - Trattamenti Personalizzati: Ogni sessione è adattata alle tue esigenze e ai tuoi obiettivi.
-    - Approccio Olistico: Uniamo benessere fisico ed estetico per farti sentire bene, muoverti meglio e apparire al meglio.
-    - Assistenza Bilingue: Consulenze disponibili in italiano e inglese.
-    - Massima Comodità: Trattamenti disponibili presso la nostra clinica su Baker Street o a domicilio su richiesta.
-  
-    Aggiorniamo costantemente le nostre competenze per offrirti trattamenti sempre più precisi ed efficaci.
-  
-    **Migliora la tua salute, la tua sicurezza e la tua bellezza naturale con trattamenti mirati ed esperti. Contattaci per prenotare la tua sessione!**
-
+    Situato nel cuore di Londra, a Baker Street, adottiamo un approccio olistico alla salute e alla bellezza, combinando Trattamenti Estetici (Iniezioni Antirughe, Fillers Dermali) con l'Osteopatia per migliorare sia il modo in cui vi sentite che il modo in cui apparite.
+    
+    Con diversi anni di esperienza nella medicina estetica, ci specializziamo in miglioramenti naturali e sottili che raffinano i vostri lineamenti anziché modificarli. Il nostro obiettivo è migliorare la vostra bellezza unica, non cambiarla, aiutandovi a sembrare più freschi, giovani e sicuri di voi stessi.
+    
+    Oltre all'estetica, la nostra esperienza in osteopatia ci consente di adottare un approccio globale alla cura. I nostri trattamenti vanno oltre il sollievo dai sintomi per affrontare la causa radice del disagio, aiutando a ripristinare l'equilibrio e il benessere a lungo termine. Utilizziamo tecniche come la mobilizzazione articolare, l'agopuntura secca, il rilascio miofasciale, la terapia dei tessuti molli e le manipolazioni spinali (Tecnica ad Alta Velocità e Basso Ammorsamento - le precise tecniche controllate spesso conosciute come "click" o "aggiustamenti") per alleviare il dolore e migliorare la mobilità. Anche i trattamenti focalizzati sul rilassamento sono affrontati con una prospettiva clinica esperta per massimizzarne l'efficacia.
+    
+    Con oltre un decennio di esperienza nel personal training e nella terapia massaggi sportivi, abbiamo una profonda comprensione del movimento, della funzione e del recupero, che migliora il nostro lavoro come osteopati.
+    
+    **I nostri Servizi**
+    - Iniezioni Estetiche (Trattamenti Antirughe, Fillers Dermali): Migliorare la bellezza naturale con risultati raffinati e sottili.
+    - Valutazioni e Trattamenti Osteopatici: Affrontare il dolore, migliorare la mobilità e ripristinare l'equilibrio, incorporando tecniche come l'agopuntura secca, il rilascio miofasciale, gli aggiustamenti spinali e terapie avanzate dei tessuti molli.
+    - Trattamenti Personalizzati: Sessioni completamente su misura per le vostre esigenze, dal sollievo dal dolore al relax profondo.
+    
+    **Perché Sceglierci?**
+    - Competenza in Estetica Naturale e Osteopatia: Un approccio anatomico approfondito alla bellezza e alla salute.
+    - Diversi Anni di Esperienza in Estetica e Osteopatia: Migliorare e raffinare continuamente le tecniche.
+    - Oltre un Decennio di Esperienza in Personal Training e Massaggi Sportivi: Portando una conoscenza anatomica avanzata a ogni trattamento.
+    - Trattamenti Personali: Ogni sessione è su misura per i vostri obiettivi unici.
+    - Approccio Olistico: Sostenere il benessere interno ed esterno, sentirsi bene, muoversi bene e apparire al meglio.
+    - Assistenza Bilingue: Consultazioni disponibili in italiano e inglese.
+    - Comodità: Visitateci a Baker Street o prenotate una visita a domicilio su richiesta.
+    
+    Continuiamo a perfezionare le nostre competenze, rimanendo sempre aggiornati sulle ultime novità per offrire trattamenti più precisi ed efficaci.
+      
+    **Migliora la tua salute, la tua fiducia e la tua bellezza naturale con cura professionale. Contattateci per prenotare la vostra sessione oggi stesso!**
 modal:
   close: Chiudi
 
@@ -70,29 +71,29 @@ beauty-services:
   section: beauty-services
 
 health-services:
-  title: Servizi Sanitari
+  title: Servizi di Salute
   section: health-services
 
 integrated-care:
-  title: Assistenza Integrata
+  title: Cura Integrata
   section: integrated-care
 
 contact:
   title: Contattaci
   section: contact
   name: Nome*
-  name-validation: Per favore inserisci il tuo nome.
+  name-validation: Inserisci il tuo nome.
   email: Email*
-  email-validation: Per favore inserisci il tuo indirizzo email.
-  phone: Numero di Telefono
-  phone-validation: Per favore inserisci il tuo numero di telefono.
-  message: Descrivi qui la tua richiesta
-  message-validation: Per favore inserisci un messaggio.
+  email-validation: Inserisci il tuo indirizzo email.
+  phone: Numero di telefono
+  phone-validation: Inserisci il tuo numero di telefono.
+  message: Descrivi la tua richiesta qui
+  message-validation: Inserisci un messaggio.
   subject: Invio Modulo di Contatto
   submit: Invia
 
 footer:
-  legal: Politica sulla Privacy
+  legal: Informativa sulla Privacy
   social:
     - url: https://www.instagram.com/health_and_beauty_lab
       icon: fab fa-instagram
@@ -103,5 +104,12 @@ footer:
 
 languages:
   en: English
+  ar: العربية
   it: Italiano
-  ar: عربى
+  ru: Русский
+  zh: 中文
+  fr: Français
+  gr: Ελληνικά
+  he: עברית
+  pt: Português
+  es: Español

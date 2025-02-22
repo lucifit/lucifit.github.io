@@ -1,0 +1,115 @@
+source_hash: 22c58afdf82e6e513cb99c2cf0a7a958
+header:
+  book-now: Reservar Ahora
+  services: Servicios
+  language: Idioma
+  links:
+    - title: Sobre Nosotros
+      internal-url: /#about-us
+    - title: Reseñas
+      internal-url: /#reviews
+    - title: Localizaciones
+      internal-url: /locations
+    - title: Precios
+      internal-url: /pricing
+    - title: Iniciar Sesión
+      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+  services-menu:
+    - title: Elecciones Populares
+      internal-url: /#popular-choices
+    - title: Servicios de Belleza
+      internal-url: /#beauty-services
+    - title: Servicios de Salud
+      internal-url: /#health-services
+    - title: Cuidado Integrado
+      internal-url: /#integrated-care
+
+hero:
+  text: |
+    Para obtener información detallada sobre nuestros servicios y tarifas, 
+    comuníquese por correo electrónico a <b><a href="mailto:info@healthandbeautylab.eu">info@healthandbeautylab.eu</a></b> 
+    o contáctenos por Whatsapp al <b><a href="https://wa.me/447918249545" target="_blank">+44 7918 249545</a></b>
+
+about-us:
+  section: about-us
+  title: Sobre Nosotros
+  body: |
+    Ubicados en el corazón de Londres en Baker Street, adoptamos un enfoque holístico para la salud y la belleza, combinando tratamientos estéticos (Inyecciones Antirreumáticas, Rellenos Dérmicos) con Osteopatía para mejorar tanto su bienestar como su apariencia.
+  
+    Con varios años de experiencia en medicina estética, nos especializamos en mejoras naturales y sutiles que refinan sus rasgos en lugar de modificarlos. Nuestro objetivo es realzar su belleza única, no cambiarla, ayudándole a lucir rejuvenecido, juvenil y más seguro.
+  
+    Más allá de lo estético, nuestra experiencia en osteopatía nos permite abordar la atención de manera integral. Nuestros tratamientos van más allá del alivio de los síntomas para abordar la causa raíz del malestar, ayudando a restaurar el equilibrio y el bienestar a largo plazo. Utilizamos técnicas como la movilización articular, la punción seca, la liberación miofascial, la terapia de tejidos blandos y las manipulaciones espinales (HVT - técnicas controladas y precisas a menudo conocidas como "chasquidos" o "ajustes") para aliviar el dolor y mejorar la movilidad. Incluso los tratamientos enfocados en la relajación se abordan con una perspectiva clínica experta para maximizar su efectividad.
+
+    Con más de una década de experiencia en entrenamiento personal y terapia de masaje deportivo, tenemos un profundo entendimiento del movimiento, la función y la recuperación, lo que mejora nuestro trabajo como osteópatas.
+  
+    **Nuestros Servicios**
+    - Inyecciones Estéticas (Tratamientos Antirreumáticos, Rellenos Dérmicos): Mejorando la belleza natural con resultados refinados y sutiles.
+    - Evaluaciones y Tratamientos Osteopáticos: Abordando el dolor, mejorando la movilidad y restaurando el equilibrio, incorporando técnicas como punción seca, liberación miofascial, ajustes espinales y terapia avanzada de tejidos blandos.
+    - Tratamientos Personalizados: Sesiones completamente adaptadas a sus necesidades, desde el alivio del dolor hasta la relajación profunda.
+  
+    **¿Por Qué Elegirnos?**
+    - Experiencia en Estética Natural y Osteopatía: Un enfoque anatómico profundo para la belleza y la salud.
+    - Varios Años de Experiencia en Estética y Osteopatía: Mejorando y refinando continuamente las técnicas.
+    - Más de una Década de Experiencia en Entrenamiento Personal y Masaje Deportivo: Aportando conocimientos anatómicos avanzados a cada tratamiento.
+    - Tratamientos Personalizados: Cada sesión está adaptada a sus objetivos únicos.
+    - Enfoque Holístico: Apoyando el bienestar interior y exterior: sentirse bien, moverse bien y lucir lo mejor posible.
+    - Atención Bilingüe: Consultas disponibles en italiano e inglés.
+    - Conveniencia: Visítenos en Baker Street o reserve una visita a domicilio bajo petición.
+
+    Continuamos perfeccionando nuestras habilidades, manteniéndonos al día con los últimos avances para proporcionar los tratamientos más precisos y efectivos.
+
+    **Mejore su salud, confianza y belleza natural con cuidados expertos. ¡Contáctenos para reservar su sesión hoy!**
+modal:
+  close: Cerrar
+
+popular-choices:
+  title: Elecciones Populares
+  section: popular-choices
+
+beauty-services:
+  title: Servicios de Belleza
+  section: beauty-services
+
+health-services:
+  title: Servicios de Salud
+  section: health-services
+
+integrated-care:
+  title: Cuidado Integrado
+  section: integrated-care
+
+contact:
+  title: Contáctenos
+  section: contact
+  name: Nombre*
+  name-validation: Por favor ingrese su nombre.
+  email: Correo Electrónico*
+  email-validation: Por favor ingrese su dirección de correo electrónico.
+  phone: Número de Teléfono
+  phone-validation: Por favor ingrese su número de teléfono.
+  message: Describa su consulta aquí
+  message-validation: Por favor ingrese un mensaje.
+  subject: Envío de Formulario de Contacto
+  submit: Enviar
+
+footer:
+  legal: Política de Privacidad
+  social:
+    - url: https://www.instagram.com/health_and_beauty_lab
+      icon: fab fa-instagram
+    - url: https://wa.me/447918249545
+      icon: fab fa-whatsapp
+    - url: https://www.facebook.com/healthandbeautylabb
+      icon: fab fa-facebook
+
+languages:
+  en: English
+  ar: العربية
+  it: Italiano
+  ru: Русский
+  zh: 中文
+  fr: Français
+  gr: Ελληνικά
+  he: עברית
+  pt: Português
+  es: Español

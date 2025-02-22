@@ -10,7 +10,6 @@ title: إدارة الألم
 subtitle: مزيج من أساليب العلاج لإدارة أو تقليل الألم والانزعاج.
 image: assets/img/portfolio/pain-management.webp
 alt: إدارة الألم
-lang: en
 page_id: pain-management
 
 source_hash: a9c46d14fc545f050fbda56ac2a5fd71

@@ -1,7 +1,7 @@
 ---
 
 caption: #what displays in the portfolio grid:
-  title: Scioglimento Grasso
+  title: Scioglimento del grasso
   subtitle: 
   thumbnail: assets/img/portfolio/fat-disolving.webp
   
@@ -9,38 +9,38 @@ caption: #what displays in the portfolio grid:
 title: Scioglimento del grasso
 subtitle: 
 image: assets/img/portfolio/fat-disolving.webp
-alt: Scioglimento del grasso
+alt: Sciogli-grassi
 lang: it
 page_id: fat-disolving
 
+source_hash: 77f554698c80e3fb4435980453105f7f
 ---
-### Scioglimento del Grasso
+### Scioglimento del grasso
+- Riduzione del doppio mento: Le iniezioni di scioglimento del grasso vengono spesso utilizzate per ridurre il grasso submentale, comunemente definito come "doppio mento".
+- Contornatura del corpo: La procedura può essere applicata ad altre aree con depositi di grasso localizzati, come l'addome, le cosce o i fianchi.
 
-- Riduzione del Doppio Mento: Le iniezioni per sciogliere il grasso vengono spesso utilizzate per ridurre il grasso sottomentoniero, comunemente noto come "doppio mento."
-- Rimodellamento del Corpo: La procedura può essere applicata ad altre aree con depositi di grasso localizzati, come l'addome, le cosce o i fianchi.
-
-Lo scioglimento del grasso, noto anche come riduzione non chirurgica del grasso o lipolisi iniettiva, è una procedura cosmetica progettata per ridurre accumuli localizzati di grasso senza chirurgia. Un metodo comune implica l'uso di composti iniettabili, come l'acido desossicolico, per scomporre ed eliminare le cellule di grasso. Questa procedura viene spesso utilizzata per rimodellare le aree con eccesso di grasso, come sotto il mento (grasso sottomentoniero).
+Lo scioglimento del grasso, noto anche come riduzione non chirurgica del grasso o lipolisi per iniezione, è una procedura estetica progettata per ridurre le sacche di grasso localizzato senza chirurgia. Un metodo comune coinvolge l'uso di composti iniettabili, come l'acido deossicolico, per distruggere ed eliminare le cellule di grasso. Questa procedura viene spesso utilizzata per contornare aree con eccesso di grasso, come sotto il mento (grassi submentali).
 
 Ecco come funziona lo scioglimento del grasso:
 
-- Iniezione della Soluzione:
-  - Una soluzione contenente un composto sciogli-grasso, tipicamente acido desossicolico, viene iniettata direttamente nell'area mirata con eccesso di grasso.
+- Iniezione di soluzione:
+  - Una soluzione contenente un composto sciogli-grasso, tipicamente acido deossicolico, viene iniettata direttamente nell'area bersaglio con eccesso di grasso.
 
-- Acido Desossicolico:
-  - L'acido desossicolico è un acido biliare naturalmente presente nel corpo che aiuta nella scomposizione e nell'assorbimento dei grassi alimentari. In una procedura di scioglimento del grasso, viene utilizzata una forma sintetica di acido desossicolico in concentrazioni più elevate per distruggere la membrana delle cellule adipose.
+- Acido Deossicolico:
+  - L'acido deossicolico è un acido biliare naturalmente presente nel corpo che aiuta nella decomposizione e assorbimento del grasso alimentare. In una procedura di scioglimento del grasso, viene utilizzato una forma sintetica di acido deossicolico in concentrazioni più elevate per disturbare la membrana delle cellule di grasso.
 
-- Distruzione delle Cellule Adipose:
-  - La soluzione iniettata compromette l'integrità delle membrane delle cellule di grasso, causandone la rottura. Questo processo è noto anche come adipocitolisi.
+- Disturbo delle cellule di grasso:
+  - La soluzione iniettata disturba l'integrità delle membrane delle cellule di grasso, causandone la rottura. Questo processo è anche noto come adipocitolisi.
 
-- Rilascio degli Acidi Grassi:
-  - Quando le cellule adipose si rompono, rilasciano acidi grassi e altri componenti. I processi metabolici naturali del corpo lavorano quindi per eliminare questi sottoprodotti.
+- Rilascio di acidi grassi:
+  - Man mano che le cellule di grasso si decompongono, rilasciano acidi grassi e altri componenti. I processi metabolici naturali del corpo lavorano poi per eliminare questi sottoprodotti.
 
-- Riduzione Graduale del Grasso:
-  - Nel corso di diverse settimane o mesi, l'area trattata sperimenta una riduzione graduale del volume di grasso mentre le cellule adipose disgregate vengono eliminate attraverso il sistema linfatico del corpo.
+- Riduzione graduale del grasso:
+  - Nel corso di diverse settimane o mesi, l'area trattata sperimenta una graduale riduzione del volume del grasso poiché le cellule di grasso decomposte vengono eliminate dal sistema linfatico del corpo.
 
-- Considerazioni Importanti:
-  - Possono essere necessarie più sessioni per ottenere risultati ottimali.
-  - Gonfiore, lividi e disagio temporaneo nel sito dell'iniezione sono effetti collaterali comuni.
-  - I risultati non sono immediati e possono richiedere diverse settimane per diventare evidenti.
+- Considerazioni importanti:
+  - Potrebbero essere necessarie più sessioni per ottenere risultati ottimali.
+  - Gonfiore, lividi e fastidi temporanei nel sito di iniezione sono effetti collaterali comuni.
+  - I risultati non sono immediati e potrebbero richiedere diverse settimane per diventare evidenti.
 
-È fondamentale avere una consultazione con un professionista sanitario per determinare se lo scioglimento del grasso è un'opzione adatta ai tuoi obiettivi specifici e per discutere i potenziali rischi e benefici.
+È fondamentale avere una consultazione con un professionista sanitario per determinare se lo scioglimento del grasso è una opzione adatta per i tuoi obiettivi specifici e per discutere potenziali rischi e benefici.

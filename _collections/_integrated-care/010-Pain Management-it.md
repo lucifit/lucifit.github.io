@@ -13,12 +13,13 @@ alt: Gestione del dolore
 lang: it
 page_id: pain-management
 
+source_hash: a9c46d14fc545f050fbda56ac2a5fd71
 ---
-Nella gestione del dolore, utilizziamo una combinazione di modalità di trattamento personalizzate in base alla tua situazione per gestire o ridurre il dolore e il disagio. La differenza della gestione del dolore rispetto ad altri servizi è che durante una sessione di trattamento il professionista valuterà la tua condizione e, a seconda dei risultati, selezionerà e utilizzerà una combinazione di modalità di trattamento che sono più appropriate per te.
+Nella gestione del dolore, utilizziamo una combinazione di modalità di trattamento adattate alla tua presentazione per gestire o ridurre il dolore e il disagio. La differenza della gestione del dolore rispetto ad altri servizi è che all'interno di una sessione di trattamento il professionista ti valuterà e, in base ai risultati, selezionerà e utilizzerà una combinazione di modalità di trattamento più appropriate per te.
 
-Alcuni esempi delle modalità di trattamento possono includere:
-1. allungamento e mobilità
-2. dry needling (agopuntura secca)
-3. terapia di massaggio di scraping/percussione
-4. terapia delle coppette
-5. massaggio sportivo/rilassante/decontratturante (massaggio profondo)
+Alcuni esempi di modalità di trattamento possono includere:
+1. stretching e mobilità
+2. agopuntura secca
+3. scollamento/massaggio percussivo
+4. terapia di coppettazione
+5. massaggio sportivo/rilassante/dei tessuti profondi

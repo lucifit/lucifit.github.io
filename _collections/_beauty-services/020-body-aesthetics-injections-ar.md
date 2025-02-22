@@ -10,7 +10,6 @@ title: علاجات متخصصة بالسم البوتولينيوم
 subtitle: 
 image: assets/img/portfolio/botulinum-treatment.webp
 alt: حقن تجميل الجسم
-lang: en
 page_id: botulinum-treatment
 
 source_hash: 88b23ef135888d3d84ecb0b15fc8cf82

@@ -10,7 +10,6 @@ title: تذويب الدهون
 subtitle: 
 image: assets/img/portfolio/fat-disolving.webp
 alt: الذي يذيب الدهون
-lang: en
 page_id: fat-disolving
 
 source_hash: 77f554698c80e3fb4435980453105f7f

@@ -10,7 +10,6 @@ title: حقن مضادة للتجاعيد
 subtitle: 
 image: assets/img/portfolio/anti-wrinkle-treatment.webp
 alt: مُضادّ تجاعيد الحقن
-lang: en
 page_id: anti-wrinkle-treatment2
 
 source_hash: 6b0dfbad27ce8ca7496bc8a3c9059b6d

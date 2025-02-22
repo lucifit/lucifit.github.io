@@ -14,7 +14,9 @@ languages = [
     {"name": "chinese", "code": "zh"},
     {"name": "french", "code": "fr"},
     {"name": "greek", "code": "gr"},
-    {"name": "hebrew", "code": "he"}    
+    {"name": "hebrew", "code": "he"},
+    {"name": "portuguese", "code": "pt"},
+    {"name": "spanish", "code": "es"},
 ]
 
 def translate(text, target_language):
@@ -118,11 +120,12 @@ def translate_markdown_file(source_filepath, source_hash, target_filepath, langu
             key, value = line.split(": ", 1)
             translated_value = translate(value.strip(), language)
             translated_frontmatter.append(f"{key}: {translated_value}")
+        elif line.startswith(("lang:", "lang:")):
+            translated_frontmatter.append(f"lang: {language_code}")
         else:
             translated_frontmatter.append(line)
     
     translated_frontmatter.append(f"source_hash: {source_hash}")
-    translated_frontmatter.append(f"lang: {language_code}")
     translated_frontmatter = "\n".join(translated_frontmatter)
 
     translated_body = translate(body.strip(), language)
