@@ -1,11 +1,18 @@
 import os
 import shutil
 from openai import OpenAI
+from dotenv import load_dotenv
 
+load_dotenv()
 client = OpenAI()
 languages = [
     {"name": "arabic", "code": "ar"},
-    {"name": "italian", "code": "it"}
+    {"name": "italian", "code": "it"},
+    {"name": "russian", "code": "ru"},
+    {"name": "chinese", "code": "zh"},
+    {"name": "french", "code": "fr"},
+    {"name": "greek", "code": "gr"},
+    {"name": "hebrew", "code": "he"}    
 ]
 
 # Set your OpenAI API key on the terminal or in here
@@ -20,7 +27,7 @@ def translate(text, target_language):
         return ""
 
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-3.5-turbo",
         messages=[
             {
                 "role": "user",

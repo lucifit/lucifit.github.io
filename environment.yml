@@ -1,0 +1,7 @@
+name: health-and-beauty-lab
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - openai==1.63.2
