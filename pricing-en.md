@@ -21,9 +21,9 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 **Free** check-up or top-up if needed after 2 weeks. If you have any preferences regarding product let us know before your appointment.
 
 
-- Lip Filler 0,5ml: **£119**
-- Lip Filler 1,0ml **£189**
-- Non Surgical Rhinoplasty (Nose Filler) 1,0ml From **£199** To **£299**
+- Lip Filler 0,5ml: **£179**
+- Lip Filler 1,0ml **£239**
+- Non Surgical Rhinoplasty (Nose Filler) 1,0ml **£279**
 - Nasolabial Fold (Smile lines) **£169**
 - Cheek Filler 1ml **£159**
 - Cheek Filler 1,5ml: **£219**
@@ -39,10 +39,10 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 ## Botulinum Toxin
 **Free** check-up or top-up if needed after 2 weeks.
-- Anti Wrinkle Serum 1 Area: **£139**
-- Anti Wrinkle Serum 2 Areas: **£179**
-- Anti Wrinkle Serum 3 Areas: **£219**
-- Anti Wrinkle Serum 4 areas: **£249**
+- Anti Wrinkle Serum 1 Area: **£169**
+- Anti Wrinkle Serum 2 Areas: **£199**
+- Anti Wrinkle Serum 3 Areas: **£249**
+- Anti Wrinkle Serum 4 areas: **£279**
 - Nefertiti Lift: **£249**
 - Lip Flip: **£99**
 - Masseter Injection: **£169**
@@ -74,9 +74,9 @@ Most people start seeing results from microneedling after 3 to 4 sessions, space
 - Fat Burn (lipolytic): **£149**
 - Fat Burn (lipolytic) 2 sessions **£279**
 - Fat Burn (lipolytic) 4 sessions **£519**
-- Hair Loss Treatment **£129**
-- Hair Loss Treatment 2 sessions **£249**
-- Hair Loss Treatment 4 sessions **£459**
+- Hair Loss Treatment **£329**
+- Hair Loss Treatment 2 sessions **£599**
+- Hair Loss Treatment 4 sessions **£999**
 
 
 
