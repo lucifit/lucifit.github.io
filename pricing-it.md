@@ -21,9 +21,9 @@ Se hai domande o preoccupazioni, non esitare a contattarci! Nota bene: Le visite
 Controllo o ritocco **gratuito** se necessario entro 2 settimane. Se hai preferenze riguardo al prodotto, faccelo sapere prima del tuo appuntamento.
 
 
-- Riempitivo labbra 0,5 ml: **€119**
-- Riempitivo labbra 1,0 ml **€189**
-- Rinoplastica non chirurgica (riempitivo naso) 1,0 ml Da **€199** a **€299**
+- Riempitivo labbra 0,5 ml: **€159**
+- Riempitivo labbra 1,0 ml **€219**
+- Rinoplastica non chirurgica (riempitivo naso) 1,0 ml **€269**
 - Piega nasolabiale (rughe del sorriso) **€169**
 - Riempitivo guance 1 ml **€159**
 - Riempitivo guance 1,5 ml: **€219**
