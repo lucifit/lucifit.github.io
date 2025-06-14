@@ -49,7 +49,8 @@ Controllo o ritocco **gratuito** se necessario entro 2 settimane.
 - Botox mento: **€99**
 
 ## Booster per la pelle
-- Booster per la pelle - Profhilo 2 ml: **€249**
+- Booster per la pelle - Profhilo 2 ml: **€269**
+- Booster/Polinucleotidi - Rejuran 2 ml: **€349**
 - Booster per la pelle: **€179**
 - Polinucleotidi viso **€219**
 - Polinucleotidi occhi **€119**
@@ -74,6 +75,6 @@ La maggior parte delle persone inizia a vedere i risultati del microneedling dop
 - Brucia grassi (lipolitico): **€149**
 - Brucia grassi (lipolitico) 2 sessioni **€279**
 - Brucia grassi (lipolitico) 4 sessioni **€519**
-- Trattamento per la caduta dei capelli **€129**
-- Trattamento per la caduta dei capelli 2 sessioni **€249**
-- Trattamento per la caduta dei capelli 4 sessioni **€459**
+- Trattamento per la caduta dei capelli **€330**
+- Trattamento per la caduta dei capelli 2 sessioni **€599**
+- Trattamento per la caduta dei capelli 4 sessioni **€999**
