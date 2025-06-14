@@ -75,6 +75,6 @@ La maggior parte delle persone inizia a vedere i risultati del microneedling dop
 - Brucia grassi (lipolitico): **€149**
 - Brucia grassi (lipolitico) 2 sessioni **€279**
 - Brucia grassi (lipolitico) 4 sessioni **€519**
-- Trattamento per la caduta dei capelli **€330**
+- Trattamento per la caduta dei capelli **€329**
 - Trattamento per la caduta dei capelli 2 sessioni **€599**
 - Trattamento per la caduta dei capelli 4 sessioni **€999**
