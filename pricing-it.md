@@ -21,21 +21,26 @@ Se hai domande o preoccupazioni, non esitare a contattarci! Nota bene: Le visite
 Controllo o ritocco **gratuito** se necessario entro 2 settimane. Se hai preferenze riguardo al prodotto, faccelo sapere prima del tuo appuntamento.
 
 
-- Riempitivo labbra 0,5 ml: **€159**
-- Riempitivo labbra 1,0 ml **€219**
+- Riempitivo labbra 0,5ml: **€159**
+- Riempitivo labbra 1,0ml **€219**
 - Rinoplastica non chirurgica (riempitivo naso) 1,0 ml **€269**
 - Piega nasolabiale (rughe del sorriso) **€169**
-- Riempitivo guance 1 ml **€159**
-- Riempitivo guance 1,5 ml: **€219**
-- Riempitivo guance 2 ml: **€259**
-- Riempitivo mento 0,5 ml: **€119**
-- Riempitivo mento 1 ml: **€189**
-- Riempitivo mento 1,5 ml: **€219**
-- Riempitivo mento 2 ml: **€259**
-- Riempitivo linea mandibolare 1 ml: **€159**
-- Riempitivo linea mandibolare 2 ml: **€259**
-- Riempitivo linea mandibolare 3 ml: **€339**
-- Riempitivo linea mandibolare 4 ml: **€409**
+- Riempitivo guance 1ml **€159**
+- Riempitivo guance 1,5ml: **€219**
+- Riempitivo guance 2ml: **€259**
+- Riempitivo guance 3ml: **€299**
+- Riempitivo guance 4ml: **€359**
+- Riempitivo mento 0,5ml: **€119**
+- Riempitivo mento 1ml: **€189**
+- Riempitivo mento 1,5ml: **€219**
+- Riempitivo mento 2ml: **€259**
+- Riempitivo linea mandibolare 1ml: **€159**
+- Riempitivo linea mandibolare 2ml: **€259**
+- Riempitivo linea mandibolare 3ml: **€299**
+- Riempitivo linea mandibolare 4ml: **€359**
+- Filler alle tempie 0,5ml €179
+- Filler alle tempie 1ml €209
+- Filler alle tempie 2ml €259
 
 ## Tossina botulinica
 Controllo o ritocco **gratuito** se necessario entro 2 settimane.
