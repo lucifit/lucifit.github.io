@@ -38,9 +38,9 @@ Controllo o ritocco **gratuito** se necessario entro 2 settimane. Se hai prefere
 - Riempitivo linea mandibolare 2ml: **€259**
 - Riempitivo linea mandibolare 3ml: **€299**
 - Riempitivo linea mandibolare 4ml: **€359**
-- Filler alle tempie 0,5ml €179
-- Filler alle tempie 1ml €209
-- Filler alle tempie 2ml €259
+- Filler alle tempie 0,5ml **€179**
+- Filler alle tempie 1ml **€209**
+- Filler alle tempie 2ml **€259**
 
 ## Tossina botulinica
 Controllo o ritocco **gratuito** se necessario entro 2 settimane.
