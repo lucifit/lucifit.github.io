@@ -55,7 +55,7 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 
 ## Skin Boosters
 - Skin Booster - Profhilo 2ml: **£269**
-- Booster/Polynucleotides - Rejuran 2 ml: **€369**
+- Booster/Polynucleotides - Rejuran 2 ml: **£369**
 - Skin Booster: **£179**
 - Polynucleotides Face **£219**
 - Polynucleotides Under Eye **£119**
