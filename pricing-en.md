@@ -8,14 +8,14 @@ lang: en
 
 ## Osteopathy - Massage
 If you have any questions or concerns, feel free to reach out! Please note: Home visits and Last minute/emergency bookings may incur a surcharge.
-- Osteopathy Initial Consultation (including case history, physical examination, diagnosis and treatment) 1hr: **£110**
-- Osteopathy Follow Up Treatment 45mins: **£90**
-- Osteopathy Follow Up Treatment 30mins: **£60**
-- Holistic MOT: (Osteopathy & Massage) 90mins: **£120**
-- Holistic MOT (Osteopathy & Massage) 1hr: **£90**
+- Osteopathy Initial Consultation (including case history, physical examination, diagnosis and treatment) 1hr: **£120**
+- Osteopathy Follow Up Treatment 45mins: **£95**
+- Osteopathy Follow Up Treatment 30mins: **£65**
+- Holistic MOT: (Osteopathy & Massage) 90mins: **£130**
+- Holistic MOT (Osteopathy & Massage) 1hr: **£100**
 - Dry Needling Standalone 1hr: **£90**
-- Massage 90 mins: **£110**
-- Massage 1hr: **£90**
+- Massage 90 mins: **£120**
+- Massage 1hr: **£95**
 
 ## Dermal Fillers
 **Free** check-up or top-up if needed after 2 weeks. If you have any preferences regarding product let us know before your appointment.
@@ -24,18 +24,23 @@ If you have any questions or concerns, feel free to reach out! Please note: Home
 - Lip Filler 0,5ml: **£179**
 - Lip Filler 1,0ml **£239**
 - Non Surgical Rhinoplasty (Nose Filler) 1,0ml **£279**
-- Nasolabial Fold (Smile lines) **£169**
-- Cheek Filler 1ml **£159**
+- Nasolabial Fold (Smile lines) **£179**
+- Cheek Filler 1ml **£189**
 - Cheek Filler 1,5ml: **£219**
 - Cheek Filler 2ml: **£259**
-- Chin Filler 0,5ml: **£119**
+- Cheek Filler 3ml: **£339**
+- Cheek Filler 4ml: **£409**
+- Chin Filler 0,5ml: **£149**
 - Chin Filler 1ml: **£189**
 - Chin Filler 1,5ml: **£219**
 - Chin Filler 2ml: **£259**
-- Jaw Line Filler 1ml: **£159**
+- Jaw Line Filler 1ml: **£189**
 - Jaw Line Filler 2ml: **£259**
 - Jaw Line Filler 3ml: **£339**
 - Jaw Line Filler 4ml: **£409**
+- Temple Filler 0,5ml **£179**
+- Temple Filler 1ml **£209**
+- Temple Filler 2ml **£259**
 
 ## Botulinum Toxin
 **Free** check-up or top-up if needed after 2 weeks.
