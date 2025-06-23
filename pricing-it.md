@@ -25,11 +25,11 @@ Controllo o ritocco **gratuito** se necessario entro 2 settimane. Se hai prefere
 - Riempitivo labbra 1,0ml **€219**
 - Rinoplastica non chirurgica (riempitivo naso) 1,0 ml **€269**
 - Piega nasolabiale (rughe del sorriso) **€169**
-- Riempitivo guance 1ml **€159**
-- Riempitivo guance 1,5ml: **€219**
-- Riempitivo guance 2ml: **€259**
-- Riempitivo guance 3ml: **€299**
-- Riempitivo guance 4ml: **€359**
+- Riempitivo zigomi/guance 1ml **€159**
+- Riempitivo zigomi/guance 1,5ml: **€219**
+- Riempitivo zigomi/guance 2ml: **€259**
+- Riempitivo zigomi/guance 3ml: **€299**
+- Riempitivo zigomi/guance 4ml: **€359**
 - Riempitivo mento 0,5ml: **€119**
 - Riempitivo mento 1ml: **€189**
 - Riempitivo mento 1,5ml: **€219**
