@@ -4,7 +4,7 @@ permalink: locations
 lang: it
 ---
 # Località
-Situati in Baker Street, Londra, portiamo la nostra esperienza a te. Scegli tra la nostra clinica ben attrezzata o il comfort della tua casa per il tuo trattamento. Serviamo il centro di Londra e le aree circostanti, rendendo la cura professionale comoda e accessibile ovunque tu preferisca.
+Situati in Marylebone, Londra, portiamo la nostra esperienza a te. Scegli tra la nostra clinica ben attrezzata o il comfort della tua casa per il tuo trattamento. Serviamo il centro di Londra e le aree circostanti, rendendo la cura professionale comoda e accessibile ovunque tu preferisca.
 <br/><br/>
 
 ## Marylebone
