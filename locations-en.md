@@ -4,7 +4,7 @@ permalink: locations
 lang: en
 ---
 # Locations
-Based in Baker Street, London, we bring our expertise to you. Choose between our well-appointed clinic or the comfort of your home for your treatment. We serve Central London and surrounding areas, making professional care convenient and accessible wherever you prefer.
+Based in Marylebone, London, we bring our expertise to you. Choose between our well-appointed clinic or the comfort of your home for your treatment. We serve Central London and surrounding areas, making professional care convenient and accessible wherever you prefer.
 <br/><br/>
 
 ## Marylebone
