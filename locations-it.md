@@ -9,5 +9,5 @@ Situati in Marylebone, Londra, portiamo la nostra esperienza a te. Scegli tra la
 
 ## Marylebone
 [209 Old Marylebone Rd, Marylebone South, London NW1 5QT](https://share.google/y1RRnqYsWq52pvz6I)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9930.113085539127!2d-0.1674397942237294!3d51.52186989081676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b1a4e0af533%3A0xda9f3c8ab58ee71!2sHealth%20And%20Beauty%20Lab%20-%20Baker%20Street!5e0!3m2!1sen!2suk!4v1730830833967!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.67630584257!2d-0.1655201!3d51.5191543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487603df98ef7913%3A0x17c70feff65fb23c!2sHealth%20And%20Beauty%20Lab%20-%20Marylebone!5e0!3m2!1sen!2suk!4v1759164022293!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br/>
