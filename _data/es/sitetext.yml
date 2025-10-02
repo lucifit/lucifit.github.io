@@ -13,7 +13,7 @@ header:
     - title: Precios
       internal-url: /pricing
     - title: Iniciar Sesión
-      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+      url: https://health-and-beauty-lab.book.app/customer/login
   services-menu:
     - title: Elecciones Populares
       internal-url: /#popular-choices
