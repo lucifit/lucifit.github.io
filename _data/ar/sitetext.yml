@@ -14,7 +14,7 @@ header:
     - title: التسعير
       internal-url: /pricing
     - title: تسجيل الدخول
-      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+      url: https://health-and-beauty-lab.book.app/customer/login
   services-menu:
     - title: اختيارات شعبية
       internal-url: /#popular-choices
