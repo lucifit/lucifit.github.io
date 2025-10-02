@@ -14,7 +14,7 @@ header:
     - title: Tarification
       internal-url: /pricing
     - title: Connexion
-      url: https://partner.pabau.com/Health-and-Beauty-Lab/login?online-bookings=true
+      url: https://health-and-beauty-lab.book.app/customer/login
   services-menu: 
     - title: Choix populaires
       internal-url: /#popular-choices
